@@ -1,5 +1,4 @@
 import { setAuthToken } from '../api';
-import { geeklib } from '../index';
 
 export type AdBlockSetting =
     | 'blockleaderboard'
@@ -57,10 +56,8 @@ export type Account = {
     & AccountBling;
 
 export const getAccount = async (): Promise<Account> => {
-    const account = await window.fetch('/api/account/current')
+    const account = await window.fetch('/api/accounts/current')
         .then(response => response.json()) as Account;
     setAuthToken(account.authToken);
     return account;
 };
-
-geeklib.getAccount = getAccount;

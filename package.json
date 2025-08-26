@@ -2,12 +2,13 @@
     "name": "geeklib",
     "version": "1.0.0",
     "description": "",
-    "main": "dist/cjs/index.js",
+    "main": "dist/index.js",
     "module": "dist/esm/index.js",
     "files": [
         "dist"
     ],
     "scripts": {
+        "dev": "npx http-server -o dist",
         "rollup": "rollup -c --bundleConfigAsCjs"
     },
     "keywords": [],
@@ -29,5 +30,10 @@
         "tailwindcss": "^4.1.12",
         "tslib": "^2.8.1",
         "typescript": "^5.9.2"
+    },
+    "dependencies": {
+        "dexie": "^4.2.0",
+        "p-limit": "^7.1.0",
+        "sleep-promise": "^9.1.0"
     }
 }

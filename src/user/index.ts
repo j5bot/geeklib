@@ -1,6 +1,6 @@
-import { geeklib } from '../index';
+import { throttledFetch } from '../limiters';
 
-const userApiBaseUrl = 'https://api.geekdo.com/api/user/';
+const userApiBaseUrl = 'https://boardgamegeek.com/api/users/';
 
 export type UserMicroBadge = {
     slot: number;
@@ -64,8 +64,6 @@ export type User = {
 };
 
 export const getUser = async (id: number): Promise<User> => {
-    return await fetch(`${userApiBaseUrl}${id}`)
+    return await throttledFetch(`${userApiBaseUrl}${id}`)
         .then(response => response.json());
 };
-
-geeklib.getUser = getUser;
