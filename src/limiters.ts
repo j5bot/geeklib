@@ -1,9 +1,9 @@
 import pLimit from 'p-limit';
 import sleep from 'sleep-promise';
 import { authenticatedFetch } from './api';
+import { waitInterval } from './constants';
 
 export const retryLimit = 15;
-export const waitInterval = 300;
 
 export const fetchLimiter = pLimit(1);
 export const limitedFetch = (input: RequestInfo | URL, init?: RequestInit): Promise<Response> => {
