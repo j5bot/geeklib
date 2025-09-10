@@ -27,6 +27,44 @@ export const xmlFetchAndWait = async (
         });
 };
 
+export const getElementAttribute = (
+    element: Element | null,
+    number?: boolean,
+    attribute?: string
+) =>
+    (
+        element && attribute
+    ) ?
+    number ?
+    parseInt(element.getAttribute(attribute) ?? 'undefined', 10) :
+    element.getAttribute(attribute) ?? undefined :
+    undefined;
+
+export const getElementInnerHTML = (
+    element: Element | null,
+    number?: boolean
+) =>
+    element ?
+    number ?
+    parseInt(element.innerHTML ?? 'undefined', 10) :
+    element.innerHTML :
+    undefined;
+
+export const elementGetter = (
+    element: Element | null,
+    number?: boolean,
+    selector?: string,
+    attribute?: string,
+    defaultValue?: string | number,
+)  => {
+    const resolvedElement = selector ? element?.querySelector(selector) ?? null : element;
+    return resolvedElement ? attribute ?
+                             getElementAttribute(resolvedElement, number, attribute) :
+                             getElementAttribute(resolvedElement, number, 'value') ??
+                             getElementInnerHTML(resolvedElement, number) :
+           defaultValue;
+};
+
 const parser = new window.DOMParser();
 export const getPageDOM = (domStr: string, xml = false) => {
     if (xml) {

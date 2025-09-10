@@ -1,0 +1,319 @@
+{
+    "item": {
+        "itemid": 4008710,
+        "objecttype": "thing",
+        "objectid": 450126,
+        "label": "Board Game",
+        "labelpl": "Board Games",
+        "shortlabel": "Game",
+        "shortlabelpl": "Games",
+        "type": "things",
+        "id": "450126",
+        "href": "/boardgameexpansion/450126/ark-nova-3dition",
+        "canonical_link": "https://boardgamegeek.com/boardgame/450126/ark-nova-3dition",
+        "subtype": "boardgameexpansion",
+        "subtypes": [
+            "boardgame",
+            "boardgameexpansion",
+            "boardgamecompilation"
+        ],
+        "versioninfo": {
+            "gamepageorderurl": null,
+            "shopifyitem": null
+        },
+        "name": "Ark Nova: 3Dition",
+        "alternatename": null,
+        "yearpublished": "2026",
+        "minplayers": "1",
+        "maxplayers": "4",
+        "minplaytime": "90",
+        "maxplaytime": "150",
+        "minage": "14",
+        "override_rankable": 0,
+        "reviews_restricted": 0,
+        "targetco_url": "",
+        "walmart_id": null,
+        "instructional_videoid": null,
+        "summary_videoid": null,
+        "playthrough_videoid": null,
+        "focus_videoid": null,
+        "howtoplay_videoid": null,
+        "bggstore_product": null,
+        "short_description": "Create a 3D version of Ark Nova with 3D buildings and acrylic tiles replacements.",
+        "links": {
+            "boardgamedesigner": [
+                {
+                    "name": "Mathias Wigge",
+                    "sortindex": "9",
+                    "objecttype": "person",
+                    "objectid": "138517",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgamedesigner/138517/mathias-wigge",
+                    "canonical_link": "https://boardgamegeek.com/boardgamedesigner/138517/mathias-wigge"
+                }
+            ],
+            "boardgamesolodesigner": [],
+            "boardgameartist": [],
+            "boardgamepublisher": [
+                {
+                    "name": "Kekpop Spiele",
+                    "sortindex": "1",
+                    "objecttype": "company",
+                    "objectid": "60068",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgamepublisher/60068/kekpop-spiele",
+                    "canonical_link": "https://boardgamegeek.com/boardgamepublisher/60068/kekpop-spiele"
+                }
+            ],
+            "boardgamedeveloper": [
+                {
+                    "name": "Mathias Wigge",
+                    "sortindex": "9",
+                    "objecttype": "person",
+                    "objectid": "138517",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgamedeveloper/138517/mathias-wigge",
+                    "canonical_link": "https://boardgamegeek.com/boardgamedesigner/138517/mathias-wigge"
+                }
+            ],
+            "boardgamegraphicdesigner": [],
+            "boardgamesculptor": [],
+            "boardgameeditor": [],
+            "boardgamewriter": [],
+            "boardgameinsertdesigner": [],
+            "boardgamehonor": [],
+            "boardgamecategory": [
+                {
+                    "name": "Expansion for Base-game",
+                    "sortindex": "1",
+                    "objecttype": "property",
+                    "objectid": "1042",
+                    "primarylink": 1,
+                    "itemstate": "approved",
+                    "href": "/boardgamecategory/1042/expansion-for-base-game",
+                    "canonical_link": "https://boardgamegeek.com/boardgamecategory/1042/expansion-for-base-game"
+                },
+                {
+                    "name": "Animals",
+                    "sortindex": "1",
+                    "objecttype": "property",
+                    "objectid": "1089",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgamecategory/1089/animals",
+                    "canonical_link": "https://boardgamegeek.com/boardgamecategory/1089/animals"
+                },
+                {
+                    "name": "Educational",
+                    "sortindex": "1",
+                    "objecttype": "property",
+                    "objectid": "1094",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgamecategory/1094/educational",
+                    "canonical_link": "https://boardgamegeek.com/boardgamecategory/1094/educational"
+                }
+            ],
+            "boardgamemechanic": [
+                {
+                    "name": "Contracts",
+                    "sortindex": "1",
+                    "objecttype": "property",
+                    "objectid": "2912",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgamemechanic/2912/contracts",
+                    "canonical_link": "https://boardgamegeek.com/boardgamemechanic/2912/contracts"
+                },
+                {
+                    "name": "End Game Bonuses",
+                    "sortindex": "1",
+                    "objecttype": "property",
+                    "objectid": "2875",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgamemechanic/2875/end-game-bonuses",
+                    "canonical_link": "https://boardgamegeek.com/boardgamemechanic/2875/end-game-bonuses"
+                },
+                {
+                    "name": "Track Movement",
+                    "sortindex": "1",
+                    "objecttype": "property",
+                    "objectid": "2939",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgamemechanic/2939/track-movement",
+                    "canonical_link": "https://boardgamegeek.com/boardgamemechanic/2939/track-movement"
+                }
+            ],
+            "boardgameexpansion": [],
+            "boardgameversion": [
+                {
+                    "name": "English edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "765341",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/765341/english-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/765341/english-edition"
+                }
+            ],
+            "expandsboardgame": [
+                {
+                    "name": "Ark Nova",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "342942",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/342942/ark-nova",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/342942/ark-nova"
+                },
+                {
+                    "name": "Ark Nova: Marine Worlds",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "368966",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/368966/ark-nova-marine-worlds",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/368966/ark-nova-marine-worlds"
+                }
+            ],
+            "boardgameintegration": [],
+            "contains": [
+                {
+                    "name": "Ark Nova: 3D Colored Arcade Promo Building & Card",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "452698",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/452698/ark-nova-3d-colored-arcade-promo-building-and-card",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/452698/ark-nova-3d-colored-arcade-promo-building-and-card"
+                },
+                {
+                    "name": "Ark Nova: Board Game Arena Maps",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "452699",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/452699/ark-nova-board-game-arena-maps",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/452699/ark-nova-board-game-arena-maps"
+                }
+            ],
+            "containedin": [],
+            "reimplementation": [],
+            "reimplements": [],
+            "boardgamefamily": [
+                {
+                    "name": "Components: 3-Dimensional (3D)",
+                    "sortindex": "1",
+                    "objecttype": "family",
+                    "objectid": "5607",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgamefamily/5607/components-3-dimensional-3d",
+                    "canonical_link": "https://boardgamegeek.com/boardgamefamily/5607/components-3-dimensional-3d"
+                },
+                {
+                    "name": "Crowdfunding: Gamefound",
+                    "sortindex": "1",
+                    "objecttype": "family",
+                    "objectid": "66292",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgamefamily/66292/crowdfunding-gamefound",
+                    "canonical_link": "https://boardgamegeek.com/boardgamefamily/66292/crowdfunding-gamefound"
+                },
+                {
+                    "name": "Game: Ark Nova",
+                    "sortindex": "1",
+                    "objecttype": "family",
+                    "objectid": "76649",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgamefamily/76649/game-ark-nova",
+                    "canonical_link": "https://boardgamegeek.com/boardgamefamily/76649/game-ark-nova"
+                }
+            ],
+            "videogamebg": [],
+            "boardgamesubdomain": [],
+            "boardgameaccessory": [],
+            "cardset": []
+        },
+        "linkcounts": {
+            "boardgamedesigner": 1,
+            "boardgamesolodesigner": 0,
+            "boardgameartist": 0,
+            "boardgamepublisher": 1,
+            "boardgamedeveloper": 1,
+            "boardgamegraphicdesigner": 0,
+            "boardgamesculptor": 0,
+            "boardgameeditor": 0,
+            "boardgamewriter": 0,
+            "boardgameinsertdesigner": 0,
+            "boardgamehonor": 0,
+            "boardgamecategory": 3,
+            "boardgamemechanic": 3,
+            "boardgameexpansion": 0,
+            "boardgameversion": 1,
+            "expandsboardgame": 2,
+            "boardgameintegration": 0,
+            "contains": 2,
+            "containedin": 0,
+            "reimplementation": 0,
+            "reimplements": 0,
+            "boardgamefamily": 3,
+            "videogamebg": 0,
+            "boardgamesubdomain": 0,
+            "boardgameaccessory": 0,
+            "cardset": 0
+        },
+        "secondarynamescount": 0,
+        "alternatenamescount": 0,
+        "primaryname": {
+            "nameid": "2634527",
+            "name": "Ark Nova: 3Dition",
+            "sortindex": "1",
+            "primaryname": "1",
+            "translit": "Ark Nova: 3Dition"
+        },
+        "alternatenames": [],
+        "description": "<p><em><strong>Ark Nova: 3Dition</strong></em> is an official big box accessory expansion for <em>Ark Nova</em> that allows you to replace the cardboard tiles and buildings with 3D plastic components. This set includes:</p>\n\n<ul>\n    <li>240 colored 3D building pieces</li>\n    <li>71 acrylic tokens</li>\n    <li>82 metal coins including x-tokens</li>\n    <li>4 deluxe slide-in player boards</li>\n    <li>40 action-card tiles</li>\n    <li>2 big boxes to store everything including the <em>Ark Nova</em> base game and the <em>Marine Worlds</em> expansion components</li>\n</ul>\n\n<p>In terms of new game material, <em>Ark Nova: 3Dition</em> contains printed versions of the altered mapboards originally playable only on Board Game Arena, as well as a physical version of the &quot;Arcade&quot; building card, along with a 3D building tile.</p>\n\n",
+        "wiki": "<span class='text-muted'>This page does not exist. You can edit this page to create it.</span>",
+        "website": {
+            "url": false
+        },
+        "imageid": "9085544",
+        "images": {
+            "thumb": "https://cf.geekdo-images.com/dLpYRUF25zXJmF27bZFOow__small/img/a0X9QWLRM8-eWRvKOQ5fkNUZfsM=/fit-in/200x150/filters:strip_icc()/pic9085544.png",
+            "micro": "https://cf.geekdo-images.com/dLpYRUF25zXJmF27bZFOow__micro/img/qRQBnGlGVm0L3hw8coInWY5AVUc=/fit-in/64x64/filters:strip_icc()/pic9085544.png",
+            "square": "https://cf.geekdo-images.com/dLpYRUF25zXJmF27bZFOow__square/img/eZR6JmdeXSq2jQno3Fx7DIUHqpI=/75x75/filters:strip_icc()/pic9085544.png",
+            "tallthumb": "https://cf.geekdo-images.com/dLpYRUF25zXJmF27bZFOow__tallthumb/img/cKoP3wtSwWk0w9HZVvOqgu5UUzA=/fit-in/75x125/filters:strip_icc()/pic9085544.png",
+            "previewthumb": "https://cf.geekdo-images.com/dLpYRUF25zXJmF27bZFOow__previewthumb/img/0LAz4-luegYAin13AkYZ68wjlb8=/fit-in/300x320/filters:strip_icc()/pic9085544.png",
+            "square200": "https://cf.geekdo-images.com/dLpYRUF25zXJmF27bZFOow__square200/img/Fs97aJyr_61OoWfyNq4JOcBCHY0=/200x200/filters:strip_icc()/pic9085544.png",
+            "original": "https://cf.geekdo-images.com/dLpYRUF25zXJmF27bZFOow__original/img/n9kP3Hd_gA1KNiJdZMwRacex5w8=/0x0/filters:format(png)/pic9085544.png"
+        },
+        "imagepagehref": "/image/9085544/ark-nova-3dition",
+        "imageurl": "https://cf.geekdo-images.com/dLpYRUF25zXJmF27bZFOow__itemrep/img/vdbnL5yFf6nf8GrZ_9yq1ReGLOg=/fit-in/246x300/filters:strip_icc()/pic9085544.png",
+        "imageurl@2x": "https://cf.geekdo-images.com/dLpYRUF25zXJmF27bZFOow__itemrep@2x/img/1QAtlNTkltfwqwdGHHNbQieaFHM=/fit-in/492x600/filters:strip_icc()/pic9085544.png",
+        "imageSets": {
+            "square100": {
+                "src": "https://cf.geekdo-images.com/dLpYRUF25zXJmF27bZFOow__square100/img/zDTjmOW0IYFI_iWo6sDAgKL65yI=/0x283:1280x1563/100x100/filters:strip_icc()/pic9085544.png",
+                "src@2x": "https://cf.geekdo-images.com/dLpYRUF25zXJmF27bZFOow__square100@2x/img/5-TN6dJKRRJ-YH_GOdMiZMnlJ2U=/0x283:1280x1563/200x200/filters:strip_icc()/pic9085544.png"
+            },
+            "mediacard": {
+                "src": "https://cf.geekdo-images.com/dLpYRUF25zXJmF27bZFOow__mediacard/img/5sD0w0nQIKjL5fChNhURVK0_PHg=/0x843:1280x1563/288x162/filters:strip_icc()/pic9085544.png",
+                "src@2x": "https://cf.geekdo-images.com/dLpYRUF25zXJmF27bZFOow__mediacard@2x/img/eY31-pdmkRZP20h1SIKAarm7PKQ=/0x843:1280x1563/576x324/filters:strip_icc()/pic9085544.png"
+            }
+        },
+        "itemstate": "approved",
+        "promoted_ad": null
+    }
+}

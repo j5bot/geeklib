@@ -1,0 +1,647 @@
+{
+    "items": [
+        {
+            "yearpublished": "2025",
+            "linkednameid": "2400220",
+            "productcode": "SLVF",
+            "length": "7",
+            "width": "5.25",
+            "depth": "3.5",
+            "weight": "1",
+            "releasedate": "2025-03-00",
+            "releasestatus": "released",
+            "overridedate": "",
+            "name": "Silver Fang (English edition)",
+            "postdate": "2023-12-01 03:36:01",
+            "linkid": "17329648",
+            "linktype": "boardgameversion",
+            "objecttype": "version",
+            "objectid": "691785",
+            "itemstate": "approved",
+            "rep_imageid": "7893216",
+            "linkedname": "Silver Fang",
+            "subtype": "boardgameversion",
+            "links": {
+                "boardgamepublisher": [
+                    {
+                        "name": "Bézier Games",
+                        "sortindex": "1",
+                        "linkid": "17329649",
+                        "linktype": "boardgamepublisher",
+                        "gltstamp": "2023-12-01 03:36:01",
+                        "objecttype": "company",
+                        "objectid": "5774",
+                        "primarylink": 0,
+                        "itemstate": "approved",
+                        "direction": "src",
+                        "href": "/boardgamepublisher/5774/bezier-games",
+                        "canonical_link": "https://boardgamegeek.com/boardgamepublisher/5774/bezier-games"
+                    }
+                ],
+                "boardgameartist": [
+                    {
+                        "name": "Andrey Gordeev",
+                        "sortindex": "8",
+                        "linkid": "17329650",
+                        "linktype": "boardgameartist",
+                        "gltstamp": "2023-12-01 03:36:01",
+                        "objecttype": "person",
+                        "objectid": "118214",
+                        "primarylink": 0,
+                        "itemstate": "approved",
+                        "direction": "src",
+                        "href": "/boardgameartist/118214/andrey-gordeev",
+                        "canonical_link": "https://boardgamegeek.com/boardgameartist/118214/andrey-gordeev"
+                    }
+                ],
+                "languages": [
+                    {
+                        "name": "English",
+                        "sortindex": "1",
+                        "linkid": "17329651",
+                        "linktype": "language",
+                        "gltstamp": "2023-12-01 03:36:01",
+                        "objecttype": "property",
+                        "objectid": "2184",
+                        "primarylink": 0,
+                        "itemstate": "approved",
+                        "direction": "src",
+                        "href": "/language/2184/english",
+                        "canonical_link": "https://boardgamegeek.com/language/2184/english"
+                    }
+                ]
+            },
+            "href": "/boardgameversion/691785/english-edition",
+            "versionname": "English edition",
+            "images": {
+                "thumb": "https://cf.geekdo-images.com/VFNUs4ZFpt7cF106wUkM9g__small/img/LZY_XDed8Zl5ocCVPqnSvxstpLg=/fit-in/200x150/filters:strip_icc()/pic7893216.png",
+                "micro": "https://cf.geekdo-images.com/VFNUs4ZFpt7cF106wUkM9g__micro/img/496sOeNbrkS4cYHQhvrK0-LbhHE=/fit-in/64x64/filters:strip_icc()/pic7893216.png",
+                "square": "https://cf.geekdo-images.com/VFNUs4ZFpt7cF106wUkM9g__square/img/415YADKqi509Fgpo-wtIqckjHiw=/75x75/filters:strip_icc()/pic7893216.png",
+                "tallthumb": "https://cf.geekdo-images.com/VFNUs4ZFpt7cF106wUkM9g__tallthumb/img/tuP1VHvDYc2rufp-3Bi5K90T5WQ=/fit-in/75x125/filters:strip_icc()/pic7893216.png",
+                "previewthumb": "https://cf.geekdo-images.com/VFNUs4ZFpt7cF106wUkM9g__previewthumb/img/35Z5bIZ7kVmdfgltJRVVZ7k3e30=/fit-in/300x320/filters:strip_icc()/pic7893216.png",
+                "square200": "https://cf.geekdo-images.com/VFNUs4ZFpt7cF106wUkM9g__square200/img/NGHK9TwmDixUuhMuYwr4b1kk_vw=/200x200/filters:strip_icc()/pic7893216.png",
+                "original": "https://cf.geekdo-images.com/VFNUs4ZFpt7cF106wUkM9g__original/img/COKH5j1TfH8Jfs-hpM5qHG3CkUY=/0x0/filters:format(png)/pic7893216.png"
+            }
+        }
+    ],
+    "itemdata": [
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "thing",
+            "other_subtype": "boardgame",
+            "linktype": "boardgameversion",
+            "self_prefix": "dst",
+            "title": "Board Game",
+            "hidecontrols": true,
+            "keyname": "boardgame"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "linkednameid",
+            "title": "Name",
+            "required": true,
+            "requireint": true,
+            "requiredalt": {
+                "newname": "New name"
+            },
+            "subtype": "boardgameversion",
+            "keyname": "linkednameid"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "name",
+            "title": "Version Nickname",
+            "primaryname": true,
+            "required": true,
+            "unclickable": true,
+            "fullcredits": true,
+            "shorttitle": "Nick",
+            "correctioncomment": "A version nickname should identify and describe a version (e.g. French edition, [publisher] edition, English first edition, German Print & Play edition). It is not a tag line. See the <a target=\"_blank\" href=\"/wiki/page/Versions_Guidelines#Nickname\">guidelines</a> for version name conventions.",
+            "subtype": "boardgameversion",
+            "keyname": "name"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "alternatename",
+            "title": "Alternate Nickname",
+            "alternate": true,
+            "unclickable": true,
+            "fullcredits": true,
+            "subtype": "boardgameversion",
+            "keyname": "alternatename"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "company",
+            "other_subtype": "boardgamepublisher",
+            "linktype": "boardgamepublisher",
+            "self_prefix": "src",
+            "title": "Version Publisher",
+            "shorttitle": "Publisher",
+            "showsearch": true,
+            "required": true,
+            "addtoparent": true,
+            "keyname": "boardgamepublisher"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "person",
+            "other_subtype": "boardgameartist",
+            "linktype": "boardgameartist",
+            "self_prefix": "src",
+            "title": "Version Artist",
+            "shorttitle": "Artist",
+            "addtoparent": true,
+            "showsearch": true,
+            "keyname": "boardgameartist"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "yearpublished",
+            "title": "Year Released",
+            "shorttitle": "Year",
+            "required": true,
+            "overridefield": "noyear",
+            "requiredoverride": "No year available",
+            "createnote": "(for version)",
+            "subtype": "boardgameversion",
+            "keyname": "yearpublished"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "productcode",
+            "title": "Product Code",
+            "shorttitle": "Product Code",
+            "subtype": "boardgameversion",
+            "keyname": "productcode"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "dimensions",
+            "title": "Dimensions",
+            "shorttitle": "Size",
+            "savefields": [
+                "length",
+                "width",
+                "depth"
+            ],
+            "required": true,
+            "unittype": "length",
+            "editwidth": "600",
+            "overridefield": "nodimensions",
+            "requiredalt": {
+                "length": "Length",
+                "width": "Width",
+                "depth": "Depth"
+            },
+            "requiredoverride": "N/A",
+            "displaytype": "dimensions",
+            "options": [
+                {
+                    "value": "medsquare",
+                    "title": "Medium Square (e.g. Ticket to Ride)",
+                    "length": "11.7",
+                    "width": "11.7",
+                    "depth": "2.8"
+                },
+                {
+                    "value": "longrect",
+                    "title": "Long Rectangle (e.g. Power Grid)",
+                    "length": "14.6",
+                    "width": "10.7",
+                    "depth": "2.2"
+                },
+                {
+                    "value": "medrect",
+                    "title": "Medium Rectangle (e.g. Agricola)",
+                    "length": "12.4",
+                    "width": "8.9",
+                    "depth": "2.2"
+                },
+                {
+                    "value": "ah",
+                    "title": "Avalon Hill Bookcase",
+                    "length": "11.5",
+                    "width": "8.4",
+                    "depth": "2.1"
+                },
+                {
+                    "value": "kosmos2",
+                    "title": "Square 2-player (e.g. Lost Cities)",
+                    "length": "7.8",
+                    "width": "7.8",
+                    "depth": "1.25"
+                },
+                {
+                    "value": "card",
+                    "title": "2-deck card box (e.g. Coloretto)",
+                    "length": "4.7",
+                    "width": "3.7",
+                    "depth": "0.8"
+                },
+                {
+                    "value": "gmt",
+                    "title": "GMT standard box",
+                    "length": "12.2",
+                    "width": "9.2",
+                    "depth": "2.1"
+                }
+            ],
+            "subtype": "boardgameversion",
+            "keyname": "dimensions"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "weight",
+            "title": "Weight",
+            "unittype": "weight",
+            "displaytype": "weight",
+            "string_format": "%0.2f",
+            "posttext": " pounds",
+            "subtype": "boardgameversion",
+            "keyname": "weight"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "length",
+            "title": "Length",
+            "unittype": "length",
+            "posttext": " inches",
+            "subtype": "boardgameversion",
+            "keyname": "length"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "width",
+            "title": "Width",
+            "unittype": "length",
+            "posttext": " inches",
+            "subtype": "boardgameversion",
+            "keyname": "width"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "depth",
+            "title": "Depth",
+            "unittype": "length",
+            "posttext": " inches",
+            "subtype": "boardgameversion",
+            "keyname": "depth"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "property",
+            "other_subtype": "language",
+            "lookup_subtype": "language",
+            "linktype": "language",
+            "self_prefix": "src",
+            "nameonly": true,
+            "required": true,
+            "title": "Languages",
+            "showall_ctrl": true,
+            "keyname": "languages"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "releasedate",
+            "title": "Release Date",
+            "shorttitle": "Release Date",
+            "date": true,
+            "dateprefix": "releasedateprefix",
+            "savefields": [
+                "releasedate",
+                "releasetstamp",
+                "overridedate"
+            ],
+            "correctioncomment": "Format: YYYY-MM-DD, e.g., \"2010-01-30\". Use \"00\" if you don't know month or day. This is the same Delivery date as in your crowdfunding campaign. Changing this will delete any override date.",
+            "adminaccess": [
+                "releasemgr",
+                "itemmgr"
+            ],
+            "createposttext": "Use custom date ONLY if you need a custom Delivery date, e.g., \"Q3 2010\" or \"Jan/Feb 2010\". Do not use seasons (Fall, etc.). This will override the regular release date.",
+            "subtype": "boardgameversion",
+            "keyname": "releasedate"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "overridedate",
+            "title": "Override Date",
+            "shorttitle": "Override Date",
+            "correctioncomment": "Use Override Date ONLY if you need a custom Delivery date, e.g., \"Q3 2010\" or \"Jan/Feb 2010\". Do not use seasons (Fall, etc.). This will override the regular release date.",
+            "adminaccess": [
+                "releasemgr",
+                "itemmgr"
+            ],
+            "subtype": "boardgameversion",
+            "keyname": "overridedate"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "releasecomment",
+            "title": "Release Comment",
+            "shorttitle": "Release Comment",
+            "textarea": {
+                "style": "width:50%; height:100px;"
+            },
+            "editwidth": "600",
+            "createnote": "Please keep release comments to a minimum.",
+            "correctioncomment": "Please keep release comments to a minimum.",
+            "savefields": [
+                "releasecomment",
+                "releasetstamp"
+            ],
+            "adminaccess": [
+                "releasemgr",
+                "itemmgr"
+            ],
+            "subtype": "boardgameversion",
+            "keyname": "releasecomment"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "releasestatus",
+            "savefields": [
+                "releasestatus",
+                "releasetstamp"
+            ],
+            "title": "Release Status",
+            "adminaccess": [
+                "releasemgr",
+                "itemmgr"
+            ],
+            "nullable": true,
+            "options": [
+                {
+                    "value": "unreleased",
+                    "title": "Unreleased"
+                },
+                {
+                    "value": "released",
+                    "title": "Released"
+                }
+            ],
+            "subtype": "boardgameversion",
+            "keyname": "releasestatus"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "ordertype",
+            "altfieldname": "overrideordertype",
+            "savefields": [
+                "ordertype",
+                "overrideordertype"
+            ],
+            "title": "Pre-order Type",
+            "adminaccess": [
+                "releasemgr",
+                "itemmgr"
+            ],
+            "nullable": true,
+            "options": [
+                {
+                    "value": "kickstarter",
+                    "title": "Kickstarter"
+                },
+                {
+                    "value": "gamefound",
+                    "title": "Gamefound"
+                },
+                {
+                    "value": "backerkit",
+                    "title": "BackerKit"
+                },
+                {
+                    "value": "hasbropulse",
+                    "title": "Hasbro Pulse"
+                },
+                {
+                    "value": "indiegogo",
+                    "title": "Indiegogo"
+                },
+                {
+                    "value": "ulule",
+                    "title": "Ulule"
+                },
+                {
+                    "value": "publisher",
+                    "title": "Publisher"
+                },
+                {
+                    "value": "other",
+                    "title": "Other"
+                }
+            ],
+            "invlinks": true,
+            "subtype": "boardgameversion",
+            "keyname": "ordertype"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "orderurl",
+            "title": "Pre-order URL",
+            "shorttitle": "Pre-order URL",
+            "createnote": "A link to the pre-order (e.g. Kickstarter) page. Do NOT use the short (kck.st, etc) link.",
+            "adminaccess": [
+                "releasemgr",
+                "itemmgr"
+            ],
+            "correctioncomment": "A link to the pre-order (e.g. Kickstarter) page. Do NOT use the short (kck.st, etc) link.",
+            "invlinks": true,
+            "subtype": "boardgameversion",
+            "keyname": "orderurl"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "orderstartdate",
+            "title": "Pre-order Start Date",
+            "shorttitle": "Pre-order Start Date",
+            "date": true,
+            "dateprefix": "orderstardateprefix",
+            "adminaccess": [
+                "releasemgr",
+                "itemmgr"
+            ],
+            "invlinks": true,
+            "subtype": "boardgameversion",
+            "keyname": "orderstartdate"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "orderenddate",
+            "title": "Pre-order End Date",
+            "shorttitle": "Pre-order End Date",
+            "date": true,
+            "dateprefix": "orderenddateprefix",
+            "adminaccess": [
+                "releasemgr",
+                "itemmgr"
+            ],
+            "invlinks": true,
+            "subtype": "boardgameversion",
+            "keyname": "orderenddate"
+        }
+    ],
+    "linkdata": [
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "company",
+            "other_subtype": "boardgamepublisher",
+            "linktype": "boardgamepublisher",
+            "self_prefix": "src",
+            "title": "Version Publisher",
+            "shorttitle": "Publisher",
+            "showsearch": true,
+            "required": true,
+            "addtoparent": true,
+            "keyname": "boardgamepublisher"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "person",
+            "other_subtype": "boardgameartist",
+            "linktype": "boardgameartist",
+            "self_prefix": "src",
+            "title": "Version Artist",
+            "shorttitle": "Artist",
+            "addtoparent": true,
+            "showsearch": true,
+            "keyname": "boardgameartist"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "property",
+            "other_subtype": "language",
+            "lookup_subtype": "language",
+            "linktype": "language",
+            "self_prefix": "src",
+            "nameonly": true,
+            "required": true,
+            "title": "Languages",
+            "showall_ctrl": true,
+            "keyname": "languages"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "productcode",
+            "title": "Product Code",
+            "shorttitle": "Product Code",
+            "subtype": "boardgameversion",
+            "keyname": "productcode"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "dimensions",
+            "title": "Dimensions",
+            "shorttitle": "Size",
+            "savefields": [
+                "length",
+                "width",
+                "depth"
+            ],
+            "required": true,
+            "unittype": "length",
+            "editwidth": "600",
+            "overridefield": "nodimensions",
+            "requiredalt": {
+                "length": "Length",
+                "width": "Width",
+                "depth": "Depth"
+            },
+            "requiredoverride": "N/A",
+            "displaytype": "dimensions",
+            "options": [
+                {
+                    "value": "medsquare",
+                    "title": "Medium Square (e.g. Ticket to Ride)",
+                    "length": "11.7",
+                    "width": "11.7",
+                    "depth": "2.8"
+                },
+                {
+                    "value": "longrect",
+                    "title": "Long Rectangle (e.g. Power Grid)",
+                    "length": "14.6",
+                    "width": "10.7",
+                    "depth": "2.2"
+                },
+                {
+                    "value": "medrect",
+                    "title": "Medium Rectangle (e.g. Agricola)",
+                    "length": "12.4",
+                    "width": "8.9",
+                    "depth": "2.2"
+                },
+                {
+                    "value": "ah",
+                    "title": "Avalon Hill Bookcase",
+                    "length": "11.5",
+                    "width": "8.4",
+                    "depth": "2.1"
+                },
+                {
+                    "value": "kosmos2",
+                    "title": "Square 2-player (e.g. Lost Cities)",
+                    "length": "7.8",
+                    "width": "7.8",
+                    "depth": "1.25"
+                },
+                {
+                    "value": "card",
+                    "title": "2-deck card box (e.g. Coloretto)",
+                    "length": "4.7",
+                    "width": "3.7",
+                    "depth": "0.8"
+                },
+                {
+                    "value": "gmt",
+                    "title": "GMT standard box",
+                    "length": "12.2",
+                    "width": "9.2",
+                    "depth": "2.1"
+                }
+            ],
+            "subtype": "boardgameversion",
+            "keyname": "dimensions"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "weight",
+            "title": "Weight",
+            "unittype": "weight",
+            "displaytype": "weight",
+            "string_format": "%0.2f",
+            "posttext": " pounds",
+            "subtype": "boardgameversion",
+            "keyname": "weight"
+        }
+    ],
+    "config": {
+        "numitems": 1,
+        "sortdata": [
+            {
+                "title": "Nickname",
+                "key": "name"
+            },
+            {
+                "title": "Name",
+                "key": "linkedname"
+            },
+            {
+                "title": "Year Released",
+                "key": "yearpublished"
+            }
+        ],
+        "filters": [
+            {
+                "key": "language",
+                "options": [
+                    {
+                        "objectid": "2184",
+                        "name": "English"
+                    }
+                ],
+                "title": "Language"
+            }
+        ]
+    }
+}

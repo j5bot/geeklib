@@ -1,0 +1,670 @@
+{
+    "items": [
+        {
+            "usersrated": "51",
+            "average": "7.57941",
+            "avgweight": "2.5",
+            "numowned": "163",
+            "numprevowned": "29",
+            "numtrading": "4",
+            "numwanting": "9",
+            "numwish": "21",
+            "numcomments": "12",
+            "yearpublished": "2019",
+            "rank": "0",
+            "name": "Wreck Raiders: Kickstarter Edition",
+            "postdate": "2019-04-21 00:56:09",
+            "linkid": "10085009",
+            "linktype": "boardgamecompilation",
+            "objecttype": "thing",
+            "objectid": "278398",
+            "itemstate": "approved",
+            "rep_imageid": "4695718",
+            "subtype": "boardgame",
+            "links": [],
+            "href": "/boardgame/278398/wreck-raiders-kickstarter-edition",
+            "images": {
+                "thumb": "https://cf.geekdo-images.com/Amilky5J_BTGPbEd7WKaew__small/img/OiWL2xR0XnlrYogkgfV1iYJLBjw=/fit-in/200x150/filters:strip_icc()/pic4695718.jpg",
+                "micro": "https://cf.geekdo-images.com/Amilky5J_BTGPbEd7WKaew__micro/img/MfLN4o95WgNxtDNKq4BIfK3V_B8=/fit-in/64x64/filters:strip_icc()/pic4695718.jpg",
+                "square": "https://cf.geekdo-images.com/Amilky5J_BTGPbEd7WKaew__square/img/VgGxAFx3nPEOIwWwtUGWOGl3eDc=/75x75/filters:strip_icc()/pic4695718.jpg",
+                "tallthumb": "https://cf.geekdo-images.com/Amilky5J_BTGPbEd7WKaew__tallthumb/img/IhjN4dTL49RQvwdmtzV-AUdbubk=/fit-in/75x125/filters:strip_icc()/pic4695718.jpg",
+                "previewthumb": "https://cf.geekdo-images.com/Amilky5J_BTGPbEd7WKaew__previewthumb/img/U6akR5He0_x5nNqbRI2RwPy_Mo4=/fit-in/300x320/filters:strip_icc()/pic4695718.jpg",
+                "square200": "https://cf.geekdo-images.com/Amilky5J_BTGPbEd7WKaew__square200/img/je70Z4OIuBF5Zas-S8HhodVHv-A=/200x200/filters:strip_icc()/pic4695718.jpg",
+                "original": "https://cf.geekdo-images.com/Amilky5J_BTGPbEd7WKaew__original/img/DJnZ2KFfLoV3VQpzfCIzzdaPBLc=/0x0/filters:format(jpeg)/pic4695718.jpg"
+            }
+        }
+    ],
+    "itemdata": [
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "name",
+            "title": "Primary Name",
+            "primaryname": true,
+            "required": true,
+            "unclickable": true,
+            "fullcredits": true,
+            "subtype": "boardgame",
+            "keyname": "name"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "alternatename",
+            "title": "Alternate Names",
+            "alternate": true,
+            "unclickable": true,
+            "fullcredits": true,
+            "subtype": "boardgame",
+            "keyname": "alternatename"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "yearpublished",
+            "title": "Year Released",
+            "fullcredits": true,
+            "subtype": "boardgame",
+            "keyname": "yearpublished"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "minplayers",
+            "title": "Minimum Players",
+            "subtype": "boardgame",
+            "keyname": "minplayers"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "maxplayers",
+            "title": "Maximum Players",
+            "subtype": "boardgame",
+            "keyname": "maxplayers"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "minplaytime",
+            "title": "Minimum Playing Time",
+            "createposttext": " minutes",
+            "posttext": " minutes",
+            "subtype": "boardgame",
+            "keyname": "minplaytime"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "maxplaytime",
+            "title": "Maximum Playing Time",
+            "createposttext": " minutes",
+            "posttext": " minutes",
+            "subtype": "boardgame",
+            "keyname": "maxplaytime"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "minage",
+            "title": "Mfg Suggested Ages",
+            "createtitle": "Minimum Age",
+            "posttext": " and up",
+            "subtype": "boardgame",
+            "keyname": "minage"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "override_rankable",
+            "title": "Override Rankable",
+            "table": "geekitem_items",
+            "options": [
+                {
+                    "value": 1,
+                    "title": "yes"
+                },
+                {
+                    "value": 0,
+                    "title": "no"
+                }
+            ],
+            "adminonly": true,
+            "subtype": "boardgame",
+            "keyname": "override_rankable"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "reviews_restricted",
+            "title": "Reviews Restricted",
+            "table": "geekitem_items",
+            "options": [
+                {
+                    "value": 1,
+                    "title": "yes"
+                },
+                {
+                    "value": 0,
+                    "title": "no"
+                }
+            ],
+            "adminonly": true,
+            "subtype": "boardgame",
+            "keyname": "reviews_restricted"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "targetco_url",
+            "unclickable": true,
+            "title": "Target Co Order Link",
+            "subtype": "boardgame",
+            "keyname": "targetco_url"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "walmart_id",
+            "unclickable": true,
+            "title": "Walmart Item Id",
+            "nullable": true,
+            "subtype": "boardgame",
+            "keyname": "walmart_id"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "instructional_videoid",
+            "unclickable": true,
+            "title": "Promoted Instructional Video ID",
+            "validatemethod": "ValidateVideoid",
+            "nullable": true,
+            "subtype": "boardgame",
+            "keyname": "instructional_videoid"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "summary_videoid",
+            "unclickable": true,
+            "title": "Promoted Summary Video ID",
+            "validatemethod": "ValidateVideoid",
+            "nullable": true,
+            "subtype": "boardgame",
+            "keyname": "summary_videoid"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "playthrough_videoid",
+            "unclickable": true,
+            "title": "Promoted Playthrough Video ID",
+            "validatemethod": "ValidateVideoid",
+            "nullable": true,
+            "subtype": "boardgame",
+            "keyname": "playthrough_videoid"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "focus_videoid",
+            "unclickable": true,
+            "title": "Promoted In Focus Video ID",
+            "validatemethod": "ValidateVideoid",
+            "nullable": true,
+            "subtype": "boardgame",
+            "keyname": "focus_videoid"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "howtoplay_videoid",
+            "unclickable": true,
+            "title": "Promoted BGG How to Play Video ID",
+            "validatemethod": "ValidateVideoid",
+            "nullable": true,
+            "subtype": "boardgame",
+            "keyname": "howtoplay_videoid"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "bggstore_product",
+            "unclickable": true,
+            "title": "Promoted BGG Store Product Name",
+            "nullable": true,
+            "subtype": "boardgame",
+            "keyname": "bggstore_product"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "short_description",
+            "title": "Short Description",
+            "table": "geekitem_items",
+            "maxlength": 85,
+            "editfieldsize": 60,
+            "required": true,
+            "subtype": "boardgame",
+            "keyname": "short_description"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "person",
+            "other_subtype": "boardgamedesigner",
+            "linktype": "boardgamedesigner",
+            "self_prefix": "src",
+            "title": "Designer",
+            "titlepl": "Designers",
+            "fullcredits": true,
+            "schema": {
+                "itemprop": "creator",
+                "itemtype": "https://schema.org/Person"
+            },
+            "keyname": "boardgamedesigner"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "person",
+            "other_subtype": "boardgamesolodesigner",
+            "linktype": "boardgamesolodesigner",
+            "self_prefix": "src",
+            "title": "Solo Designer",
+            "titlepl": "Solo Designers",
+            "fullcredits": true,
+            "keyname": "boardgamesolodesigner"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "person",
+            "other_subtype": "boardgameartist",
+            "linktype": "boardgameartist",
+            "self_prefix": "src",
+            "title": "Artist",
+            "titlepl": "Artists",
+            "fullcredits": true,
+            "keyname": "boardgameartist"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "company",
+            "other_subtype": "boardgamepublisher",
+            "linktype": "boardgamepublisher",
+            "self_prefix": "src",
+            "title": "Publisher",
+            "titlepl": "Publishers",
+            "required": true,
+            "fullcredits": true,
+            "schema": {
+                "itemprop": "publisher",
+                "itemtype": "https://schema.org/Organization"
+            },
+            "keyname": "boardgamepublisher"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "person",
+            "other_subtype": "boardgamedeveloper",
+            "linktype": "boardgamedeveloper",
+            "self_prefix": "src",
+            "title": "Developer",
+            "titlepl": "Developers",
+            "fullcredits": true,
+            "keyname": "boardgamedeveloper"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "person",
+            "other_subtype": "boardgamegraphicdesigner",
+            "linktype": "boardgamegraphicdesigner",
+            "self_prefix": "src",
+            "title": "Graphic Designer",
+            "titlepl": "Graphic Designers",
+            "fullcredits": true,
+            "keyname": "boardgamegraphicdesigner"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "person",
+            "other_subtype": "boardgamesculptor",
+            "linktype": "boardgamesculptor",
+            "self_prefix": "src",
+            "title": "Sculptor",
+            "titlepl": "Sculptors",
+            "fullcredits": true,
+            "keyname": "boardgamesculptor"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "person",
+            "other_subtype": "boardgameeditor",
+            "linktype": "boardgameeditor",
+            "self_prefix": "src",
+            "title": "Editor",
+            "titlepl": "Editors",
+            "fullcredits": true,
+            "keyname": "boardgameeditor"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "person",
+            "other_subtype": "boardgamewriter",
+            "linktype": "boardgamewriter",
+            "self_prefix": "src",
+            "title": "Writer",
+            "titlepl": "Writers",
+            "fullcredits": true,
+            "keyname": "boardgamewriter"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "person",
+            "other_subtype": "boardgameinsertdesigner",
+            "linktype": "boardgameinsertdesigner",
+            "self_prefix": "src",
+            "title": "Insert Designer",
+            "titlepl": "Insert Designers",
+            "fullcredits": true,
+            "keyname": "boardgameinsertdesigner"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "family",
+            "other_subtype": "boardgamehonor",
+            "lookup_subtype": "boardgamehonor",
+            "linktype": "boardgamehonor",
+            "self_prefix": "src",
+            "title": "Honors",
+            "keyname": "boardgamehonor"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "property",
+            "other_subtype": "boardgamecategory",
+            "lookup_subtype": "boardgamecategory",
+            "linktype": "boardgamecategory",
+            "self_prefix": "src",
+            "title": "Category",
+            "titlepl": "Categories",
+            "showall_ctrl": true,
+            "fullcredits": true,
+            "overview_count": 5,
+            "keyname": "boardgamecategory"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "property",
+            "other_subtype": "boardgamemechanic",
+            "lookup_subtype": "boardgamemechanic",
+            "linktype": "boardgamemechanic",
+            "self_prefix": "src",
+            "title": "Mechanism",
+            "titlepl": "Mechanisms",
+            "showall_ctrl": true,
+            "fullcredits": true,
+            "overview_count": 5,
+            "keyname": "boardgamemechanic"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "lookup_subtype": "boardgame",
+            "other_objecttype": "thing",
+            "other_subtype": "boardgameexpansion",
+            "linktype": "boardgameexpansion",
+            "self_prefix": "src",
+            "title": "Expansion",
+            "keyname": "boardgameexpansion"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "version",
+            "other_subtype": "boardgameversion",
+            "linktype": "boardgameversion",
+            "other_is_dependent": true,
+            "required": true,
+            "loadlinks": true,
+            "self_prefix": "src",
+            "title": "Version",
+            "createtitle": "Versions",
+            "hidecontrols": true,
+            "keyname": "boardgameversion"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "thing",
+            "other_subtype": "boardgame",
+            "lookup_subtype": "boardgame",
+            "linktype": "boardgameexpansion",
+            "self_prefix": "dst",
+            "title": "Expands",
+            "overview_count": 100,
+            "keyname": "expandsboardgame"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "thing",
+            "other_subtype": "boardgame",
+            "lookup_subtype": "boardgame",
+            "linktype": "boardgameintegration",
+            "correctioncomment": "Only for stand-alone games that integrate with other stand-alone games. <b>NOT</b> for expansions.",
+            "self_prefix": "src",
+            "title": "Integrates With",
+            "overview_count": 4,
+            "keyname": "boardgameintegration"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "thing",
+            "other_subtype": "boardgame",
+            "lookup_subtype": "boardgame",
+            "linktype": "boardgamecompilation",
+            "self_prefix": "dst",
+            "correctioncomment": "Items contained in this item (if this is a compilation, for example)",
+            "title": "Contains",
+            "overview_count": 4,
+            "keyname": "contains"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "lookup_subtype": "boardgame",
+            "other_objecttype": "thing",
+            "other_subtype": "boardgame",
+            "linktype": "boardgamecompilation",
+            "self_prefix": "src",
+            "title": "Contained in",
+            "keyname": "containedin"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "lookup_subtype": "boardgame",
+            "other_objecttype": "thing",
+            "other_subtype": "boardgame",
+            "linktype": "boardgameimplementation",
+            "self_prefix": "src",
+            "correctioncomment": "Add the \"child\" item(s) that reimplement this game",
+            "title": "Reimplemented By",
+            "overview_count": 4,
+            "keyname": "reimplementation"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "thing",
+            "other_subtype": "boardgame",
+            "lookup_subtype": "boardgame",
+            "linktype": "boardgameimplementation",
+            "self_prefix": "dst",
+            "correctioncomment": "Add the \"parent\" item(s) for this game, if it reimplements a previous game",
+            "title": "Reimplements",
+            "overview_count": 4,
+            "keyname": "reimplements"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "family",
+            "other_subtype": "boardgamefamily",
+            "lookup_subtype": "boardgamefamily",
+            "linktype": "boardgamefamily",
+            "self_prefix": "src",
+            "fullcredits": true,
+            "title": "Family",
+            "overview_count": 10,
+            "keyname": "boardgamefamily"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "thing",
+            "other_subtype": "videogamebg",
+            "lookup_subtype": "videogame",
+            "linktype": "videogamebg",
+            "self_prefix": "src",
+            "adminonly": true,
+            "title": "Video Game Adaptation",
+            "titlepl": "Video Game Adaptations",
+            "keyname": "videogamebg"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "family",
+            "other_subtype": "boardgamesubdomain",
+            "lookup_subtype": "boardgamesubdomain",
+            "linktype": "boardgamesubdomain",
+            "polltype": "boardgamesubdomain",
+            "display_inline": true,
+            "self_prefix": "src",
+            "title": "Type",
+            "showall_ctrl": true,
+            "hidecontrols": true,
+            "createposttext": "Enter the subdomain for this item.",
+            "keyname": "boardgamesubdomain"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "thing",
+            "other_subtype": "boardgameaccessory",
+            "lookup_subtype": "boardgameaccessory",
+            "linktype": "boardgameaccessory",
+            "self_prefix": "src",
+            "title": "Accessory",
+            "titlepl": "Accessories",
+            "addnew": true,
+            "keyname": "boardgameaccessory"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "family",
+            "other_subtype": "cardset",
+            "linktype": "cardset",
+            "self_prefix": "src",
+            "title": "Card Set",
+            "hidecontrols": true,
+            "keyname": "cardset"
+        },
+        {
+            "datatype": "geekitem_polldata",
+            "title": "User Suggested # of Players",
+            "polltype": "numplayers",
+            "keyname": "userplayers"
+        },
+        {
+            "datatype": "geekitem_polldata",
+            "title": "User Suggested Ages",
+            "polltype": "playerage",
+            "keyname": "playerage"
+        },
+        {
+            "datatype": "geekitem_polldata",
+            "title": "Language Dependence",
+            "polltype": "languagedependence",
+            "keyname": "languagedependence"
+        },
+        {
+            "datatype": "geekitem_polldata",
+            "title": "Subdomain",
+            "polltype": "boardgamesubdomain",
+            "keyname": "subdomain"
+        },
+        {
+            "datatype": "geekitem_polldata",
+            "title": "Weight",
+            "polltype": "boardgameweight",
+            "keyname": "boardgameweight"
+        }
+    ],
+    "linkdata": [],
+    "config": {
+        "numitems": 1,
+        "sortdata": [
+            {
+                "title": "Name",
+                "hidden": true,
+                "key": "name"
+            },
+            {
+                "title": "Rank",
+                "onzero": "N/A",
+                "key": "rank"
+            },
+            {
+                "title": "Num Ratings",
+                "href": "/collection/items/{$other_subtype}/{$item.objectid}?rated=1",
+                "key": "usersrated"
+            },
+            {
+                "title": "Average Rating",
+                "string_format": "%0.2f",
+                "key": "average"
+            },
+            {
+                "title": "Average Weight",
+                "string_format": "%0.2f",
+                "key": "avgweight"
+            },
+            {
+                "title": "Num Owned",
+                "href": "/collection/items/{$other_subtype}/{$item.objectid}?own=1",
+                "key": "numowned"
+            },
+            {
+                "title": "Prev. Owned",
+                "href": "/collection/items/{$other_subtype}/{$item.objectid}?prevown=1",
+                "key": "numprevowned"
+            },
+            {
+                "title": "For Trade",
+                "href": "/collection/items/{$other_subtype}/{$item.objectid}?fortrade=1",
+                "key": "numtrading"
+            },
+            {
+                "title": "Want in Trade",
+                "href": "/collection/items/{$other_subtype}/{$item.objectid}?want=1",
+                "key": "numwanting"
+            },
+            {
+                "title": "Wishlist",
+                "href": "/collection/items/{$other_subtype}/{$item.objectid}?wishlist=1",
+                "key": "numwish"
+            },
+            {
+                "title": "Comments",
+                "href": "/collection/items/{$other_subtype}/{$item.objectid}?comment=1",
+                "key": "numcomments"
+            },
+            {
+                "title": "Year Released",
+                "key": "yearpublished"
+            }
+        ],
+        "filters": [
+            {
+                "key": "categoryfilter",
+                "options": [
+                    {
+                        "objectid": "1008",
+                        "name": "Nautical"
+                    }
+                ],
+                "title": "Category"
+            },
+            {
+                "key": "mechanicfilter",
+                "options": [
+                    {
+                        "objectid": "2072",
+                        "name": "Dice Rolling"
+                    },
+                    {
+                        "objectid": "2004",
+                        "name": "Set Collection"
+                    },
+                    {
+                        "objectid": "2082",
+                        "name": "Worker Placement"
+                    }
+                ],
+                "title": "Mechanic"
+            }
+        ]
+    }
+}

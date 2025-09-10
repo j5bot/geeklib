@@ -1,0 +1,1072 @@
+{
+    "item": {
+        "itemid": 2335300,
+        "objecttype": "property",
+        "objectid": 2903,
+        "label": "Board Game Mechanic",
+        "labelpl": "Board Game Mechanics",
+        "shortlabel": "Board Game Mechanic",
+        "shortlabelpl": "Board Game Mechanics",
+        "type": "properties",
+        "id": "2903",
+        "href": "/boardgamemechanic/2903/automatic-resource-growth",
+        "canonical_link": "https://boardgamegeek.com/boardgamemechanic/2903/automatic-resource-growth",
+        "subtype": "boardgamemechanic",
+        "subtypes": [
+            "boardgamemechanic"
+        ],
+        "versioninfo": {
+            "gamepageorderurl": null,
+            "shopifyitem": null
+        },
+        "name": "Automatic Resource Growth",
+        "alternatename": null,
+        "links": {
+            "boardgame": [
+                {
+                    "name": "Agricola",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "31260",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/31260/agricola",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/31260/agricola"
+                },
+                {
+                    "name": "Agricola (Revised Edition)",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "200680",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/200680/agricola-revised-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/200680/agricola-revised-edition"
+                },
+                {
+                    "name": "Agricola 15",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "359999",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/359999/agricola-15",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/359999/agricola-15"
+                },
+                {
+                    "name": "Agricola: All Creatures Big and Small",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "119890",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/119890/agricola-all-creatures-big-and-small",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/119890/agricola-all-creatures-big-and-small"
+                },
+                {
+                    "name": "Agricola: All Creatures Big and Small – The Big Box",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "255262",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/255262/agricola-all-creatures-big-and-small-the-big-box",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/255262/agricola-all-creatures-big-and-small-the-big-box"
+                },
+                {
+                    "name": "Agricola: Dead Harvest",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "440149",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/440149/agricola-dead-harvest",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/440149/agricola-dead-harvest"
+                },
+                {
+                    "name": "Agricola: Family Edition",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "205418",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/205418/agricola-family-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/205418/agricola-family-edition"
+                },
+                {
+                    "name": "Agricola: Special Edition",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "440147",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/440147/agricola-special-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/440147/agricola-special-edition"
+                },
+                {
+                    "name": "Akhedena",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "416510",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/416510/akhedena",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/416510/akhedena"
+                },
+                {
+                    "name": "Amazing Jungle Run",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "297262",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/297262/amazing-jungle-run",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/297262/amazing-jungle-run"
+                },
+                {
+                    "name": "Ascidiae",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "334753",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/334753/ascidiae",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/334753/ascidiae"
+                },
+                {
+                    "name": "Atiwa",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "362452",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/362452/atiwa",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/362452/atiwa"
+                },
+                {
+                    "name": "Bedlam, the Board Game",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "339989",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/339989/bedlam-the-board-game",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/339989/bedlam-the-board-game"
+                },
+                {
+                    "name": "Bellum Magica",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "330665",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/330665/bellum-magica",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/330665/bellum-magica"
+                },
+                {
+                    "name": "Bindu Mandala",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "398367",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/398367/bindu-mandala",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/398367/bindu-mandala"
+                },
+                {
+                    "name": "Black Forest",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "420805",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/420805/black-forest",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/420805/black-forest"
+                },
+                {
+                    "name": "Black Metro",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "377906",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/377906/black-metro",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/377906/black-metro"
+                },
+                {
+                    "name": "Boardquest: Tales of Liria",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "391061",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/391061/boardquest-tales-of-liria",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/391061/boardquest-tales-of-liria"
+                },
+                {
+                    "name": "Bugs",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "355875",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/355875/bugs",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/355875/bugs"
+                },
+                {
+                    "name": "Build That Wall",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "430026",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/430026/build-that-wall",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/430026/build-that-wall"
+                },
+                {
+                    "name": "Burgeon",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "322399",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/322399/burgeon",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/322399/burgeon"
+                },
+                {
+                    "name": "Cats vs Dragons",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "430869",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/430869/cats-vs-dragons",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/430869/cats-vs-dragons"
+                },
+                {
+                    "name": "Caverna: Frantic Fiends",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "322816",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/322816/caverna-frantic-fiends",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/322816/caverna-frantic-fiends"
+                },
+                {
+                    "name": "Caverna: The Cave Farmers",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "102794",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/102794/caverna-the-cave-farmers",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/102794/caverna-the-cave-farmers"
+                },
+                {
+                    "name": "Chaudron Party",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "319997",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/319997/chaudron-party",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/319997/chaudron-party"
+                },
+                {
+                    "name": "Classic Surf",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "427557",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/427557/classic-surf",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/427557/classic-surf"
+                },
+                {
+                    "name": "Company of Heroes: 2nd Edition",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "364356",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/364356/company-of-heroes-2nd-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/364356/company-of-heroes-2nd-edition"
+                },
+                {
+                    "name": "Compound 49",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "400729",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/400729/compound-49",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/400729/compound-49"
+                },
+                {
+                    "name": "Cosmos: Empires – Culture Clash",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "415502",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/415502/cosmos-empires-culture-clash",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/415502/cosmos-empires-culture-clash"
+                },
+                {
+                    "name": "Craft My Coast",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "429857",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/429857/craft-my-coast",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/429857/craft-my-coast"
+                },
+                {
+                    "name": "Crafting the Cosmos",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "424785",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/424785/crafting-the-cosmos",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/424785/crafting-the-cosmos"
+                },
+                {
+                    "name": "Creators of the First Dawn",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "354427",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/354427/creators-of-the-first-dawn",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/354427/creators-of-the-first-dawn"
+                },
+                {
+                    "name": "The Danes",
+                    "sortindex": "5",
+                    "objecttype": "thing",
+                    "objectid": "450923",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/450923/the-danes",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/450923/the-danes"
+                },
+                {
+                    "name": "DAVOS",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "430446",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/430446/davos",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/430446/davos"
+                },
+                {
+                    "name": "Dawn of Breya",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "394431",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/394431/dawn-of-breya",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/394431/dawn-of-breya"
+                },
+                {
+                    "name": "Daybreak",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "334986",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/334986/daybreak",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/334986/daybreak"
+                },
+                {
+                    "name": "Draft & Write Records: All-Star Bonus Tracks",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "406697",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/406697/draft-and-write-records-all-star-bonus-tracks",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/406697/draft-and-write-records-all-star-bonus-tracks"
+                },
+                {
+                    "name": "Draft & Write Records: Chart Topper Bonus Tracks",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "406698",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/406698/draft-and-write-records-chart-topper-bonus-tracks",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/406698/draft-and-write-records-chart-topper-bonus-tracks"
+                },
+                {
+                    "name": "Dune: Imperium – Uprising",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "397598",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/397598/dune-imperium-uprising",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/397598/dune-imperium-uprising"
+                },
+                {
+                    "name": "Egregore",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "445360",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/445360/egregore",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/445360/egregore"
+                },
+                {
+                    "name": "Emperor of the Gaels",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "376095",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/376095/emperor-of-the-gaels",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/376095/emperor-of-the-gaels"
+                },
+                {
+                    "name": "Emperor!: Byzantium 1070",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "342941",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/342941/emperor-byzantium-1070",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/342941/emperor-byzantium-1070"
+                },
+                {
+                    "name": "Epireia",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "418594",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/418594/epireia",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/418594/epireia"
+                },
+                {
+                    "name": "Exoworld Survival",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "396090",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/396090/exoworld-survival",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/396090/exoworld-survival"
+                },
+                {
+                    "name": "Fabled",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "429231",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/429231/fabled",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/429231/fabled"
+                },
+                {
+                    "name": "A Feast for Odin",
+                    "sortindex": "3",
+                    "objecttype": "thing",
+                    "objectid": "177736",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/177736/a-feast-for-odin",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/177736/a-feast-for-odin"
+                },
+                {
+                    "name": "A Feast for Odin: Mini Expansion #2",
+                    "sortindex": "3",
+                    "objecttype": "thing",
+                    "objectid": "292592",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/292592/a-feast-for-odin-mini-expansion-2",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/292592/a-feast-for-odin-mini-expansion-2"
+                },
+                {
+                    "name": "Fields of Arle",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "159675",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/159675/fields-of-arle",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/159675/fields-of-arle"
+                },
+                {
+                    "name": "Fields of Arle: Big Box",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "393531",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/393531/fields-of-arle-big-box",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/393531/fields-of-arle-big-box"
+                },
+                {
+                    "name": "Fight a Bear!!!",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "359553",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/359553/fight-a-bear",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/359553/fight-a-bear"
+                },
+                {
+                    "name": "Fleet",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "121297",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/121297/fleet",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/121297/fleet"
+                },
+                {
+                    "name": "Fleet: Arctic Bounty",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "144811",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/144811/fleet-arctic-bounty",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/144811/fleet-arctic-bounty"
+                },
+                {
+                    "name": "Folwark marzeń",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "377059",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/377059/folwark-marzen",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/377059/folwark-marzen"
+                },
+                {
+                    "name": "Forces of History",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "323350",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/323350/forces-of-history",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/323350/forces-of-history"
+                },
+                {
+                    "name": "Forever Island: An Eco-Apocalyptic War Game",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "437230",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/437230/forever-island-an-eco-apocalyptic-war-game",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/437230/forever-island-an-eco-apocalyptic-war-game"
+                },
+                {
+                    "name": "Glass Road",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "143693",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/143693/glass-road",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/143693/glass-road"
+                },
+                {
+                    "name": "Gods Love Dinosaurs",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "316622",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/316622/gods-love-dinosaurs",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/316622/gods-love-dinosaurs"
+                },
+                {
+                    "name": "La Granja",
+                    "sortindex": "4",
+                    "objecttype": "thing",
+                    "objectid": "146886",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/146886/la-granja",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/146886/la-granja"
+                },
+                {
+                    "name": "La Granja: Deluxe Master Set",
+                    "sortindex": "4",
+                    "objecttype": "thing",
+                    "objectid": "341945",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/341945/la-granja-deluxe-master-set",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/341945/la-granja-deluxe-master-set"
+                },
+                {
+                    "name": "Grow Wars The CardGame",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "379930",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/379930/grow-wars-the-cardgame",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/379930/grow-wars-the-cardgame"
+                },
+                {
+                    "name": "Hallertau",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "300322",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/300322/hallertau",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/300322/hallertau"
+                },
+                {
+                    "name": "Hallertau: Promo-Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "368606",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/368606/hallertau-promo-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/368606/hallertau-promo-deck"
+                },
+                {
+                    "name": "Harvest Business",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "451796",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/451796/harvest-business",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/451796/harvest-business"
+                },
+                {
+                    "name": "Hatamoto: Rivals",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "322777",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/322777/hatamoto-rivals",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/322777/hatamoto-rivals"
+                },
+                {
+                    "name": "Le Havre",
+                    "sortindex": "4",
+                    "objecttype": "thing",
+                    "objectid": "35677",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/35677/le-havre",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/35677/le-havre"
+                },
+                {
+                    "name": "Hero: Tales of the Tomes – Lost Heroics 1",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "310193",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/310193/hero-tales-of-the-tomes-lost-heroics-1",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/310193/hero-tales-of-the-tomes-lost-heroics-1"
+                },
+                {
+                    "name": "Horizons of Spirit Island",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "367498",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/367498/horizons-of-spirit-island",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/367498/horizons-of-spirit-island"
+                },
+                {
+                    "name": "Interstellar Abduction: A Card game of Capturing Humans!",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "410433",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/410433/interstellar-abduction-a-card-game-of-capturing-hu",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/410433/interstellar-abduction-a-card-game-of-capturing-hu"
+                },
+                {
+                    "name": "Ironworks: melt, mold, master",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "439207",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/439207/ironworks-melt-mold-master",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/439207/ironworks-melt-mold-master"
+                },
+                {
+                    "name": "Joinery",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "436986",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/436986/joinery",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/436986/joinery"
+                },
+                {
+                    "name": "Kinghill",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "311822",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/311822/kinghill",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/311822/kinghill"
+                },
+                {
+                    "name": "Lab Wars",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "189434",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/189434/lab-wars",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/189434/lab-wars"
+                },
+                {
+                    "name": "Lands of Conquest",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "444091",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/444091/lands-of-conquest",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/444091/lands-of-conquest"
+                },
+                {
+                    "name": "Lava",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "346257",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/346257/lava",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/346257/lava"
+                },
+                {
+                    "name": "Life in Reterra",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "415513",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/415513/life-in-reterra",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/415513/life-in-reterra"
+                },
+                {
+                    "name": "Life in Reterra: Moonrise Expansion",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "430018",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/430018/life-in-reterra-moonrise-expansion",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/430018/life-in-reterra-moonrise-expansion"
+                },
+                {
+                    "name": "London (Second Edition)",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "236191",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/236191/london-second-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/236191/london-second-edition"
+                },
+                {
+                    "name": "The Lord of the Rings: The Card Game – Revised Core – Elves of Lórien Starter Deck",
+                    "sortindex": "5",
+                    "objecttype": "thing",
+                    "objectid": "357292",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/357292/the-lord-of-the-rings-the-card-game-revised-core-e",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/357292/the-lord-of-the-rings-the-card-game-revised-core-e"
+                },
+                {
+                    "name": "The Lord of the Rings: The Card Game – Revised Core Set",
+                    "sortindex": "5",
+                    "objecttype": "thing",
+                    "objectid": "349067",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/349067/the-lord-of-the-rings-the-card-game-revised-core-s",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/349067/the-lord-of-the-rings-the-card-game-revised-core-s"
+                },
+                {
+                    "name": "The Lord of the Rings: The Card Game – Revised Core: Defenders of Gondor Starter Deck",
+                    "sortindex": "5",
+                    "objecttype": "thing",
+                    "objectid": "357293",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/357293/the-lord-of-the-rings-the-card-game-revised-core-d",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/357293/the-lord-of-the-rings-the-card-game-revised-core-d"
+                },
+                {
+                    "name": "The Lord of the Rings: The Card Game – Revised Core: Dwarves of Durin Starter Deck",
+                    "sortindex": "5",
+                    "objecttype": "thing",
+                    "objectid": "357291",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/357291/the-lord-of-the-rings-the-card-game-revised-core-d",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/357291/the-lord-of-the-rings-the-card-game-revised-core-d"
+                },
+                {
+                    "name": "The Lord of the Rings: The Card Game – Revised Core: Riders of Rohan Starter Deck",
+                    "sortindex": "5",
+                    "objecttype": "thing",
+                    "objectid": "357294",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/357294/the-lord-of-the-rings-the-card-game-revised-core-r",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/357294/the-lord-of-the-rings-the-card-game-revised-core-r"
+                },
+                {
+                    "name": "The Lord of the Rings: The Card Game – The Dark of Mirkwood",
+                    "sortindex": "5",
+                    "objecttype": "thing",
+                    "objectid": "350753",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/350753/the-lord-of-the-rings-the-card-game-the-dark-of-mi",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/350753/the-lord-of-the-rings-the-card-game-the-dark-of-mi"
+                },
+                {
+                    "name": "The Lord of the Rings: The Card Game – The Fellowship of the Ring: Saga Expansion",
+                    "sortindex": "5",
+                    "objecttype": "thing",
+                    "objectid": "368767",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/368767/the-lord-of-the-rings-the-card-game-the-fellowship",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/368767/the-lord-of-the-rings-the-card-game-the-fellowship"
+                },
+                {
+                    "name": "The Lord of the Rings: The Card Game – The Return of the King: Saga Expansion",
+                    "sortindex": "5",
+                    "objecttype": "thing",
+                    "objectid": "425071",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/425071/the-lord-of-the-rings-the-card-game-the-return-of",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/425071/the-lord-of-the-rings-the-card-game-the-return-of"
+                },
+                {
+                    "name": "The Lord of the Rings: The Card Game – The Two Towers: Saga Expansion",
+                    "sortindex": "5",
+                    "objecttype": "thing",
+                    "objectid": "394138",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/394138/the-lord-of-the-rings-the-card-game-the-two-towers",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/394138/the-lord-of-the-rings-the-card-game-the-two-towers"
+                },
+                {
+                    "name": "Magic: The Gathering – Heroes of Dominaria Board Game",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "248763",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/248763/magic-the-gathering-heroes-of-dominaria-board-game",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/248763/magic-the-gathering-heroes-of-dominaria-board-game"
+                },
+                {
+                    "name": "Manacaster",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "430757",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/430757/manacaster",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/430757/manacaster"
+                },
+                {
+                    "name": "Mint Bid",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "328569",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/328569/mint-bid",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/328569/mint-bid"
+                },
+                {
+                    "name": "Mint Bid: Promo Pack #1 – Additional AIs",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "330683",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/330683/mint-bid-promo-pack-1-additional-ais",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/330683/mint-bid-promo-pack-1-additional-ais"
+                },
+                {
+                    "name": "Mint Bid: Promo Pack #2 – Hidden Agendas",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "330682",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/330682/mint-bid-promo-pack-2-hidden-agendas",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/330682/mint-bid-promo-pack-2-hidden-agendas"
+                },
+                {
+                    "name": "Monumentus",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "331411",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/331411/monumentus",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/331411/monumentus"
+                },
+                {
+                    "name": "Multi Level Mania",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "377312",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/377312/multi-level-mania",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/377312/multi-level-mania"
+                },
+                {
+                    "name": "Naturalia",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "418763",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/418763/naturalia",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/418763/naturalia"
+                },
+                {
+                    "name": "New World Order",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "372678",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/372678/new-world-order",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/372678/new-world-order"
+                },
+                {
+                    "name": "New York Zoo",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "300877",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/300877/new-york-zoo",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/300877/new-york-zoo"
+                },
+                {
+                    "name": "New York Zoo: Solo zoo board Spielbox Promo",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "343953",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/343953/new-york-zoo-solo-zoo-board-spielbox-promo",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/343953/new-york-zoo-solo-zoo-board-spielbox-promo"
+                },
+                {
+                    "name": "Operation PBSUCCESS: The 1954 Guatemalan Coup",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "325244",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/325244/operation-pbsuccess-the-1954-guatemalan-coup",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/325244/operation-pbsuccess-the-1954-guatemalan-coup"
+                },
+                {
+                    "name": "Order & Entropy: Tactical Deckbuilder",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "336058",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/336058/order-and-entropy-tactical-deckbuilder",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/336058/order-and-entropy-tactical-deckbuilder"
+                },
+                {
+                    "name": "Para bellum: Pars I",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "344934",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/344934/para-bellum-pars-i",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/344934/para-bellum-pars-i"
+                }
+            ]
+        },
+        "linkcounts": {
+            "boardgame": 136
+        },
+        "secondarynamescount": 0,
+        "alternatenamescount": 0,
+        "primaryname": {
+            "nameid": "1671188",
+            "name": "Automatic Resource Growth",
+            "sortindex": "1",
+            "primaryname": "1",
+            "translit": "Automatic Resource Growth"
+        },
+        "alternatenames": [],
+        "description": "<p>The automatic increase of a resource triggered by a particular, <em>conditional</em>, deterministic (not random) game state.</p>\n\n<p>Example 1. Unacquired resources in Agricola: <br />\n- Uncollected wood from the wood-collection action space (condition) will offer +1 wood (result) on the following round (game state).</p>\n\n<p>Example 2. Acquired resources in La Granja: <br />\n- Two pigs in your farm, in an area with space enough for 3 pigs (condition) will automatically produce a 3rd pig (result) during the breeding phase of that round (game state).</p>\n\n<p>Counter-example 1. <a  href=\"/boardgamemechanic/2902/income\"   >Income</a> in Monopoly:<br />\n- Collect $200 (result) when passing &ldquo;GO&rdquo; (game state).<br />\n- There is no condition (ex: if you own 1 or more properties)</p>\n\n<p>Counter-example 2. <a  href=\"/boardgamemechanic/2909/random-production\"   >Random Production</a> in Catan:<br />\n- Players collect resources at the beginning of each turn based on a die roll.<br />\n- The production is random not deterministic.</p>\n\n",
+        "wiki": "<span class='text-muted'>This page does not exist. You can edit this page to create it.</span>",
+        "website": {
+            "url": false
+        },
+        "imageid": "4965685",
+        "images": {
+            "thumb": "https://cf.geekdo-images.com/AX823JfPp6vl7uylKVdfZA__small/img/eJ_1-nflbgB5OAlUGZodXjw2HqI=/fit-in/200x150/filters:strip_icc()/pic4965685.jpg",
+            "micro": "https://cf.geekdo-images.com/AX823JfPp6vl7uylKVdfZA__micro/img/bMvGLi_0XtXdw2Htms9RQc_DK_8=/fit-in/64x64/filters:strip_icc()/pic4965685.jpg",
+            "square": "https://cf.geekdo-images.com/AX823JfPp6vl7uylKVdfZA__square/img/VWzM8hMXmv3CFd3ypMJv-MAPmck=/75x75/filters:strip_icc()/pic4965685.jpg",
+            "tallthumb": "https://cf.geekdo-images.com/AX823JfPp6vl7uylKVdfZA__tallthumb/img/QF1DkcM7Hl8Xlka23C42KVudTEk=/fit-in/75x125/filters:strip_icc()/pic4965685.jpg",
+            "previewthumb": "https://cf.geekdo-images.com/AX823JfPp6vl7uylKVdfZA__previewthumb/img/QR9hvedL5kfutpXZ47OX1NRrtBQ=/fit-in/300x320/filters:strip_icc()/pic4965685.jpg",
+            "square200": "https://cf.geekdo-images.com/AX823JfPp6vl7uylKVdfZA__square200/img/rWi0tUG_CZFlPLwcCez8PfsOdYE=/200x200/filters:strip_icc()/pic4965685.jpg",
+            "original": "https://cf.geekdo-images.com/AX823JfPp6vl7uylKVdfZA__original/img/jxMLf96J_5wKlAWY8_cAfp8wyaM=/0x0/filters:format(jpeg)/pic4965685.jpg"
+        },
+        "imagepagehref": "/image/4965685/automatic-resource-growth",
+        "imageurl": "https://cf.geekdo-images.com/AX823JfPp6vl7uylKVdfZA__itemrep/img/3aWzto3WlUjnN_hpMUqmf6Xay90=/fit-in/246x300/filters:strip_icc()/pic4965685.jpg",
+        "imageurl@2x": "https://cf.geekdo-images.com/AX823JfPp6vl7uylKVdfZA__itemrep@2x/img/dYx0S2O_ZgO-Bf_jbd2XpxAxmEQ=/fit-in/492x600/filters:strip_icc()/pic4965685.jpg",
+        "imageSets": {
+            "square100": {
+                "src": "https://cf.geekdo-images.com/AX823JfPp6vl7uylKVdfZA__square100/img/bcvefH2sxDo8h66_0q_rDBnHZ-k=/100x100/filters:strip_icc()/pic4965685.jpg",
+                "src@2x": "https://cf.geekdo-images.com/AX823JfPp6vl7uylKVdfZA__square100@2x/img/rWi0tUG_CZFlPLwcCez8PfsOdYE=/200x200/filters:strip_icc()/pic4965685.jpg"
+            },
+            "mediacard": {
+                "src": "https://cf.geekdo-images.com/AX823JfPp6vl7uylKVdfZA__mediacard/img/v665t7VBxWKB206-y7DBaTzuZuM=/288x162/filters:strip_icc()/pic4965685.jpg",
+                "src@2x": "https://cf.geekdo-images.com/AX823JfPp6vl7uylKVdfZA__mediacard@2x/img/3XcAIwPb-Du3qIMUcuk9OnW2jCg=/576x324/filters:strip_icc()/pic4965685.jpg"
+            }
+        },
+        "itemstate": "approved",
+        "promoted_ad": null
+    }
+}

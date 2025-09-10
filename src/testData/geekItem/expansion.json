@@ -1,0 +1,333 @@
+{
+    "item": {
+        "itemid": 2371604,
+        "objecttype": "thing",
+        "objectid": 292850,
+        "label": "Board Game",
+        "labelpl": "Board Games",
+        "shortlabel": "Game",
+        "shortlabelpl": "Games",
+        "type": "things",
+        "id": "292850",
+        "href": "/boardgameexpansion/292850/agricola-agricola-meets-newdale",
+        "canonical_link": "https://boardgamegeek.com/boardgame/292850/agricola-agricola-meets-newdale",
+        "subtype": "boardgameexpansion",
+        "subtypes": [
+            "boardgame",
+            "boardgameexpansion"
+        ],
+        "versioninfo": {
+            "gamepageorderurl": null,
+            "shopifyitem": null
+        },
+        "name": "Agricola: Agricola Meets Newdale",
+        "alternatename": null,
+        "yearpublished": "2019",
+        "minplayers": "1",
+        "maxplayers": "4",
+        "minplaytime": "30",
+        "maxplaytime": "120",
+        "minage": "12",
+        "override_rankable": 0,
+        "reviews_restricted": 0,
+        "targetco_url": "",
+        "walmart_id": null,
+        "instructional_videoid": null,
+        "summary_videoid": null,
+        "playthrough_videoid": null,
+        "focus_videoid": null,
+        "howtoplay_videoid": null,
+        "bggstore_product": null,
+        "short_description": null,
+        "links": {
+            "boardgamedesigner": [],
+            "boardgamesolodesigner": [],
+            "boardgameartist": [],
+            "boardgamepublisher": [
+                {
+                    "name": "Lookout Games",
+                    "sortindex": "1",
+                    "objecttype": "company",
+                    "objectid": "234",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgamepublisher/234/lookout-games",
+                    "canonical_link": "https://boardgamegeek.com/boardgamepublisher/234/lookout-games"
+                }
+            ],
+            "boardgamedeveloper": [],
+            "boardgamegraphicdesigner": [],
+            "boardgamesculptor": [],
+            "boardgameeditor": [],
+            "boardgamewriter": [],
+            "boardgameinsertdesigner": [],
+            "boardgamehonor": [],
+            "boardgamecategory": [
+                {
+                    "name": "Animals",
+                    "sortindex": "1",
+                    "objecttype": "property",
+                    "objectid": "1089",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgamecategory/1089/animals",
+                    "canonical_link": "https://boardgamegeek.com/boardgamecategory/1089/animals"
+                },
+                {
+                    "name": "Economic",
+                    "sortindex": "1",
+                    "objecttype": "property",
+                    "objectid": "1021",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgamecategory/1021/economic",
+                    "canonical_link": "https://boardgamegeek.com/boardgamecategory/1021/economic"
+                },
+                {
+                    "name": "Expansion for Base-game",
+                    "sortindex": "1",
+                    "objecttype": "property",
+                    "objectid": "1042",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgamecategory/1042/expansion-for-base-game",
+                    "canonical_link": "https://boardgamegeek.com/boardgamecategory/1042/expansion-for-base-game"
+                },
+                {
+                    "name": "Farming",
+                    "sortindex": "1",
+                    "objecttype": "property",
+                    "objectid": "1013",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgamecategory/1013/farming",
+                    "canonical_link": "https://boardgamegeek.com/boardgamecategory/1013/farming"
+                }
+            ],
+            "boardgamemechanic": [
+                {
+                    "name": "Enclosure",
+                    "sortindex": "1",
+                    "objecttype": "property",
+                    "objectid": "2043",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgamemechanic/2043/enclosure",
+                    "canonical_link": "https://boardgamegeek.com/boardgamemechanic/2043/enclosure"
+                },
+                {
+                    "name": "Hand Management",
+                    "sortindex": "1",
+                    "objecttype": "property",
+                    "objectid": "2040",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgamemechanic/2040/hand-management",
+                    "canonical_link": "https://boardgamegeek.com/boardgamemechanic/2040/hand-management"
+                },
+                {
+                    "name": "Open Drafting",
+                    "sortindex": "1",
+                    "objecttype": "property",
+                    "objectid": "2041",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgamemechanic/2041/open-drafting",
+                    "canonical_link": "https://boardgamegeek.com/boardgamemechanic/2041/open-drafting"
+                },
+                {
+                    "name": "Worker Placement",
+                    "sortindex": "1",
+                    "objecttype": "property",
+                    "objectid": "2082",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgamemechanic/2082/worker-placement",
+                    "canonical_link": "https://boardgamegeek.com/boardgamemechanic/2082/worker-placement"
+                }
+            ],
+            "boardgameexpansion": [],
+            "boardgameversion": [
+                {
+                    "name": "English edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "484880",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/484880/english-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/484880/english-edition"
+                },
+                {
+                    "name": "German edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "478770",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/478770/german-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/478770/german-edition"
+                }
+            ],
+            "expandsboardgame": [
+                {
+                    "name": "Agricola",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "31260",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/31260/agricola",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/31260/agricola"
+                },
+                {
+                    "name": "Agricola (Revised Edition)",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "200680",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/200680/agricola-revised-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/200680/agricola-revised-edition"
+                },
+                {
+                    "name": "Agricola 15",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "359999",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/359999/agricola-15",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/359999/agricola-15"
+                }
+            ],
+            "boardgameintegration": [],
+            "contains": [],
+            "containedin": [
+                {
+                    "name": "Agricola: Special Edition",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "440147",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/440147/agricola-special-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/440147/agricola-special-edition"
+                }
+            ],
+            "reimplementation": [],
+            "reimplements": [],
+            "boardgamefamily": [
+                {
+                    "name": "Game: Agricola",
+                    "sortindex": "1",
+                    "objecttype": "family",
+                    "objectid": "3865",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgamefamily/3865/game-agricola",
+                    "canonical_link": "https://boardgamegeek.com/boardgamefamily/3865/game-agricola"
+                },
+                {
+                    "name": "Series: Harvest (Uwe Rosenberg)",
+                    "sortindex": "1",
+                    "objecttype": "family",
+                    "objectid": "3866",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgamefamily/3866/series-harvest-uwe-rosenberg",
+                    "canonical_link": "https://boardgamegeek.com/boardgamefamily/3866/series-harvest-uwe-rosenberg"
+                }
+            ],
+            "videogamebg": [],
+            "boardgamesubdomain": [],
+            "boardgameaccessory": [],
+            "cardset": [
+                {
+                    "name": null,
+                    "sortindex": null,
+                    "objecttype": "family",
+                    "objectid": "98128",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/cardset/98128/",
+                    "canonical_link": "https://boardgamegeek.com/cardset/98128/"
+                }
+            ]
+        },
+        "linkcounts": {
+            "boardgamedesigner": 0,
+            "boardgamesolodesigner": 0,
+            "boardgameartist": 0,
+            "boardgamepublisher": 1,
+            "boardgamedeveloper": 0,
+            "boardgamegraphicdesigner": 0,
+            "boardgamesculptor": 0,
+            "boardgameeditor": 0,
+            "boardgamewriter": 0,
+            "boardgameinsertdesigner": 0,
+            "boardgamehonor": 0,
+            "boardgamecategory": 4,
+            "boardgamemechanic": 4,
+            "boardgameexpansion": 0,
+            "boardgameversion": 2,
+            "expandsboardgame": 3,
+            "boardgameintegration": 0,
+            "contains": 0,
+            "containedin": 1,
+            "reimplementation": 0,
+            "reimplements": 0,
+            "boardgamefamily": 2,
+            "videogamebg": 0,
+            "boardgamesubdomain": 0,
+            "boardgameaccessory": 0,
+            "cardset": 1
+        },
+        "secondarynamescount": 0,
+        "alternatenamescount": 1,
+        "primaryname": {
+            "nameid": "1694691",
+            "name": "Agricola: Agricola Meets Newdale",
+            "sortindex": "1",
+            "primaryname": "1",
+            "translit": "Agricola: Agricola Meets Newdale"
+        },
+        "alternatenames": [
+            {
+                "nameid": "1789835",
+                "name": "Agricola: Agricola in Newdale"
+            }
+        ],
+        "description": "<p>6 card expansion for Agricola originally available at Spiel 2019.</p>\n\n<p>Every player selects a card that gives them a special ability that can be used once per game.</p>\n\n",
+        "wiki": "<span class='text-muted'>This page does not exist. You can edit this page to create it.</span>",
+        "website": {
+            "url": false
+        },
+        "imageid": "5047192",
+        "images": {
+            "thumb": "https://cf.geekdo-images.com/XDA0Xm3lor9otY9WnNJyEw__small/img/inPOBjfG1MVvjG-GYm8lR57uwj8=/fit-in/200x150/filters:strip_icc()/pic5047192.jpg",
+            "micro": "https://cf.geekdo-images.com/XDA0Xm3lor9otY9WnNJyEw__micro/img/DvtGIJCYtTu3P7b-ammqKQPT_Ec=/fit-in/64x64/filters:strip_icc()/pic5047192.jpg",
+            "square": "https://cf.geekdo-images.com/XDA0Xm3lor9otY9WnNJyEw__square/img/8JIpsK-4DudaUd0nC12Y-nS6rv8=/75x75/filters:strip_icc()/pic5047192.jpg",
+            "tallthumb": "https://cf.geekdo-images.com/XDA0Xm3lor9otY9WnNJyEw__tallthumb/img/tE4Y1jIgNnB-85tAKnqBlZq4zFg=/fit-in/75x125/filters:strip_icc()/pic5047192.jpg",
+            "previewthumb": "https://cf.geekdo-images.com/XDA0Xm3lor9otY9WnNJyEw__previewthumb/img/4FT1J556p9mm3-KeS-a4G6bk7h0=/fit-in/300x320/filters:strip_icc()/pic5047192.jpg",
+            "square200": "https://cf.geekdo-images.com/XDA0Xm3lor9otY9WnNJyEw__square200/img/H-SpFrHDsoCV7pHNlEwug6JIqYc=/200x200/filters:strip_icc()/pic5047192.jpg",
+            "original": "https://cf.geekdo-images.com/XDA0Xm3lor9otY9WnNJyEw__original/img/971KKgipE-VzoEKAfFqakph_C9w=/0x0/filters:format(jpeg)/pic5047192.jpg"
+        },
+        "imagepagehref": "/image/5047192/agricola-agricola-meets-newdale",
+        "imageurl": "https://cf.geekdo-images.com/XDA0Xm3lor9otY9WnNJyEw__itemrep/img/R8xRM_4MJDVp_QEK5IyMbG31iRo=/fit-in/246x300/filters:strip_icc()/pic5047192.jpg",
+        "imageurl@2x": "https://cf.geekdo-images.com/XDA0Xm3lor9otY9WnNJyEw__itemrep@2x/img/GjugzDoGALNOlTGMlH62J26NXHc=/fit-in/492x600/filters:strip_icc()/pic5047192.jpg",
+        "topimageurl": "https://cf.geekdo-images.com/uMt0m8pvDAJv9xXZr7fZzQ__itemheader/img/WxcjZNM31oKwu5Rx0g8xSDMFpAQ=/800x450/filters:quality(30):strip_icc()/pic5531959.jpg",
+        "imageSets": {
+            "square100": {
+                "src": "https://cf.geekdo-images.com/XDA0Xm3lor9otY9WnNJyEw__square100/img/WqK7XKlziVo9qNLc1WiZASvj3MA=/52x0:1715x1371/fit-in/100x100/filters:fill(blur):strip_icc()/pic5047192.jpg",
+                "src@2x": "https://cf.geekdo-images.com/XDA0Xm3lor9otY9WnNJyEw__square100@2x/img/ve3m08KGxPlEtVPLYYQAd68mjh8=/52x0:1715x1371/fit-in/200x200/filters:fill(blur):strip_icc()/pic5047192.jpg"
+            },
+            "mediacard": {
+                "src": "https://cf.geekdo-images.com/XDA0Xm3lor9otY9WnNJyEw__mediacard/img/-RhGHCgiFNX4L6K8lR_zUGvs3-8=/0x258:1864x1306/288x162/filters:strip_icc()/pic5047192.jpg",
+                "src@2x": "https://cf.geekdo-images.com/XDA0Xm3lor9otY9WnNJyEw__mediacard@2x/img/uqxp2HBVvz7bQBkg45Y4qt25MXQ=/0x258:1864x1306/576x324/filters:strip_icc()/pic5047192.jpg"
+            }
+        },
+        "itemstate": "approved",
+        "promoted_ad": null
+    }
+}

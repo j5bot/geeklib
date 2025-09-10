@@ -1,0 +1,2556 @@
+{
+    "item": {
+        "itemid": 49416,
+        "objecttype": "person",
+        "objectid": 11507,
+        "label": "Board Game Designer",
+        "labelpl": "Board Game Designers",
+        "shortlabel": "Board Game Designer",
+        "shortlabelpl": "Board Game Designers",
+        "type": "people",
+        "id": "11507",
+        "href": "/boardgamedesigner/11507/klemens-franz",
+        "canonical_link": "https://boardgamegeek.com/boardgamedesigner/11507/klemens-franz",
+        "subtype": "boardgamedesigner",
+        "subtypes": [
+            "boardgamedesigner",
+            "boardgameartist",
+            "boardgamegraphicdesigner",
+            "boardgameinsertdesigner"
+        ],
+        "versioninfo": {
+            "gamepageorderurl": null,
+            "shopifyitem": null
+        },
+        "name": "Klemens Franz",
+        "alternatename": null,
+        "links": {
+            "boardgamedesigner": [
+                {
+                    "name": "Agricola: Changelings",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "263965",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/263965/agricola-changelings",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/263965/agricola-changelings"
+                },
+                {
+                    "name": "Caverna: The Forgotten Folk – Adventurers Promo",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "272699",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/272699/caverna-the-forgotten-folk-adventurers-promo",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/272699/caverna-the-forgotten-folk-adventurers-promo"
+                },
+                {
+                    "name": "Euro bleib' im Vulkanland!",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "39711",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/39711/euro-bleib-im-vulkanland",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/39711/euro-bleib-im-vulkanland"
+                },
+                {
+                    "name": "Flizz & Miez",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "154681",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/154681/flizz-and-miez",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/154681/flizz-and-miez"
+                },
+                {
+                    "name": "Gib Gas!",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "154682",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/154682/gib-gas",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/154682/gib-gas"
+                },
+                {
+                    "name": "Hexenhaus: Abenteuer",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "342134",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/342134/hexenhaus-abenteuer",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/342134/hexenhaus-abenteuer"
+                },
+                {
+                    "name": "Die Omama im Apfelbaum",
+                    "sortindex": "5",
+                    "objecttype": "thing",
+                    "objectid": "200273",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/200273/die-omama-im-apfelbaum",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/200273/die-omama-im-apfelbaum"
+                },
+                {
+                    "name": "Start Frei",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "154645",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/154645/start-frei",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/154645/start-frei"
+                },
+                {
+                    "name": "Suleika: 2 Teppiche",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "72967",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/72967/suleika-2-teppiche",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/72967/suleika-2-teppiche"
+                }
+            ],
+            "boardgamesolodesigner": [],
+            "boardgameartist": [
+                {
+                    "name": "Agricola: All Creatures Big and Small – More Buildings Big and Small",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "130752",
+                    "primarylink": 1,
+                    "itemstate": "approved",
+                    "href": "/boardgame/130752/agricola-all-creatures-big-and-small-more-building",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/130752/agricola-all-creatures-big-and-small-more-building"
+                },
+                {
+                    "name": "Agricola: Gamers' Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "85704",
+                    "primarylink": 1,
+                    "itemstate": "approved",
+                    "href": "/boardgame/85704/agricola-gamers-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/85704/agricola-gamers-deck"
+                },
+                {
+                    "name": "Altiplano",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "234487",
+                    "primarylink": 1,
+                    "itemstate": "approved",
+                    "href": "/boardgame/234487/altiplano",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/234487/altiplano"
+                },
+                {
+                    "name": "Caverna: Cave vs Cave",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "220520",
+                    "primarylink": 1,
+                    "itemstate": "approved",
+                    "href": "/boardgame/220520/caverna-cave-vs-cave",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/220520/caverna-cave-vs-cave"
+                },
+                {
+                    "name": "Lorenzo il Magnifico",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "203993",
+                    "primarylink": 1,
+                    "itemstate": "approved",
+                    "href": "/boardgame/203993/lorenzo-il-magnifico",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/203993/lorenzo-il-magnifico"
+                },
+                {
+                    "name": "Montana",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "233955",
+                    "primarylink": 1,
+                    "itemstate": "approved",
+                    "href": "/boardgame/233955/montana",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/233955/montana"
+                },
+                {
+                    "name": "1844/1854",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "183308",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/183308/18441854",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/183308/18441854"
+                },
+                {
+                    "name": "1853",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "1493",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/1493/1853",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/1493/1853"
+                },
+                {
+                    "name": "Age of Dirt: A Game of Uncivilization",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "277131",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/277131/age-of-dirt-a-game-of-uncivilization",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/277131/age-of-dirt-a-game-of-uncivilization"
+                },
+                {
+                    "name": "Age of Dirt: Firepit Promo Card",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "309199",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/309199/age-of-dirt-firepit-promo-card",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/309199/age-of-dirt-firepit-promo-card"
+                },
+                {
+                    "name": "Agricola",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "31260",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/31260/agricola",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/31260/agricola"
+                },
+                {
+                    "name": "Agricola (Revised Edition)",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "200680",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/200680/agricola-revised-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/200680/agricola-revised-edition"
+                },
+                {
+                    "name": "Agricola 15",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "359999",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/359999/agricola-15",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/359999/agricola-15"
+                },
+                {
+                    "name": "Agricola Ereigniskarten",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "113413",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/113413/agricola-ereigniskarten",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/113413/agricola-ereigniskarten"
+                },
+                {
+                    "name": "Agricola Game Expansion: Blue",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "216651",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/216651/agricola-game-expansion-blue",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/216651/agricola-game-expansion-blue"
+                },
+                {
+                    "name": "Agricola Game Expansion: Green",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "216650",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/216650/agricola-game-expansion-green",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/216650/agricola-game-expansion-green"
+                },
+                {
+                    "name": "Agricola Game Expansion: Purple",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "216652",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/216652/agricola-game-expansion-purple",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/216652/agricola-game-expansion-purple"
+                },
+                {
+                    "name": "Agricola Game Expansion: Red",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "216654",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/216654/agricola-game-expansion-red",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/216654/agricola-game-expansion-red"
+                },
+                {
+                    "name": "Agricola Game Expansion: White",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "216649",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/216649/agricola-game-expansion-white",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/216649/agricola-game-expansion-white"
+                },
+                {
+                    "name": "Agricola Game Expansion: Yellow",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "216655",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/216655/agricola-game-expansion-yellow",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/216655/agricola-game-expansion-yellow"
+                },
+                {
+                    "name": "Agricola: All Creatures Big and Small",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "119890",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/119890/agricola-all-creatures-big-and-small",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/119890/agricola-all-creatures-big-and-small"
+                },
+                {
+                    "name": "Agricola: All Creatures Big and Small – Even More Buildings Big and Small",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "145355",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/145355/agricola-all-creatures-big-and-small-even-more-bui",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/145355/agricola-all-creatures-big-and-small-even-more-bui"
+                },
+                {
+                    "name": "Agricola: All Creatures Big and Small – The Big Box",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "255262",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/255262/agricola-all-creatures-big-and-small-the-big-box",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/255262/agricola-all-creatures-big-and-small-the-big-box"
+                },
+                {
+                    "name": "Agricola: Artifex Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "234218",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/234218/agricola-artifex-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/234218/agricola-artifex-deck"
+                },
+                {
+                    "name": "Agricola: Belgium Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "131403",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/131403/agricola-belgium-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/131403/agricola-belgium-deck"
+                },
+                {
+                    "name": "Agricola: Bielefeld Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "150732",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/150732/agricola-bielefeld-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/150732/agricola-bielefeld-deck"
+                },
+                {
+                    "name": "Agricola: Biogas Plant Promo Card",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "111165",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/111165/agricola-biogas-plant-promo-card",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/111165/agricola-biogas-plant-promo-card"
+                },
+                {
+                    "name": "Agricola: Brakelhühner Promo Card",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "132592",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/132592/agricola-brakelhuhner-promo-card",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/132592/agricola-brakelhuhner-promo-card"
+                },
+                {
+                    "name": "Agricola: Bubulcus Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "247720",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/247720/agricola-bubulcus-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/247720/agricola-bubulcus-deck"
+                },
+                {
+                    "name": "Agricola: Chłopi i ich zwierzyniec – Jeszcze więcej budynków do zwierzyńca",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "173558",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/173558/agricola-chlopi-i-ich-zwierzyniec-jeszcze-wiecej-b",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/173558/agricola-chlopi-i-ich-zwierzyniec-jeszcze-wiecej-b"
+                },
+                {
+                    "name": "Agricola: Consul Dirigens Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "329847",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/329847/agricola-consul-dirigens-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/329847/agricola-consul-dirigens-deck"
+                },
+                {
+                    "name": "Agricola: Corbarius Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "271144",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/271144/agricola-corbarius-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/271144/agricola-corbarius-deck"
+                },
+                {
+                    "name": "Agricola: CZ-Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "59158",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/59158/agricola-cz-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/59158/agricola-cz-deck"
+                },
+                {
+                    "name": "Agricola: De Lage Landen",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "109012",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/109012/agricola-de-lage-landen",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/109012/agricola-de-lage-landen"
+                },
+                {
+                    "name": "Agricola: Dulcinaria Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "311545",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/311545/agricola-dulcinaria-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/311545/agricola-dulcinaria-deck"
+                },
+                {
+                    "name": "Agricola: Ephipparius Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "393922",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/393922/agricola-ephipparius-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/393922/agricola-ephipparius-deck"
+                },
+                {
+                    "name": "Agricola: Expansion for 5 and 6 Players",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "210625",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/210625/agricola-expansion-for-5-and-6-players",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/210625/agricola-expansion-for-5-and-6-players"
+                },
+                {
+                    "name": "Agricola: Family Edition",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "205418",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/205418/agricola-family-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/205418/agricola-family-edition"
+                },
+                {
+                    "name": "Agricola: Farmers of the Moor",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "43018",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/43018/agricola-farmers-of-the-moor",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/43018/agricola-farmers-of-the-moor"
+                },
+                {
+                    "name": "Agricola: Farmers of the Moor",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "257344",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/257344/agricola-farmers-of-the-moor",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/257344/agricola-farmers-of-the-moor"
+                },
+                {
+                    "name": "Agricola: France Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "166463",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/166463/agricola-france-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/166463/agricola-france-deck"
+                },
+                {
+                    "name": "Agricola: L-Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "39090",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/39090/agricola-l-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/39090/agricola-l-deck"
+                },
+                {
+                    "name": "Agricola: NL-Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "103182",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/103182/agricola-nl-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/103182/agricola-nl-deck"
+                },
+                {
+                    "name": "Agricola: Ö-Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "39256",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/39256/agricola-o-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/39256/agricola-o-deck"
+                },
+                {
+                    "name": "Agricola: Pi-Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "130847",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/130847/agricola-pi-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/130847/agricola-pi-deck"
+                },
+                {
+                    "name": "Agricola: Rozšíření",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "240737",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/240737/agricola-rozsireni",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/240737/agricola-rozsireni"
+                },
+                {
+                    "name": "Agricola: The Goodies Expansion",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "73833",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/73833/agricola-the-goodies-expansion",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/73833/agricola-the-goodies-expansion"
+                },
+                {
+                    "name": "Agricola: The Legen*dairy Forest Deck – Chuck the Wood Chuck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "86457",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/86457/agricola-the-legendairy-forest-deck-chuck-the-wood",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/86457/agricola-the-legendairy-forest-deck-chuck-the-wood"
+                },
+                {
+                    "name": "Agricola: The Legen*dairy Forest-Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "83697",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/83697/agricola-the-legendairy-forest-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/83697/agricola-the-legendairy-forest-deck"
+                },
+                {
+                    "name": "Agricola: Through the Seasons",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "38641",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/38641/agricola-through-the-seasons",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/38641/agricola-through-the-seasons"
+                },
+                {
+                    "name": "Agricola: Times they are a-changing",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "279703",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/279703/agricola-times-they-are-a-changing",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/279703/agricola-times-they-are-a-changing"
+                },
+                {
+                    "name": "Agricola: World Championship Deck – 2011",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "103183",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/103183/agricola-world-championship-deck-2011",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/103183/agricola-world-championship-deck-2011"
+                },
+                {
+                    "name": "Agricola: X-Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "38733",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/38733/agricola-x-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/38733/agricola-x-deck"
+                },
+                {
+                    "name": "Agricola: Z-Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "37235",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/37235/agricola-z-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/37235/agricola-z-deck"
+                },
+                {
+                    "name": "Altiplano: Alpaca Rider Role Tile",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "264015",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/264015/altiplano-alpaca-rider-role-tile",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/264015/altiplano-alpaca-rider-role-tile"
+                },
+                {
+                    "name": "Altiplano: Sunny Days",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "248378",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/248378/altiplano-sunny-days",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/248378/altiplano-sunny-days"
+                },
+                {
+                    "name": "Altiplano: The Traveler",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "257047",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/257047/altiplano-the-traveler",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/257047/altiplano-the-traveler"
+                },
+                {
+                    "name": "Amsterdam",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "314582",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/314582/amsterdam",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/314582/amsterdam"
+                },
+                {
+                    "name": "Andere Länder, Andere Sitten!",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "75955",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/75955/andere-lander-andere-sitten",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/75955/andere-lander-andere-sitten"
+                },
+                {
+                    "name": "At the Gates of Loyang",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "39683",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/39683/at-the-gates-of-loyang",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/39683/at-the-gates-of-loyang"
+                },
+                {
+                    "name": "Auf der schwäb'schen Eisenbohn",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "35589",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/35589/auf-der-schwabschen-eisenbohn",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/35589/auf-der-schwabschen-eisenbohn"
+                },
+                {
+                    "name": "Automobile",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "39351",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/39351/automobile",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/39351/automobile"
+                },
+                {
+                    "name": "Bahnbau Spiel B63",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "393870",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/393870/bahnbau-spiel-b63",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/393870/bahnbau-spiel-b63"
+                },
+                {
+                    "name": "Bakerspeed",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "166658",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/166658/bakerspeed",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/166658/bakerspeed"
+                },
+                {
+                    "name": "Bangkok Klongs",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "82424",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/82424/bangkok-klongs",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/82424/bangkok-klongs"
+                },
+                {
+                    "name": "Bangkok Klongs: Dragon Boat expansion",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "134154",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/134154/bangkok-klongs-dragon-boat-expansion",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/134154/bangkok-klongs-dragon-boat-expansion"
+                },
+                {
+                    "name": "Bärenpark",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "219513",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/219513/barenpark",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/219513/barenpark"
+                },
+                {
+                    "name": "Bärenpark: The Bad News Bears",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "264238",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/264238/barenpark-the-bad-news-bears",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/264238/barenpark-the-bad-news-bears"
+                },
+                {
+                    "name": "Bei dir piept's wohl!",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "434348",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/434348/bei-dir-piepts-wohl",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/434348/bei-dir-piepts-wohl"
+                },
+                {
+                    "name": "Beyond the Horizon",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "421310",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/421310/beyond-the-horizon",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/421310/beyond-the-horizon"
+                },
+                {
+                    "name": "Beyond the Horizon: Promo Set",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "429609",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/429609/beyond-the-horizon-promo-set",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/429609/beyond-the-horizon-promo-set"
+                },
+                {
+                    "name": "Billabong",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "464",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/464/billabong",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/464/billabong"
+                },
+                {
+                    "name": "Blocky Mountains",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "144223",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/144223/blocky-mountains",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/144223/blocky-mountains"
+                },
+                {
+                    "name": "Blocky Mountains: A Little Game Adventure – Save the Goose",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "157662",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/157662/blocky-mountains-a-little-game-adventure-save-the",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/157662/blocky-mountains-a-little-game-adventure-save-the"
+                },
+                {
+                    "name": "Blocky Mountains: Add-on",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "157661",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/157661/blocky-mountains-add-on",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/157661/blocky-mountains-add-on"
+                },
+                {
+                    "name": "Blocky Mountains: Double-Set Bonus Routes",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "157665",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/157665/blocky-mountains-double-set-bonus-routes",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/157665/blocky-mountains-double-set-bonus-routes"
+                },
+                {
+                    "name": "Blocky Mountains: Dream Route Card",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "157664",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/157664/blocky-mountains-dream-route-card",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/157664/blocky-mountains-dream-route-card"
+                },
+                {
+                    "name": "Blocky Mountains: Starting Player Route Card",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "171191",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/171191/blocky-mountains-starting-player-route-card",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/171191/blocky-mountains-starting-player-route-card"
+                },
+                {
+                    "name": "Blocky Mountains: The Big Game Adventure Book",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "157663",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/157663/blocky-mountains-the-big-game-adventure-book",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/157663/blocky-mountains-the-big-game-adventure-book"
+                },
+                {
+                    "name": "Blocky Mountains: The Rock Slide",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "170325",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/170325/blocky-mountains-the-rock-slide",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/170325/blocky-mountains-the-rock-slide"
+                },
+                {
+                    "name": "Bohemian Villages",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "193651",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/193651/bohemian-villages",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/193651/bohemian-villages"
+                },
+                {
+                    "name": "Bohnanza",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "11",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/11/bohnanza",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/11/bohnanza"
+                },
+                {
+                    "name": "Bohnedikt",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "59416",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/59416/bohnedikt",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/59416/bohnedikt"
+                },
+                {
+                    "name": "Bohniläum",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "439088",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/439088/bohnilaum",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/439088/bohnilaum"
+                },
+                {
+                    "name": "Boonlake",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "343905",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/343905/boonlake",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/343905/boonlake"
+                },
+                {
+                    "name": "Boonlake: Artifacts",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "398052",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/398052/boonlake-artifacts",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/398052/boonlake-artifacts"
+                },
+                {
+                    "name": "Bremerhaven",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "137237",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/137237/bremerhaven",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/137237/bremerhaven"
+                },
+                {
+                    "name": "Brettspiel Adventskalender 2015",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "178656",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/178656/brettspiel-adventskalender-2015",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/178656/brettspiel-adventskalender-2015"
+                },
+                {
+                    "name": "Brettspiel Adventskalender 2016",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "204573",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/204573/brettspiel-adventskalender-2016",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/204573/brettspiel-adventskalender-2016"
+                },
+                {
+                    "name": "Brettspiel Easter Basket 2016",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "191779",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/191779/brettspiel-easter-basket-2016",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/191779/brettspiel-easter-basket-2016"
+                },
+                {
+                    "name": "Can't Stop",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "41",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/41/cant-stop",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/41/cant-stop"
+                },
+                {
+                    "name": "Cantaloop: Book 1 – Breaking into Prison",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "325555",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/325555/cantaloop-book-1-breaking-into-prison",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/325555/cantaloop-book-1-breaking-into-prison"
+                },
+                {
+                    "name": "Cantaloop: Book 2 – A Hack of a Plan",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "329962",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/329962/cantaloop-book-2-a-hack-of-a-plan",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/329962/cantaloop-book-2-a-hack-of-a-plan"
+                },
+                {
+                    "name": "The Cathedral of Orléans",
+                    "sortindex": "5",
+                    "objecttype": "thing",
+                    "objectid": "398044",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/398044/the-cathedral-of-orleans",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/398044/the-cathedral-of-orleans"
+                },
+                {
+                    "name": "Caverna: Cave vs Cave – Era II",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "258647",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/258647/caverna-cave-vs-cave-era-ii",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/258647/caverna-cave-vs-cave-era-ii"
+                },
+                {
+                    "name": "Caverna: Cave vs Cave – The Big Box",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "330021",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/330021/caverna-cave-vs-cave-the-big-box",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/330021/caverna-cave-vs-cave-the-big-box"
+                },
+                {
+                    "name": "Caverna: Christmas Chamber",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "154204",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/154204/caverna-christmas-chamber",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/154204/caverna-christmas-chamber"
+                },
+                {
+                    "name": "Caverna: LARP and Cosplay Postcard",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "160803",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/160803/caverna-larp-and-cosplay-postcard",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/160803/caverna-larp-and-cosplay-postcard"
+                },
+                {
+                    "name": "Caverna: Mini Expansion",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "166187",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/166187/caverna-mini-expansion",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/166187/caverna-mini-expansion"
+                },
+                {
+                    "name": "Caverna: The Cave Farmers",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "102794",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/102794/caverna-the-cave-farmers",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/102794/caverna-the-cave-farmers"
+                }
+            ],
+            "boardgamedeveloper": [],
+            "boardgamegraphicdesigner": [
+                {
+                    "name": "Altiplano: The Traveler",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "257047",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/257047/altiplano-the-traveler",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/257047/altiplano-the-traveler"
+                },
+                {
+                    "name": "At the Gates of Loyang",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "39683",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/39683/at-the-gates-of-loyang",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/39683/at-the-gates-of-loyang"
+                },
+                {
+                    "name": "Atiwa",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "362452",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/362452/atiwa",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/362452/atiwa"
+                },
+                {
+                    "name": "Bahnbau Spiel B63",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "393870",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/393870/bahnbau-spiel-b63",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/393870/bahnbau-spiel-b63"
+                },
+                {
+                    "name": "Cantaloop: Book 3 – Against All Odds",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "332804",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/332804/cantaloop-book-3-against-all-odds",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/332804/cantaloop-book-3-against-all-odds"
+                },
+                {
+                    "name": "Doodle Dungeon",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "299939",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/299939/doodle-dungeon",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/299939/doodle-dungeon"
+                },
+                {
+                    "name": "Doodle Dungeon: Promo Pack",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "351480",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/351480/doodle-dungeon-promo-pack",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/351480/doodle-dungeon-promo-pack"
+                },
+                {
+                    "name": "Forest Shuffle",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "391163",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/391163/forest-shuffle",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/391163/forest-shuffle"
+                },
+                {
+                    "name": "Forest Shuffle: Alpine",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "412576",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/412576/forest-shuffle-alpine",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/412576/forest-shuffle-alpine"
+                },
+                {
+                    "name": "Forest Shuffle: Dartmoor",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "438402",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/438402/forest-shuffle-dartmoor",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/438402/forest-shuffle-dartmoor"
+                },
+                {
+                    "name": "Forest Shuffle: Exploration",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "438231",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/438231/forest-shuffle-exploration",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/438231/forest-shuffle-exploration"
+                },
+                {
+                    "name": "Forest Shuffle: Woodland Edge",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "424129",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/424129/forest-shuffle-woodland-edge",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/424129/forest-shuffle-woodland-edge"
+                },
+                {
+                    "name": "Forêt Mixte: Palmier Promo Card",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "416452",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/416452/foret-mixte-palmier-promo-card",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/416452/foret-mixte-palmier-promo-card"
+                },
+                {
+                    "name": "Golem",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "298383",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/298383/golem",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/298383/golem"
+                },
+                {
+                    "name": "Great Western Trail: El Paso",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "431305",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/431305/great-western-trail-el-paso",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/431305/great-western-trail-el-paso"
+                },
+                {
+                    "name": "Hallertau",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "300322",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/300322/hallertau",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/300322/hallertau"
+                },
+                {
+                    "name": "Nusfjord: Expansion Pack #1 – Plaice Deck & Salmon Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "378980",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/378980/nusfjord-expansion-pack-1-plaice-deck-and-salmon-d",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/378980/nusfjord-expansion-pack-1-plaice-deck-and-salmon-d"
+                },
+                {
+                    "name": "Nusfjord: Expansion Pack #2 – Trout Deck and Besøkende Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "378981",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/378981/nusfjord-expansion-pack-2-trout-deck-and-besokende",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/378981/nusfjord-expansion-pack-2-trout-deck-and-besokende"
+                },
+                {
+                    "name": "Nusfjord: Plaice Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "258645",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/258645/nusfjord-plaice-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/258645/nusfjord-plaice-deck"
+                },
+                {
+                    "name": "Oh My Goods!: Big Box",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "417268",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/417268/oh-my-goods-big-box",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/417268/oh-my-goods-big-box"
+                },
+                {
+                    "name": "Patchwork",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "163412",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/163412/patchwork",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/163412/patchwork"
+                },
+                {
+                    "name": "Patterns",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "379583",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/379583/patterns",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/379583/patterns"
+                },
+                {
+                    "name": "Sausage Sizzle!",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "118215",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/118215/sausage-sizzle",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/118215/sausage-sizzle"
+                },
+                {
+                    "name": "TREOS",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "420443",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/420443/treos",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/420443/treos"
+                },
+                {
+                    "name": "Word Spy",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "397611",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/397611/word-spy",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/397611/word-spy"
+                }
+            ],
+            "boardgamesculptor": [],
+            "boardgameeditor": [],
+            "boardgameinsertdesigner": [
+                {
+                    "name": "TREOS",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "420443",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/420443/treos",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/420443/treos"
+                }
+            ],
+            "boardgamewriter": [],
+            "boardgameaccessorydesigner": [],
+            "boardgameaccessoryartist": [
+                {
+                    "name": "Agricola 15th Anniversary Collector's Box",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "370440",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameaccessory/370440/agricola-15th-anniversary-collectors-box",
+                    "canonical_link": "https://boardgamegeek.com/boardgameaccessory/370440/agricola-15th-anniversary-collectors-box"
+                },
+                {
+                    "name": "Agricola: Art Sleeves",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "329884",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameaccessory/329884/agricola-art-sleeves",
+                    "canonical_link": "https://boardgamegeek.com/boardgameaccessory/329884/agricola-art-sleeves"
+                },
+                {
+                    "name": "Agricola: Family Member Sticker Sheet",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "142921",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameaccessory/142921/agricola-family-member-sticker-sheet",
+                    "canonical_link": "https://boardgamegeek.com/boardgameaccessory/142921/agricola-family-member-sticker-sheet"
+                },
+                {
+                    "name": "Carcassonne: Meeple Stickers",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "138364",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameaccessory/138364/carcassonne-meeple-stickers",
+                    "canonical_link": "https://boardgamegeek.com/boardgameaccessory/138364/carcassonne-meeple-stickers"
+                },
+                {
+                    "name": "Clans of Caledonia: 70 Piece Coin Set",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "240840",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameaccessory/240840/clans-of-caledonia-70-piece-coin-set",
+                    "canonical_link": "https://boardgamegeek.com/boardgameaccessory/240840/clans-of-caledonia-70-piece-coin-set"
+                },
+                {
+                    "name": "Grand Austria Hotel: Deluxe Upgrade Pack",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "343005",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameaccessory/343005/grand-austria-hotel-deluxe-upgrade-pack",
+                    "canonical_link": "https://boardgamegeek.com/boardgameaccessory/343005/grand-austria-hotel-deluxe-upgrade-pack"
+                },
+                {
+                    "name": "Luna: Playmat",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "273351",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameaccessory/273351/luna-playmat",
+                    "canonical_link": "https://boardgamegeek.com/boardgameaccessory/273351/luna-playmat"
+                },
+                {
+                    "name": "Newton: Metal Coins",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "439457",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameaccessory/439457/newton-metal-coins",
+                    "canonical_link": "https://boardgamegeek.com/boardgameaccessory/439457/newton-metal-coins"
+                },
+                {
+                    "name": "Ultimate Werewolf: ArtPack",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "202007",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameaccessory/202007/ultimate-werewolf-artpack",
+                    "canonical_link": "https://boardgamegeek.com/boardgameaccessory/202007/ultimate-werewolf-artpack"
+                }
+            ],
+            "boardgameversionartist": [
+                {
+                    "name": "2016 Adventskalender promo",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "329751",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/329751/2016-adventskalender-promo",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/329751/2016-adventskalender-promo"
+                },
+                {
+                    "name": "999 Games Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "21721",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/21721/999-games-dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/21721/999-games-dutch-edition"
+                },
+                {
+                    "name": "999 Games Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "32088",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/32088/999-games-dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/32088/999-games-dutch-edition"
+                },
+                {
+                    "name": "999 Games Dutch first edition 2008",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "20720",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/20720/999-games-dutch-first-edition-2008",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/20720/999-games-dutch-first-edition-2008"
+                },
+                {
+                    "name": "999 Games Dutch second edition 2011",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "165308",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/165308/999-games-dutch-second-edition-2011",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/165308/999-games-dutch-second-edition-2011"
+                },
+                {
+                    "name": "Amigo fan edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "463995",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/463995/amigo-fan-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/463995/amigo-fan-edition"
+                },
+                {
+                    "name": "Arclight Japanese edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "271670",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/271670/arclight-japanese-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/271670/arclight-japanese-edition"
+                },
+                {
+                    "name": "Asmodee Italian edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "516094",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/516094/asmodee-italian-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/516094/asmodee-italian-edition"
+                },
+                {
+                    "name": "ASS German edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "275752",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/275752/ass-german-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/275752/ass-german-edition"
+                },
+                {
+                    "name": "ASS orange edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "167910",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/167910/ass-orange-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/167910/ass-orange-edition"
+                },
+                {
+                    "name": "Australian edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "26708",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/26708/australian-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/26708/australian-edition"
+                },
+                {
+                    "name": "Baltic edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "350599",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/350599/baltic-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/350599/baltic-edition"
+                },
+                {
+                    "name": "Baltic edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "502020",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/502020/baltic-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/502020/baltic-edition"
+                },
+                {
+                    "name": "Brain Games Estonian edition 2010",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "76931",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/76931/brain-games-estonian-edition-2010",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/76931/brain-games-estonian-edition-2010"
+                },
+                {
+                    "name": "Bulgarian edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "352824",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/352824/bulgarian-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/352824/bulgarian-edition"
+                },
+                {
+                    "name": "Capstone English edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "573681",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/573681/capstone-english-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/573681/capstone-english-edition"
+                },
+                {
+                    "name": "Capstone Games English edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "686145",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/686145/capstone-games-english-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/686145/capstone-games-english-edition"
+                },
+                {
+                    "name": "Chinese edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "80873",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/80873/chinese-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/80873/chinese-edition"
+                },
+                {
+                    "name": "Chinese edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "80876",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/80876/chinese-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/80876/chinese-edition"
+                },
+                {
+                    "name": "Chinese edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "80877",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/80877/chinese-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/80877/chinese-edition"
+                },
+                {
+                    "name": "Chinese edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "310025",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/310025/chinese-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/310025/chinese-edition"
+                },
+                {
+                    "name": "Chinese edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "389672",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/389672/chinese-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/389672/chinese-edition"
+                },
+                {
+                    "name": "Chinese edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "397976",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/397976/chinese-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/397976/chinese-edition"
+                },
+                {
+                    "name": "Chinese edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "463756",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/463756/chinese-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/463756/chinese-edition"
+                },
+                {
+                    "name": "Chinese edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "517880",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/517880/chinese-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/517880/chinese-edition"
+                },
+                {
+                    "name": "Chinese edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "733100",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/733100/chinese-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/733100/chinese-edition"
+                },
+                {
+                    "name": "Chinese edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "542932",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/542932/chinese-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/542932/chinese-edition"
+                },
+                {
+                    "name": "Compaya.hu Hungarian edition 2009",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "69505",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/69505/compayahu-hungarian-edition-2009",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/69505/compayahu-hungarian-edition-2009"
+                },
+                {
+                    "name": "Cranio English edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "714453",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/714453/cranio-english-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/714453/cranio-english-edition"
+                },
+                {
+                    "name": "Cranio English edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "729386",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/729386/cranio-english-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/729386/cranio-english-edition"
+                },
+                {
+                    "name": "Czech edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "26831",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/26831/czech-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/26831/czech-edition"
+                },
+                {
+                    "name": "Czech edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "90890",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/90890/czech-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/90890/czech-edition"
+                },
+                {
+                    "name": "Czech edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "260150",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/260150/czech-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/260150/czech-edition"
+                },
+                {
+                    "name": "Czech edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "264689",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/264689/czech-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/264689/czech-edition"
+                },
+                {
+                    "name": "Czech edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "335024",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/335024/czech-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/335024/czech-edition"
+                },
+                {
+                    "name": "Czech edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "378798",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/378798/czech-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/378798/czech-edition"
+                },
+                {
+                    "name": "Czech edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "438438",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/438438/czech-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/438438/czech-edition"
+                },
+                {
+                    "name": "Czech edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "438439",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/438439/czech-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/438439/czech-edition"
+                },
+                {
+                    "name": "Czech edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "157173",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/157173/czech-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/157173/czech-edition"
+                },
+                {
+                    "name": "Czech edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "620394",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/620394/czech-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/620394/czech-edition"
+                },
+                {
+                    "name": "Czech edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "631929",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/631929/czech-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/631929/czech-edition"
+                },
+                {
+                    "name": "Czech edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "529787",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/529787/czech-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/529787/czech-edition"
+                },
+                {
+                    "name": "Czech edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "741644",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/741644/czech-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/741644/czech-edition"
+                },
+                {
+                    "name": "Czech edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "745141",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/745141/czech-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/745141/czech-edition"
+                },
+                {
+                    "name": "Czech edition 2014",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "257025",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/257025/czech-edition-2014",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/257025/czech-edition-2014"
+                },
+                {
+                    "name": "Czech edition 2016",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "328512",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/328512/czech-edition-2016",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/328512/czech-edition-2016"
+                },
+                {
+                    "name": "Czech edition 2020",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "629247",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/629247/czech-edition-2020",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/629247/czech-edition-2020"
+                },
+                {
+                    "name": "Czech edition 2021",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "645154",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/645154/czech-edition-2021",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/645154/czech-edition-2021"
+                },
+                {
+                    "name": "Czech/Slovak edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "312905",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/312905/czechslovak-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/312905/czechslovak-edition"
+                },
+                {
+                    "name": "Danish edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "321215",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/321215/danish-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/321215/danish-edition"
+                },
+                {
+                    "name": "Devir Portuguese edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "377098",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/377098/devir-portuguese-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/377098/devir-portuguese-edition"
+                },
+                {
+                    "name": "Devir Portuguese edition 2015",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "279688",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/279688/devir-portuguese-edition-2015",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/279688/devir-portuguese-edition-2015"
+                },
+                {
+                    "name": "Devir Spanish edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "291380",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/291380/devir-spanish-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/291380/devir-spanish-edition"
+                },
+                {
+                    "name": "Devir Spanish edition 2015",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "301263",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/301263/devir-spanish-edition-2015",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/301263/devir-spanish-edition-2015"
+                },
+                {
+                    "name": "Devir Spanish/Portuguese edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "52111",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/52111/devir-spanishportuguese-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/52111/devir-spanishportuguese-edition"
+                },
+                {
+                    "name": "dlp English edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "433564",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/433564/dlp-english-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/433564/dlp-english-edition"
+                },
+                {
+                    "name": "dlp English edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "676122",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/676122/dlp-english-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/676122/dlp-english-edition"
+                },
+                {
+                    "name": "dlp games English edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "573786",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/573786/dlp-games-english-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/573786/dlp-games-english-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "21720",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/21720/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/21720/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "24011",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/24011/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/24011/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "24490",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/24490/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/24490/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "62454",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/62454/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/62454/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "127914",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/127914/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/127914/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "147390",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/147390/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/147390/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "147396",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/147396/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/147396/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "229953",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/229953/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/229953/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "268502",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/268502/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/268502/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "293790",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/293790/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/293790/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "301926",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/301926/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/301926/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "302068",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/302068/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/302068/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "305210",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/305210/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/305210/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "338701",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/338701/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/338701/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "338702",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/338702/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/338702/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "353020",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/353020/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/353020/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "353021",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/353021/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/353021/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "353022",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/353022/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/353022/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "353023",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/353023/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/353023/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "367685",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/367685/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/367685/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "368366",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/368366/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/368366/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "373929",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/373929/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/373929/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "417677",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/417677/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/417677/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "438281",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/438281/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/438281/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "455804",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/455804/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/455804/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "456530",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/456530/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/456530/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "468479",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/468479/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/468479/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "471464",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/471464/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/471464/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "493689",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/493689/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/493689/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "516994",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/516994/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/516994/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "598228",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/598228/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/598228/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "368292",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/368292/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/368292/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "763302",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/763302/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/763302/dutch-edition"
+                },
+                {
+                    "name": "Dutch edition 2014",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "259450",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/259450/dutch-edition-2014",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/259450/dutch-edition-2014"
+                },
+                {
+                    "name": "Dutch edition 2019",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "646670",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/646670/dutch-edition-2019",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/646670/dutch-edition-2019"
+                },
+                {
+                    "name": "Dutch Essential edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "655697",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/655697/dutch-essential-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/655697/dutch-essential-edition"
+                },
+                {
+                    "name": "Dutch first edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "195354",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/195354/dutch-first-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/195354/dutch-first-edition"
+                },
+                {
+                    "name": "Dutch first edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "295687",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/295687/dutch-first-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/295687/dutch-first-edition"
+                },
+                {
+                    "name": "Dutch first edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "597278",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/597278/dutch-first-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/597278/dutch-first-edition"
+                },
+                {
+                    "name": "Dutch second edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "335499",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/335499/dutch-second-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/335499/dutch-second-edition"
+                },
+                {
+                    "name": "Dutch second edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "546978",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/546978/dutch-second-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/546978/dutch-second-edition"
+                },
+                {
+                    "name": "Dutch/English edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "362115",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/362115/dutchenglish-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/362115/dutchenglish-edition"
+                }
+            ],
+            "boardgameissueauthor": [],
+            "boardgameissueartist": [],
+            "boardgamehonor": []
+        },
+        "linkcounts": {
+            "boardgamedesigner": 9,
+            "boardgamesolodesigner": 0,
+            "boardgameartist": 383,
+            "boardgamedeveloper": 0,
+            "boardgamegraphicdesigner": 25,
+            "boardgamesculptor": 0,
+            "boardgameeditor": 0,
+            "boardgameinsertdesigner": 1,
+            "boardgamewriter": 0,
+            "boardgameaccessorydesigner": 0,
+            "boardgameaccessoryartist": 9,
+            "boardgameversionartist": 1139,
+            "boardgameissueauthor": 0,
+            "boardgameissueartist": 0,
+            "boardgamehonor": 0
+        },
+        "linkcounts_chain": {
+            "boardgamedesigner": 2,
+            "boardgameartist": 83
+        },
+        "secondarynamescount": 0,
+        "alternatenamescount": 0,
+        "primaryname": {
+            "nameid": "59620",
+            "name": "Klemens Franz",
+            "sortindex": "9",
+            "primaryname": "1",
+            "translit": "Klemens Franz"
+        },
+        "alternatenames": [],
+        "description": "<p><strong>Klemens Franz</strong> (born April, 17 1979 in Graz, Austria) is a game artist from Austria.</p>\n\n<p><strong>Notable games include:</strong></p>\n\n<ul>\n    <li>  2007 <a  href=\"/boardgame/31260/agricola\"   >Agricola</a></li>\n    <li>  2008 <a  href=\"/boardgame/35677/le-havre\"   >Le Havre</a></li>\n    <li>  2009 <a  href=\"/boardgame/1493/1853\"   >1853</a> (Lookout Games Edition)</li>\n    <li>  2009 <a  href=\"/boardgameexpansion/43018/agricola-farmers-of-the-moor\"   >Agricola: Farmers of the Moor</a></li>\n    <li>  2009 <a  href=\"/boardgame/39683/at-the-gates-of-loyang\"   >At the Gates of Loyang</a></li>\n    <li>  2010 <a  href=\"/boardgame/70512/luna\"   >Luna</a></li>\n    <li>  2010 <a  href=\"/boardgame/39684/merkator\"   >Merkator</a></li>\n    <li>  2010 <a  href=\"/boardgame/68247/the-mines-of-zavandor\"   >The Mines of Zavandor</a></li>\n    <li>  2010 <a  href=\"/boardgame/82424/bangkok-klongs\"   >Bangkok Klongs</a></li>\n    <li>  2010 <a  href=\"/boardgame/76417/poseidon\"   >Poseidon</a></li>\n    <li>  2011 <a  href=\"/boardgame/101020/pax\"   >PAX</a></li>\n    <li>  2011 <a  href=\"/boardgame/103185/walnut-grove\"   >Walnut Grove</a></li>\n    <li>  2011 <a  href=\"/boardgame/103184/the-gnomes-of-zavandor\"   >The Gnomes of Zavandor</a></li>\n    <li>  2011 <a  href=\"/boardgame/70149/ora-et-labora\"   >Ora et Labora</a></li>\n    <li>  2011 <a  href=\"/boardgame/90040/pergamon\"   >Pergamon</a></li>\n    <li>  2012 <a  href=\"/boardgame/119890/agricola-all-creatures-big-and-small\"   >Agricola: All Creatures Big and Small</a></li>\n    <li>  2012 <a  href=\"/boardgame/129051/le-havre-the-inland-port\"   >Le Havre: The Inland Port</a></li>\n    <li>  2013 <a  href=\"/boardgame/137237/bremerhaven\"   >Bremerhaven</a></li>\n    <li>  2013 <a  href=\"/boardgame/102794/caverna-the-cave-farmers\"   >Caverna: The Cave Farmers</a></li>\n    <li>  2014 <a  href=\"/boardgame/164928/orleans\"   >Orléans</a></li>\n    <li>  2015 <a  href=\"/boardgame/182874/grand-austria-hotel\"   >Grand Austria Hotel</a></li>\n    <li>  2015 <a  href=\"/boardgame/176494/isle-of-skye-from-chieftain-to-king\"   >Isle of Skye: From Chieftain to King</a></li>\n    <li>  2015 <a  href=\"/boardgame/183840/oh-my-goods\"   >Oh My Goods!</a></li>\n    <li>  2017 <a  href=\"/boardgame/216132/clans-of-caledonia\"   >Clans of Caledonia</a></li>\n    <li>  2017 <a  href=\"/boardgame/224133/the-cousins-war\"   >The Cousins' War</a></li>\n    <li>  2019 <a  href=\"/boardgame/272682/expedition-to-newdale\"   >Expedition to Newdale</a></li>\n    <li>  2020 <a  href=\"/boardgame/301716/glasgow\"   >Glasgow</a></li>\n    <li>  2021 <a  href=\"/boardgame/343905/boonlake\"   >Boonlake</a></li>\n</ul>\n\n<p><strong><a class=\"\" href=\"/wiki/page/Microbadges#\">Microbadges</a></strong></p>\n\n<p><a href=\"/microbadge/36226\"><img alt='Microbadge: Klemens Franz fan' onmouseover=\"return overlib('Klemens Franz fan', WRAP );\" onmouseout=\"return nd();\" title=''class='mbimg'loading=\"lazy\"src=\"https://cf.geekdo-static.com/mbs/mb_36226_0.png\"></a> <a href=\"/microbadge/36226\">Klemens Franz fan</a></p>\n\n",
+        "wiki": "<span class='text-muted'>This page does not exist. You can edit this page to create it.</span>",
+        "website": {
+            "url": "http://www.atelier198.com/",
+            "title": "Klemens Franz' blog"
+        },
+        "imageid": "4646335",
+        "images": {
+            "thumb": "https://cf.geekdo-images.com/4uhsfFKuaH8fsZX7mfbD0g__small/img/MBwccjdjJCSFRr8IGWHSGzE2ghw=/fit-in/200x150/filters:strip_icc()/pic4646335.jpg",
+            "micro": "https://cf.geekdo-images.com/4uhsfFKuaH8fsZX7mfbD0g__micro/img/SKZ76gaTBoJs7GZB1jaKvRuJi6M=/fit-in/64x64/filters:strip_icc()/pic4646335.jpg",
+            "square": "https://cf.geekdo-images.com/4uhsfFKuaH8fsZX7mfbD0g__square/img/MfajgaTGNedx2VlRFodpOu8Terc=/75x75/filters:strip_icc()/pic4646335.jpg",
+            "tallthumb": "https://cf.geekdo-images.com/4uhsfFKuaH8fsZX7mfbD0g__tallthumb/img/wzXMiVEbT0Fu9k-2mf-1TSGU-R8=/fit-in/75x125/filters:strip_icc()/pic4646335.jpg",
+            "previewthumb": "https://cf.geekdo-images.com/4uhsfFKuaH8fsZX7mfbD0g__previewthumb/img/fx6qfi4xoNuUeTS3_d5z9jvn8bw=/fit-in/300x320/filters:strip_icc()/pic4646335.jpg",
+            "square200": "https://cf.geekdo-images.com/4uhsfFKuaH8fsZX7mfbD0g__square200/img/Owkkw3XF7vN_l0bkgym36pTYCf0=/200x200/filters:strip_icc()/pic4646335.jpg",
+            "original": "https://cf.geekdo-images.com/4uhsfFKuaH8fsZX7mfbD0g__original/img/rK3PxAU2MjPp18LaMDYMwzy2ayw=/0x0/filters:format(jpeg)/pic4646335.jpg"
+        },
+        "imagepagehref": "/image/4646335/klemens-franz",
+        "imageurl": "https://cf.geekdo-images.com/4uhsfFKuaH8fsZX7mfbD0g__itemrep/img/x8lyKny-DZLFT6owGPUybr4IqZU=/fit-in/246x300/filters:strip_icc()/pic4646335.jpg",
+        "topimageurl": "https://cf.geekdo-images.com/STF5q8SZBW8yQ6Pnn7baJg__itemheader/img/Y7FHJERcweo1wQnHXuw9dQ-GXd0=/800x450/filters:quality(30):strip_icc()/pic604862.jpg",
+        "imageSets": {
+            "square100": {
+                "src": "https://cf.geekdo-images.com/4uhsfFKuaH8fsZX7mfbD0g__square100/img/95_0ZTRG-j9MqPL67Q6P35Jg-ic=/100x100/filters:strip_icc()/pic4646335.jpg",
+                "src@2x": "https://cf.geekdo-images.com/4uhsfFKuaH8fsZX7mfbD0g__square100@2x/img/Owkkw3XF7vN_l0bkgym36pTYCf0=/200x200/filters:strip_icc()/pic4646335.jpg"
+            },
+            "mediacard": {
+                "src": "https://cf.geekdo-images.com/4uhsfFKuaH8fsZX7mfbD0g__mediacard/img/qYzX0-yA0pmquYgLEBvsBZ1lUmk=/288x162/filters:strip_icc()/pic4646335.jpg"
+            }
+        },
+        "itemstate": "approved",
+        "promoted_ad": null,
+        "special_user": {
+            "username": "Mavericius",
+            "userid": "119316"
+        }
+    }
+}

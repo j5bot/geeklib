@@ -1,0 +1,11 @@
+{
+    "entryPoints": [
+        "src/index.ts",
+        "src/account/index.ts",
+        "src/geeklist/index.ts",
+        "src/user/index.ts",
+        "src/utils/*.ts"
+    ],
+    "plugin": ["typedoc-plugin-markdown"],
+    "out": "./docs"
+}

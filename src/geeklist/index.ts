@@ -2,7 +2,7 @@ import { flatten } from 'lodash';
 import { postInit } from '../api';
 import { apiHost } from '../constants';
 import { throttledFetch } from '../limiters';
-import { ImageSets, ItemDescriptor, Link, LinkedImage, Stats } from '../types';
+import { ImageSets, ItemDescriptor, SimpleLink, LinkedImage, Stats } from '../types';
 
 const geeklistsAPI = `${apiHost}/api/geeklists`;
 const geeklistItemsAPI = `${apiHost}/api/listitems`;
@@ -32,7 +32,7 @@ export type Geeklist = GeeklistPost & {
     editdate?: string;
     href: string;
     id?: string;
-    links: Link[];
+    links: SimpleLink[];
     postdate: null | string;
     submitted: boolean;
     type: 'geeklists';
@@ -69,13 +69,15 @@ export type GeeklistItem = GeeklistItemPost & {
     href: string;
     id?: string;
     linkedImages: LinkedImage[];
-    links: Link[];
+    links: SimpleLink[];
     listid: string;
     postdate: string;
     rollsCount: number;
     stats: Stats;
     type: 'listitems';
 };
+
+export type GeeklistResponse = Geeklist | GeeklistItem | GeeklistPostResponse;
 
 const makeGeeklistItemsAPIUrl = (listId: string, pageId: number): string => {
     const urlParams = new URLSearchParams();

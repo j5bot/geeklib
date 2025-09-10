@@ -1,0 +1,1071 @@
+{
+    "item": {
+        "itemid": 58524,
+        "objecttype": "property",
+        "objectid": 1089,
+        "label": "Board Game Category",
+        "labelpl": "Board Game Categories",
+        "shortlabel": "Board Game Category",
+        "shortlabelpl": "Board Game Categories",
+        "type": "properties",
+        "id": "1089",
+        "href": "/boardgamecategory/1089/animals",
+        "canonical_link": "https://boardgamegeek.com/boardgamecategory/1089/animals",
+        "subtype": "boardgamecategory",
+        "subtypes": [
+            "boardgamecategory"
+        ],
+        "versioninfo": {
+            "gamepageorderurl": null,
+            "shopifyitem": null
+        },
+        "name": "Animals",
+        "alternatename": null,
+        "links": {
+            "boardgame": [
+                {
+                    "name": "1 2 3 Good Night",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "286541",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/286541/1-2-3-good-night",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/286541/1-2-3-good-night"
+                },
+                {
+                    "name": "1-2-3 Cheese!",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "337487",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/337487/1-2-3-cheese",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/337487/1-2-3-cheese"
+                },
+                {
+                    "name": "1, 2, 3 bunter Papagei",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "173903",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/173903/1-2-3-bunter-papagei",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/173903/1-2-3-bunter-papagei"
+                },
+                {
+                    "name": "1, 2, 3 Treasures in the Sea",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "16965",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/16965/1-2-3-treasures-in-the-sea",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/16965/1-2-3-treasures-in-the-sea"
+                },
+                {
+                    "name": "1, 2, 3, Papagei!",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "181175",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/181175/1-2-3-papagei",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/181175/1-2-3-papagei"
+                },
+                {
+                    "name": "1,2,3 Glisse !",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "429173",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/429173/123-glisse",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/429173/123-glisse"
+                },
+                {
+                    "name": "1,2,3: kennst du uns?",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "330955",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/330955/123-kennst-du-uns",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/330955/123-kennst-du-uns"
+                },
+                {
+                    "name": "10 Brettspiele",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "25214",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/25214/10-brettspiele",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/25214/10-brettspiele"
+                },
+                {
+                    "name": "10 Gallon Tank",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "292487",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/292487/10-gallon-tank",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/292487/10-gallon-tank"
+                },
+                {
+                    "name": "10 Tail Tangle",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "450293",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/450293/10-tail-tangle",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/450293/10-tail-tangle"
+                },
+                {
+                    "name": "10-Card Moose Evolution Simulator",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "433211",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/433211/10-card-moose-evolution-simulator",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/433211/10-card-moose-evolution-simulator"
+                },
+                {
+                    "name": "10' to Kill",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "174476",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/174476/10-to-kill",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/174476/10-to-kill"
+                },
+                {
+                    "name": "100 Acre Wood Stamp Game",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "8511",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/8511/100-acre-wood-stamp-game",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/8511/100-acre-wood-stamp-game"
+                },
+                {
+                    "name": "Les 1000 Bornes des Animaux",
+                    "sortindex": "5",
+                    "objecttype": "thing",
+                    "objectid": "119722",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/119722/les-1000-bornes-des-animaux",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/119722/les-1000-bornes-des-animaux"
+                },
+                {
+                    "name": "101 Dalmatians",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "96393",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/96393/101-dalmatians",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/96393/101-dalmatians"
+                },
+                {
+                    "name": "101 Dalmatians",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "174659",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/174659/101-dalmatians",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/174659/101-dalmatians"
+                },
+                {
+                    "name": "101 Dalmatians Game",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "12697",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/12697/101-dalmatians-game",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/12697/101-dalmatians-game"
+                },
+                {
+                    "name": "101 Dalmatians Puppy Rescue Card Game",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "15309",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/15309/101-dalmatians-puppy-rescue-card-game",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/15309/101-dalmatians-puppy-rescue-card-game"
+                },
+                {
+                    "name": "101 Dalmatians Spoons Card Game",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "244467",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/244467/101-dalmatians-spoons-card-game",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/244467/101-dalmatians-spoons-card-game"
+                },
+                {
+                    "name": "101 Dalmatians: Spin for Spots",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "33226",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/33226/101-dalmatians-spin-for-spots",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/33226/101-dalmatians-spin-for-spots"
+                },
+                {
+                    "name": "101 Dalmatians: The game based on the film",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "175386",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/175386/101-dalmatians-the-game-based-on-the-film",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/175386/101-dalmatians-the-game-based-on-the-film"
+                },
+                {
+                    "name": "108th Kentucky Derby",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "96653",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/96653/108th-kentucky-derby",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/96653/108th-kentucky-derby"
+                },
+                {
+                    "name": "12 Chinese Zodiac",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "365441",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/365441/12-chinese-zodiac",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/365441/12-chinese-zodiac"
+                },
+                {
+                    "name": "12-0-12: Теория Власти (Theory of Power)",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "345026",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/345026/12-0-12-teoriia-vlasti-theory-of-power",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/345026/12-0-12-teoriia-vlasti-theory-of-power"
+                },
+                {
+                    "name": "13 Animals",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "432488",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/432488/13-animals",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/432488/13-animals"
+                },
+                {
+                    "name": "13 Beavers",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "423850",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/423850/13-beavers",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/423850/13-beavers"
+                },
+                {
+                    "name": "13 Sheep",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "274735",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/274735/13-sheep",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/274735/13-sheep"
+                },
+                {
+                    "name": "13 Wooden Boards",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "412539",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/412539/13-wooden-boards",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/412539/13-wooden-boards"
+                },
+                {
+                    "name": "15 Days",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "298619",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/298619/15-days",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/298619/15-days"
+                },
+                {
+                    "name": "16 Chickens Dice Fight to the Death",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "265974",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/265974/16-chickens-dice-fight-to-the-death",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/265974/16-chickens-dice-fight-to-the-death"
+                },
+                {
+                    "name": "16 lueurs d'hiver",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "406907",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/406907/16-lueurs-dhiver",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/406907/16-lueurs-dhiver"
+                },
+                {
+                    "name": "18ZOO",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "267907",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/267907/18zoo",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/267907/18zoo"
+                },
+                {
+                    "name": "1984: Animal Farm",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "124958",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/124958/1984-animal-farm",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/124958/1984-animal-farm"
+                },
+                {
+                    "name": "21 Days",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "224119",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/224119/21-days",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/224119/21-days"
+                },
+                {
+                    "name": "25",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "265643",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/265643/25",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/265643/25"
+                },
+                {
+                    "name": "3 gewinnt!",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "171396",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/171396/3-gewinnt",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/171396/3-gewinnt"
+                },
+                {
+                    "name": "3 Gnus und 7 Kakadus",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "131505",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/131505/3-gnus-und-7-kakadus",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/131505/3-gnus-und-7-kakadus"
+                },
+                {
+                    "name": "3 Little Pigs",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "320766",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/320766/3-little-pigs",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/320766/3-little-pigs"
+                },
+                {
+                    "name": "The 3 Little Pigs",
+                    "sortindex": "5",
+                    "objecttype": "thing",
+                    "objectid": "32043",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/32043/the-3-little-pigs",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/32043/the-3-little-pigs"
+                },
+                {
+                    "name": "3 Little Pigs and the Big Bad Wolf",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "52586",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/52586/3-little-pigs-and-the-big-bad-wolf",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/52586/3-little-pigs-and-the-big-bad-wolf"
+                },
+                {
+                    "name": "The 3 Little Pigs in the Wild West",
+                    "sortindex": "5",
+                    "objecttype": "thing",
+                    "objectid": "358522",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/358522/the-3-little-pigs-in-the-wild-west",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/358522/the-3-little-pigs-in-the-wild-west"
+                },
+                {
+                    "name": "3 mit Kopf & Pfote: Wettbewerb der Tiere",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "111079",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/111079/3-mit-kopf-and-pfote-wettbewerb-der-tiere",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/111079/3-mit-kopf-and-pfote-wettbewerb-der-tiere"
+                },
+                {
+                    "name": "3 x Naturspielspass",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "332907",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/332907/3-x-naturspielspass",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/332907/3-x-naturspielspass"
+                },
+                {
+                    "name": "3-Ring Circus Card Game",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "4757",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/4757/3-ring-circus-card-game",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/4757/3-ring-circus-card-game"
+                },
+                {
+                    "name": "4 Bananas",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "303067",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/303067/4-bananas",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/303067/4-bananas"
+                },
+                {
+                    "name": "Les 4 Pandastiques",
+                    "sortindex": "5",
+                    "objecttype": "thing",
+                    "objectid": "357899",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/357899/les-4-pandastiques",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/357899/les-4-pandastiques"
+                },
+                {
+                    "name": "4 přírodovědné hry",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "357589",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/357589/4-prirodovedne-hry",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/357589/4-prirodovedne-hry"
+                },
+                {
+                    "name": "4 the Birds",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "175263",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/175263/4-the-birds",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/175263/4-the-birds"
+                },
+                {
+                    "name": "4 Tractors and a Cow Game",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "26318",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/26318/4-tractors-and-a-cow-game",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/26318/4-tractors-and-a-cow-game"
+                },
+                {
+                    "name": "4 хвоста (4 tails)",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "307657",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/307657/4-xvosta-4-tails",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/307657/4-xvosta-4-tails"
+                },
+                {
+                    "name": "4 хвоста.Гремучая пара",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "307777",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/307777/4-xvostagremucaia-para",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/307777/4-xvostagremucaia-para"
+                },
+                {
+                    "name": "40 Hats for 40 Cats",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "88664",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/88664/40-hats-for-40-cats",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/88664/40-hats-for-40-cats"
+                },
+                {
+                    "name": "4Up!",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "94488",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/94488/4up",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/94488/4up"
+                },
+                {
+                    "name": "5 More Minutes",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "334748",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/334748/5-more-minutes",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/334748/5-more-minutes"
+                },
+                {
+                    "name": "5, 2, 3: Gackerei",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "125508",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/125508/5-2-3-gackerei",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/125508/5-2-3-gackerei"
+                },
+                {
+                    "name": "50 animais de zoológico",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "450007",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/450007/50-animais-de-zoologico",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/450007/50-animais-de-zoologico"
+                },
+                {
+                    "name": "50 animais marinhos",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "450123",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/450123/50-animais-marinhos",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/450123/50-animais-marinhos"
+                },
+                {
+                    "name": "50 Bichos de Estimação",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "450041",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/450041/50-bichos-de-estimacao",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/450041/50-bichos-de-estimacao"
+                },
+                {
+                    "name": "50 cães",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "450339",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/450339/50-caes",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/450339/50-caes"
+                },
+                {
+                    "name": "50 Card Games for Children",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "24331",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/24331/50-card-games-for-children",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/24331/50-card-games-for-children"
+                },
+                {
+                    "name": "50 Filhotes",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "450044",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/450044/50-filhotes",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/450044/50-filhotes"
+                },
+                {
+                    "name": "504",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "175878",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/175878/504",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/175878/504"
+                },
+                {
+                    "name": "5x5 Zoo",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "307722",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/307722/5x5-zoo",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/307722/5x5-zoo"
+                },
+                {
+                    "name": "6 Hungry Cats",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "372606",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/372606/6-hungry-cats",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/372606/6-hungry-cats"
+                },
+                {
+                    "name": "6 kleine Spiele",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "11305",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/11305/6-kleine-spiele",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/11305/6-kleine-spiele"
+                },
+                {
+                    "name": "6 nimmt! Junior",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "40958",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/40958/6-nimmt-junior",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/40958/6-nimmt-junior"
+                },
+                {
+                    "name": "Der 6. Tag",
+                    "sortindex": "5",
+                    "objecttype": "thing",
+                    "objectid": "367143",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/367143/der-6-tag",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/367143/der-6-tag"
+                },
+                {
+                    "name": "66 fleurs de printemps",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "433727",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/433727/66-fleurs-de-printemps",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/433727/66-fleurs-de-printemps"
+                },
+                {
+                    "name": "7 for Luck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "446690",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/446690/7-for-luck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/446690/7-for-luck"
+                },
+                {
+                    "name": "De 7 geitjes",
+                    "sortindex": "4",
+                    "objecttype": "thing",
+                    "objectid": "188204",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/188204/de-7-geitjes",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/188204/de-7-geitjes"
+                },
+                {
+                    "name": "7 Safari",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "556",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/556/7-safari",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/556/7-safari"
+                },
+                {
+                    "name": "7 ühe hoobiga",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "230604",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/230604/7-uhe-hoobiga",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/230604/7-uhe-hoobiga"
+                },
+                {
+                    "name": "8 Second Madness",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "20271",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/20271/8-second-madness",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/20271/8-second-madness"
+                },
+                {
+                    "name": "800 Pound Gorilla",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "392097",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/392097/800-pound-gorilla",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/392097/800-pound-gorilla"
+                },
+                {
+                    "name": "9 in a Net",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "416864",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/416864/9-in-a-net",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/416864/9-in-a-net"
+                },
+                {
+                    "name": "9 Lives",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "189190",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/189190/9-lives",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/189190/9-lives"
+                },
+                {
+                    "name": "9 Lives",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "268920",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/268920/9-lives",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/268920/9-lives"
+                },
+                {
+                    "name": "9DKP: Dungeon Series",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "330236",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/330236/9dkp-dungeon-series",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/330236/9dkp-dungeon-series"
+                },
+                {
+                    "name": "9DKP: Series 1",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "329324",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/329324/9dkp-series-1",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/329324/9dkp-series-1"
+                },
+                {
+                    "name": "9DKP: Series 2",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "330234",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/330234/9dkp-series-2",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/330234/9dkp-series-2"
+                },
+                {
+                    "name": "9DKP: Series 3",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "330235",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/330235/9dkp-series-3",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/330235/9dkp-series-3"
+                },
+                {
+                    "name": "A B Seas",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "26661",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/26661/a-b-seas",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/26661/a-b-seas"
+                },
+                {
+                    "name": "À la dérive",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "71025",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/71025/a-la-derive",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/71025/a-la-derive"
+                },
+                {
+                    "name": "A.D.A.P.T.",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "176286",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/176286/adapt",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/176286/adapt"
+                },
+                {
+                    "name": "A.K.A.",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "29135",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/29135/aka",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/29135/aka"
+                },
+                {
+                    "name": "Aardvark",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "43266",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/43266/aardvark",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/43266/aardvark"
+                },
+                {
+                    "name": "Aardvarks vs Aardvarks",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "225492",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/225492/aardvarks-vs-aardvarks",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/225492/aardvarks-vs-aardvarks"
+                },
+                {
+                    "name": "Ab in den Stall",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "132352",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/132352/ab-in-den-stall",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/132352/ab-in-den-stall"
+                },
+                {
+                    "name": "Ab nach Hause!",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "60195",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/60195/ab-nach-hause",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/60195/ab-nach-hause"
+                },
+                {
+                    "name": "Abagio",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "11258",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/11258/abagio",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/11258/abagio"
+                },
+                {
+                    "name": "Abandon Ship",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "41636",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/41636/abandon-ship",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/41636/abandon-ship"
+                },
+                {
+                    "name": "ABC / Animal Bird Fish Mini Card Games",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "388060",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/388060/abc-animal-bird-fish-mini-card-games",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/388060/abc-animal-bird-fish-mini-card-games"
+                },
+                {
+                    "name": "ABC Miam",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "351905",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/351905/abc-miam",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/351905/abc-miam"
+                },
+                {
+                    "name": "ABC: Animals",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "219314",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/219314/abc-animals",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/219314/abc-animals"
+                },
+                {
+                    "name": "ABC: In the Jungle",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "32912",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/32912/abc-in-the-jungle",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/32912/abc-in-the-jungle"
+                },
+                {
+                    "name": "Abducktion",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "368609",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/368609/abducktion",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/368609/abducktion"
+                },
+                {
+                    "name": "Abducktion: Base + Expansion",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "405877",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/405877/abducktion-base-plus-expansion",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/405877/abducktion-base-plus-expansion"
+                },
+                {
+                    "name": "Abducktion: IntergalacDuck Research Expansion",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "369815",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/369815/abducktion-intergalacduck-research-expansion",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/369815/abducktion-intergalacduck-research-expansion"
+                },
+                {
+                    "name": "Abduction Deduction",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "450678",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/450678/abduction-deduction",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/450678/abduction-deduction"
+                },
+                {
+                    "name": "Abdul's Adventure",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "11323",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/11323/abduls-adventure",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/11323/abduls-adventure"
+                }
+            ]
+        },
+        "linkcounts": {
+            "boardgame": 10343
+        },
+        "secondarynamescount": 0,
+        "alternatenamescount": 0,
+        "primaryname": {
+            "nameid": "68677",
+            "name": "Animals",
+            "sortindex": "1",
+            "primaryname": "1",
+            "translit": "Animals"
+        },
+        "alternatenames": [],
+        "description": "<p><em>Animals</em> games involve animals as a major component of the theme or gameplay.  <em>Animals</em> games often require players to attend to the management or control of animals.  Players may even take on the role of an animal (or animals) in the game.</p>\n\n",
+        "wiki": "<span class='text-muted'>This page does not exist. You can edit this page to create it.</span>",
+        "website": {
+            "url": false
+        },
+        "imageid": "6570834",
+        "images": {
+            "thumb": "https://cf.geekdo-images.com/Jrau6DmNpIJ7AETpUrwLow__small/img/Jeo1h0QzCr-dHsPgBwSyIRl8LPk=/fit-in/200x150/filters:strip_icc()/pic6570834.png",
+            "micro": "https://cf.geekdo-images.com/Jrau6DmNpIJ7AETpUrwLow__micro/img/hm3-iAdf6U9HF_Vpn88-gwc2nOM=/fit-in/64x64/filters:strip_icc()/pic6570834.png",
+            "square": "https://cf.geekdo-images.com/Jrau6DmNpIJ7AETpUrwLow__square/img/nrln79hC1GSD_fZqP28rOlgk3dA=/75x75/filters:strip_icc()/pic6570834.png",
+            "tallthumb": "https://cf.geekdo-images.com/Jrau6DmNpIJ7AETpUrwLow__tallthumb/img/W250-kebWkqD7IpbLQ0nLKFXIUM=/fit-in/75x125/filters:strip_icc()/pic6570834.png",
+            "previewthumb": "https://cf.geekdo-images.com/Jrau6DmNpIJ7AETpUrwLow__previewthumb/img/UziWH5WvlVFmLeMz-5wXsNCryNM=/fit-in/300x320/filters:strip_icc()/pic6570834.png",
+            "square200": "https://cf.geekdo-images.com/Jrau6DmNpIJ7AETpUrwLow__square200/img/4k3Rd3nGH4dlV_0LS7h60USrHSE=/200x200/filters:strip_icc()/pic6570834.png",
+            "original": "https://cf.geekdo-images.com/Jrau6DmNpIJ7AETpUrwLow__original/img/nrmNy60gjPZSkkIe60LBDwuzc8A=/0x0/filters:format(png)/pic6570834.png"
+        },
+        "imagepagehref": "/image/6570834/animals",
+        "imageurl": "https://cf.geekdo-images.com/Jrau6DmNpIJ7AETpUrwLow__itemrep/img/r4DwHBthDI60WuPRHkA5ewfbEPo=/fit-in/246x300/filters:strip_icc()/pic6570834.png",
+        "topimageurl": "https://cf.geekdo-images.com/zJVpHdQVbuH9vA5UWJ1SqQ__itemheader/img/SMp-n55mYvT6b2_Xvb52YccyvcE=/800x450/filters:quality(30):strip_icc()/pic3900816.png",
+        "imageSets": {
+            "square100": {
+                "src": "https://cf.geekdo-images.com/Jrau6DmNpIJ7AETpUrwLow__square100/img/qYDF9IFqjgjcG6nlmMyMcCZA1SQ=/100x100/filters:strip_icc()/pic6570834.png",
+                "src@2x": "https://cf.geekdo-images.com/Jrau6DmNpIJ7AETpUrwLow__square100@2x/img/4k3Rd3nGH4dlV_0LS7h60USrHSE=/200x200/filters:strip_icc()/pic6570834.png"
+            },
+            "mediacard": {
+                "src": "https://cf.geekdo-images.com/Jrau6DmNpIJ7AETpUrwLow__mediacard/img/ewIpBgjCRBNgyWIH0-jIUFl7CHo=/288x162/filters:strip_icc()/pic6570834.png"
+            }
+        },
+        "itemstate": "approved",
+        "promoted_ad": null
+    }
+}

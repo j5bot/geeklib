@@ -1,0 +1,215 @@
+{
+    "items": [
+        {
+            "name": "Klemens Franz",
+            "postdate": "2008-12-10 11:58:42",
+            "linkid": "222225",
+            "linktype": "boardgameartist",
+            "objecttype": "person",
+            "objectid": "11507",
+            "itemstate": "approved",
+            "rep_imageid": "4646335",
+            "subtype": "boardgameartist",
+            "links": [],
+            "href": "/boardgamedesigner/11507/klemens-franz",
+            "images": {
+                "thumb": "https://cf.geekdo-images.com/4uhsfFKuaH8fsZX7mfbD0g__small/img/MBwccjdjJCSFRr8IGWHSGzE2ghw=/fit-in/200x150/filters:strip_icc()/pic4646335.jpg",
+                "micro": "https://cf.geekdo-images.com/4uhsfFKuaH8fsZX7mfbD0g__micro/img/SKZ76gaTBoJs7GZB1jaKvRuJi6M=/fit-in/64x64/filters:strip_icc()/pic4646335.jpg",
+                "square": "https://cf.geekdo-images.com/4uhsfFKuaH8fsZX7mfbD0g__square/img/MfajgaTGNedx2VlRFodpOu8Terc=/75x75/filters:strip_icc()/pic4646335.jpg",
+                "tallthumb": "https://cf.geekdo-images.com/4uhsfFKuaH8fsZX7mfbD0g__tallthumb/img/wzXMiVEbT0Fu9k-2mf-1TSGU-R8=/fit-in/75x125/filters:strip_icc()/pic4646335.jpg",
+                "previewthumb": "https://cf.geekdo-images.com/4uhsfFKuaH8fsZX7mfbD0g__previewthumb/img/fx6qfi4xoNuUeTS3_d5z9jvn8bw=/fit-in/300x320/filters:strip_icc()/pic4646335.jpg",
+                "square200": "https://cf.geekdo-images.com/4uhsfFKuaH8fsZX7mfbD0g__square200/img/Owkkw3XF7vN_l0bkgym36pTYCf0=/200x200/filters:strip_icc()/pic4646335.jpg",
+                "original": "https://cf.geekdo-images.com/4uhsfFKuaH8fsZX7mfbD0g__original/img/rK3PxAU2MjPp18LaMDYMwzy2ayw=/0x0/filters:format(jpeg)/pic4646335.jpg"
+            }
+        }
+    ],
+    "itemdata": [
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "name",
+            "title": "Name",
+            "primaryname": true,
+            "required": true,
+            "unclickable": true,
+            "fullcredits": true,
+            "subtype": "boardgameartist",
+            "keyname": "name"
+        },
+        {
+            "datatype": "geekitem_fielddata",
+            "fieldname": "alternatename",
+            "title": "Alternate Names",
+            "alternate": true,
+            "unclickable": true,
+            "fullcredits": true,
+            "subtype": "boardgameartist",
+            "keyname": "alternatename"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "thing",
+            "other_subtype": "boardgame",
+            "lookup_subtype": "boardgame",
+            "linktype": "boardgamedesigner",
+            "self_prefix": "dst",
+            "chain_index": [
+                "boardgamehonor"
+            ],
+            "chain_title": "Honors",
+            "title": "Board Game Designer Credits",
+            "keyname": "boardgamedesigner"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "thing",
+            "other_subtype": "boardgame",
+            "lookup_subtype": "boardgame",
+            "linktype": "boardgamesolodesigner",
+            "self_prefix": "dst",
+            "title": "Board Game Solo Designer Credits",
+            "keyname": "boardgamesolodesigner"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "thing",
+            "other_subtype": "boardgame",
+            "lookup_subtype": "boardgame",
+            "linktype": "boardgameartist",
+            "chain_index": [
+                "boardgamehonor"
+            ],
+            "chain_title": "Honors",
+            "self_prefix": "dst",
+            "title": "Board Game Artist Credits",
+            "keyname": "boardgameartist"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "thing",
+            "other_subtype": "boardgame",
+            "lookup_subtype": "boardgame",
+            "linktype": "boardgamedeveloper",
+            "self_prefix": "dst",
+            "title": "Board Game Developer",
+            "keyname": "boardgamedeveloper"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "thing",
+            "other_subtype": "boardgame",
+            "lookup_subtype": "boardgame",
+            "linktype": "boardgamegraphicdesigner",
+            "self_prefix": "dst",
+            "title": "Board Game Graphic Designer",
+            "keyname": "boardgamegraphicdesigner"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "thing",
+            "other_subtype": "boardgame",
+            "lookup_subtype": "boardgame",
+            "linktype": "boardgamesculptor",
+            "self_prefix": "dst",
+            "title": "Board Game Sculptor",
+            "keyname": "boardgamesculptor"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "thing",
+            "other_subtype": "boardgame",
+            "lookup_subtype": "boardgame",
+            "linktype": "boardgameeditor",
+            "self_prefix": "dst",
+            "title": "Board Game Editor",
+            "keyname": "boardgameeditor"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "thing",
+            "other_subtype": "boardgame",
+            "lookup_subtype": "boardgame",
+            "linktype": "boardgameinsertdesigner",
+            "self_prefix": "dst",
+            "title": "Board Game Insert Designer",
+            "keyname": "boardgameinsertdesigner"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "thing",
+            "other_subtype": "boardgame",
+            "lookup_subtype": "boardgame",
+            "linktype": "boardgamewriter",
+            "self_prefix": "dst",
+            "title": "Board Game Writer",
+            "keyname": "boardgamewriter"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "thing",
+            "other_subtype": "boardgameaccessory",
+            "lookup_subtype": "boardgameaccessory",
+            "linktype": "boardgamedesigner",
+            "self_prefix": "dst",
+            "title": "Board Game Accessory Design Credits",
+            "keyname": "boardgameaccessorydesigner"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "thing",
+            "other_subtype": "boardgameaccessory",
+            "lookup_subtype": "boardgameaccessory",
+            "linktype": "boardgameartist",
+            "self_prefix": "dst",
+            "title": "Board Game Accessory Art Credits",
+            "keyname": "boardgameaccessoryartist"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "version",
+            "other_subtype": "boardgameversion",
+            "lookup_subtype": "boardgameversion",
+            "linktype": "boardgameartist",
+            "self_prefix": "dst",
+            "title": "Board Game Version Art Credits",
+            "keyname": "boardgameversionartist"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "thing",
+            "other_subtype": "boardgameissue",
+            "lookup_subtype": "boardgameissue",
+            "linktype": "boardgameauthor",
+            "self_prefix": "dst",
+            "correctioncomment": "For periodical authors only.",
+            "title": "Board Game Issue Author Credits",
+            "keyname": "boardgameissueauthor"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "thing",
+            "other_subtype": "boardgameissue",
+            "lookup_subtype": "boardgameissue",
+            "linktype": "boardgameartist",
+            "self_prefix": "dst",
+            "correctioncomment": "For periodical artists only.",
+            "title": "Board Game Issue Artist Credits",
+            "keyname": "boardgameissueartist"
+        },
+        {
+            "datatype": "geekitem_linkdata",
+            "other_objecttype": "family",
+            "other_subtype": "boardgamehonor",
+            "lookup_subtype": "boardgamehonor",
+            "linktype": "boardgamehonor",
+            "self_prefix": "src",
+            "title": "Honors",
+            "keyname": "boardgamehonor"
+        }
+    ],
+    "linkdata": [],
+    "config": {
+        "numitems": 1,
+        "sortdata": [],
+        "filters": []
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "item": {
+        "itemid": 1032199,
+        "objecttype": "version",
+        "objectid": 213788,
+        "label": "Board Game Version",
+        "labelpl": "Board Game Versions",
+        "shortlabel": "Board Game Version",
+        "shortlabelpl": "Board Game Versions",
+        "type": "versions",
+        "id": "213788",
+        "href": "/boardgameversion/213788/stratelibri-italian-third-edition",
+        "canonical_link": "https://boardgamegeek.com/boardgameversion/213788/stratelibri-italian-third-edition",
+        "subtype": "boardgameversion",
+        "subtypes": [
+            "boardgameversion"
+        ],
+        "versioninfo": {
+            "orderurl": "",
+            "overrideordertype": "",
+            "orderstartdate": "0000-00-00",
+            "orderenddate": "0000-00-00",
+            "shopifyname": "",
+            "gamepageorderurl": null,
+            "shopifyitem": null
+        },
+        "links": {
+            "boardgame": [
+                {
+                    "name": "Agricola",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "31260",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/31260/agricola",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/31260/agricola"
+                }
+            ],
+            "boardgamepublisher": [
+                {
+                    "name": "Stratelibri",
+                    "sortindex": "1",
+                    "objecttype": "company",
+                    "objectid": "3888",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgamepublisher/3888/stratelibri",
+                    "canonical_link": "https://boardgamegeek.com/boardgamepublisher/3888/stratelibri"
+                }
+            ],
+            "boardgameartist": [
+                {
+                    "name": "Klemens Franz",
+                    "sortindex": "9",
+                    "objecttype": "person",
+                    "objectid": "11507",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameartist/11507/klemens-franz",
+                    "canonical_link": "https://boardgamegeek.com/boardgamedesigner/11507/klemens-franz"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Italian",
+                    "sortindex": "1",
+                    "objecttype": "property",
+                    "objectid": "2193",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/language/2193/italian",
+                    "canonical_link": "https://boardgamegeek.com/language/2193/italian"
+                }
+            ]
+        },
+        "linkcounts": {
+            "boardgame": 1,
+            "boardgamepublisher": 1,
+            "boardgameartist": 1,
+            "languages": 1
+        },
+        "linkednameid": "29434",
+        "name": "Agricola (Stratelibri Italian third edition)",
+        "alternatename": null,
+        "yearpublished": "2012",
+        "productcode": "8034063200123",
+        "dimensions": null,
+        "weight": "0",
+        "length": "0",
+        "width": "0",
+        "depth": "0",
+        "releasedate": "0000-00-00",
+        "overridedate": "",
+        "releasecomment": "",
+        "releasestatus": "released",
+        "ordertype": null,
+        "orderurl": "",
+        "orderstartdate": "0000-00-00",
+        "orderenddate": "0000-00-00",
+        "secondarynamescount": 0,
+        "alternatenamescount": 0,
+        "linkedname": "Agricola",
+        "versionname": "Stratelibri Italian third edition",
+        "primaryname": {
+            "nameid": "788667",
+            "name": "Stratelibri Italian third edition",
+            "sortindex": "1",
+            "primaryname": "1",
+            "translit": "Stratelibri Italian third edition"
+        },
+        "alternatenames": [],
+        "description": "<p>This version doesn't have any error printed on the cards and includes animeeples.</p>\n\n",
+        "wiki": "",
+        "website": {
+            "url": false
+        },
+        "imageid": "8370936",
+        "images": {
+            "thumb": "https://cf.geekdo-images.com/ukbHLbt6WHqUGeIyvbaapA__small/img/QbBCyh77Xn-CiMG3duogn5PSHXY=/fit-in/200x150/filters:strip_icc()/pic8370936.jpg",
+            "micro": "https://cf.geekdo-images.com/ukbHLbt6WHqUGeIyvbaapA__micro/img/HGfBQpzvf5J4j54XRMqSDLAQxVM=/fit-in/64x64/filters:strip_icc()/pic8370936.jpg",
+            "square": "https://cf.geekdo-images.com/ukbHLbt6WHqUGeIyvbaapA__square/img/1WezUv_wH5Jmsb99CTZT-2tH3jY=/75x75/filters:strip_icc()/pic8370936.jpg",
+            "tallthumb": "https://cf.geekdo-images.com/ukbHLbt6WHqUGeIyvbaapA__tallthumb/img/EU27E85FM9_sYIXvnZ_Ovd2TvYw=/fit-in/75x125/filters:strip_icc()/pic8370936.jpg",
+            "previewthumb": "https://cf.geekdo-images.com/ukbHLbt6WHqUGeIyvbaapA__previewthumb/img/9oB7aR8vQc9gxLsg7VhslZtbVok=/fit-in/300x320/filters:strip_icc()/pic8370936.jpg",
+            "square200": "https://cf.geekdo-images.com/ukbHLbt6WHqUGeIyvbaapA__square200/img/NGOxGKoW6sYneReIIlnVvUeLKxc=/200x200/filters:strip_icc()/pic8370936.jpg",
+            "original": "https://cf.geekdo-images.com/ukbHLbt6WHqUGeIyvbaapA__original/img/gdxUWPaohEYR51SHISCCuyu3Jg0=/0x0/filters:format(jpeg)/pic8370936.jpg"
+        },
+        "imagepagehref": "/image/8370936/agricola",
+        "imageurl": "https://cf.geekdo-images.com/ukbHLbt6WHqUGeIyvbaapA__itemrep/img/lWwj46g7HX5j5OEDMKnwtQ29YSY=/fit-in/246x300/filters:strip_icc()/pic8370936.jpg",
+        "imageurl@2x": "https://cf.geekdo-images.com/ukbHLbt6WHqUGeIyvbaapA__itemrep@2x/img/xeSYU_d8HnSU2Z175bDv-9gCne0=/fit-in/492x600/filters:strip_icc()/pic8370936.jpg",
+        "topimageurl": "https://cf.geekdo-images.com/SmGPzzIes3KtgQmg6JoEqw__itemheader/img/DNInsZgKHNviHf7R7xR2gXN93SU=/800x450/filters:quality(30):strip_icc()/pic1593474.jpg",
+        "imageSets": {
+            "square100": {
+                "src": "https://cf.geekdo-images.com/ukbHLbt6WHqUGeIyvbaapA__square100/img/bo89G9SA2NM2QXVaZdsOB7hL2tE=/0x149:2044x2754/fit-in/100x100/filters:fill(blur):strip_icc()/pic8370936.jpg",
+                "src@2x": "https://cf.geekdo-images.com/ukbHLbt6WHqUGeIyvbaapA__square100@2x/img/qoEGH3jxl6aszaScrETnFmmexd0=/0x149:2044x2754/fit-in/200x200/filters:fill(blur):strip_icc()/pic8370936.jpg"
+            },
+            "mediacard": {
+                "src": "https://cf.geekdo-images.com/ukbHLbt6WHqUGeIyvbaapA__mediacard/img/yuaGkT1B_83-Lg3mJbddYu7Nv0o=/0x149:2044x2754/fit-in/288x162/filters:fill(blur):strip_icc()/pic8370936.jpg",
+                "src@2x": "https://cf.geekdo-images.com/ukbHLbt6WHqUGeIyvbaapA__mediacard@2x/img/dfxJc_yHzwiAGX_iu5WlyCF-b7g=/0x149:2044x2754/fit-in/576x324/filters:fill(blur):strip_icc()/pic8370936.jpg"
+            }
+        },
+        "itemstate": "approved",
+        "promoted_ad": null
+    }
+}

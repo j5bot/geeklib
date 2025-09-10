@@ -1,0 +1,1170 @@
+{
+    "itemid": 1375004,
+    "objecttype": "thing",
+    "objectid": 180974,
+    "label": "Board Game",
+    "labelpl": "Board Games",
+    "shortlabel": "Game",
+    "shortlabelpl": "Games",
+    "type": "things",
+    "id": "180974",
+    "href": "/boardgame/180974/potion-explosion",
+    "canonical_link": "https://boardgamegeek.com/boardgame/180974/potion-explosion",
+    "subtype": "boardgame",
+    "subtypes": [
+        "boardgame"
+    ],
+    "versioninfo": {
+        "gamepageorderurl": null,
+        "shopifyitem": null
+    },
+    "name": "Potion Explosion",
+    "alternatename": null,
+    "yearpublished": "2015",
+    "minplayers": "2",
+    "maxplayers": "4",
+    "minplaytime": "30",
+    "maxplaytime": "45",
+    "minage": "8",
+    "override_rankable": 0,
+    "reviews_restricted": 0,
+    "targetco_url": "",
+    "walmart_id": "50291187",
+    "instructional_videoid": "104959",
+    "summary_videoid": "76008",
+    "playthrough_videoid": null,
+    "focus_videoid": null,
+    "howtoplay_videoid": null,
+    "bggstore_product": null,
+    "short_description": "Collect and combine ingredients to mix potions and try to become Student of The Year.",
+    "links": {
+        "boardgamedesigner": [
+            {
+                "name": "Stefano Castelli",
+                "sortindex": "9",
+                "objecttype": "person",
+                "objectid": "8313",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamedesigner/8313/stefano-castelli",
+                "canonical_link": "https://boardgamegeek.com/boardgamedesigner/8313/stefano-castelli"
+            },
+            {
+                "name": "Andrea Crespi",
+                "sortindex": "8",
+                "objecttype": "person",
+                "objectid": "59915",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamedesigner/59915/andrea-crespi",
+                "canonical_link": "https://boardgamegeek.com/boardgamedesigner/59915/andrea-crespi"
+            },
+            {
+                "name": "Lorenzo Silva",
+                "sortindex": "9",
+                "objecttype": "person",
+                "objectid": "28238",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamedesigner/28238/lorenzo-silva",
+                "canonical_link": "https://boardgamegeek.com/boardgamedesigner/28238/lorenzo-silva"
+            }
+        ],
+        "boardgamesolodesigner": [],
+        "boardgameartist": [
+            {
+                "name": "Giulia Ghigini",
+                "sortindex": "8",
+                "objecttype": "person",
+                "objectid": "28355",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameartist/28355/giulia-ghigini",
+                "canonical_link": "https://boardgamegeek.com/boardgameartist/28355/giulia-ghigini"
+            }
+        ],
+        "boardgamepublisher": [
+            {
+                "name": "Horrible Guild",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "26623",
+                "primarylink": 1,
+                "itemstate": "approved",
+                "href": "/boardgamepublisher/26623/horrible-guild",
+                "canonical_link": "https://boardgamegeek.com/boardgamepublisher/26623/horrible-guild"
+            },
+            {
+                "name": "999 Games",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "267",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamepublisher/267/999-games",
+                "canonical_link": "https://boardgamegeek.com/boardgamepublisher/267/999-games"
+            },
+            {
+                "name": "ADC Blackfire Entertainment",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "23043",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamepublisher/23043/adc-blackfire-entertainment",
+                "canonical_link": "https://boardgamegeek.com/boardgamepublisher/23043/adc-blackfire-entertainment"
+            },
+            {
+                "name": "BoardM Factory",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "25074",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamepublisher/25074/boardm-factory",
+                "canonical_link": "https://boardgamegeek.com/boardgamepublisher/25074/boardm-factory"
+            },
+            {
+                "name": "Broadway Toys LTD",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "9068",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamepublisher/9068/broadway-toys-ltd",
+                "canonical_link": "https://boardgamegeek.com/boardgamepublisher/9068/broadway-toys-ltd"
+            },
+            {
+                "name": "CMON Global Limited",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "21608",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamepublisher/21608/cmon-global-limited",
+                "canonical_link": "https://boardgamegeek.com/boardgamepublisher/21608/cmon-global-limited"
+            },
+            {
+                "name": "Cool Mini Or Not",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "34793",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamepublisher/34793/cool-mini-or-not",
+                "canonical_link": "https://boardgamegeek.com/boardgamepublisher/34793/cool-mini-or-not"
+            },
+            {
+                "name": "Delta Vision Publishing",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "6194",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamepublisher/6194/delta-vision-publishing",
+                "canonical_link": "https://boardgamegeek.com/boardgamepublisher/6194/delta-vision-publishing"
+            },
+            {
+                "name": "Edge Entertainment",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "2973",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamepublisher/2973/edge-entertainment",
+                "canonical_link": "https://boardgamegeek.com/boardgamepublisher/2973/edge-entertainment"
+            },
+            {
+                "name": "Galápagos Jogos",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "15605",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamepublisher/15605/galapagos-jogos",
+                "canonical_link": "https://boardgamegeek.com/boardgamepublisher/15605/galapagos-jogos"
+            },
+            {
+                "name": "Games7Days",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "48438",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamepublisher/48438/games7days",
+                "canonical_link": "https://boardgamegeek.com/boardgamepublisher/48438/games7days"
+            },
+            {
+                "name": "Ghenos Games",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "4785",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamepublisher/4785/ghenos-games",
+                "canonical_link": "https://boardgamegeek.com/boardgamepublisher/4785/ghenos-games"
+            },
+            {
+                "name": "HaKubia",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "23382",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamepublisher/23382/hakubia",
+                "canonical_link": "https://boardgamegeek.com/boardgamepublisher/23382/hakubia"
+            },
+            {
+                "name": "HeidelBÄR Games",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "38505",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamepublisher/38505/heidelbar-games",
+                "canonical_link": "https://boardgamegeek.com/boardgamepublisher/38505/heidelbar-games"
+            },
+            {
+                "name": "Heidelberger Spieleverlag",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "264",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamepublisher/264/heidelberger-spieleverlag",
+                "canonical_link": "https://boardgamegeek.com/boardgamepublisher/264/heidelberger-spieleverlag"
+            },
+            {
+                "name": "Hobby Japan",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "1391",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamepublisher/1391/hobby-japan",
+                "canonical_link": "https://boardgamegeek.com/boardgamepublisher/1391/hobby-japan"
+            },
+            {
+                "name": "IELLO",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "8923",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamepublisher/8923/iello",
+                "canonical_link": "https://boardgamegeek.com/boardgamepublisher/8923/iello"
+            },
+            {
+                "name": "InterHit",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "27405",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamepublisher/27405/interhit",
+                "canonical_link": "https://boardgamegeek.com/boardgamepublisher/27405/interhit"
+            },
+            {
+                "name": "Lanlalen",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "36210",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamepublisher/36210/lanlalen",
+                "canonical_link": "https://boardgamegeek.com/boardgamepublisher/36210/lanlalen"
+            },
+            {
+                "name": "MINDOK",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "7992",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamepublisher/7992/mindok",
+                "canonical_link": "https://boardgamegeek.com/boardgamepublisher/7992/mindok"
+            },
+            {
+                "name": "Rebel Sp. z o.o.",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "7466",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamepublisher/7466/rebel-sp-z-oo",
+                "canonical_link": "https://boardgamegeek.com/boardgamepublisher/7466/rebel-sp-z-oo"
+            },
+            {
+                "name": "SuperHeated Neurons",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "48279",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamepublisher/48279/superheated-neurons",
+                "canonical_link": "https://boardgamegeek.com/boardgamepublisher/48279/superheated-neurons"
+            },
+            {
+                "name": "Swan Panasia Co., Ltd.",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "9234",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamepublisher/9234/swan-panasia-co-ltd",
+                "canonical_link": "https://boardgamegeek.com/boardgamepublisher/9234/swan-panasia-co-ltd"
+            }
+        ],
+        "boardgamedeveloper": [],
+        "boardgamegraphicdesigner": [],
+        "boardgamesculptor": [],
+        "boardgameeditor": [],
+        "boardgamewriter": [],
+        "boardgameinsertdesigner": [],
+        "boardgamehonor": [
+            {
+                "name": "2016 Board Game Quest Awards Most Innovative Game Nominee",
+                "sortindex": "1",
+                "objecttype": "family",
+                "objectid": "61795",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamehonor/61795/2016-board-game-quest-awards-most-innovative-game",
+                "canonical_link": "https://boardgamegeek.com/boardgamehonor/61795/2016-board-game-quest-awards-most-innovative-game"
+            },
+            {
+                "name": "2016 Cardboard Republic Socializer Laurel Nominee",
+                "sortindex": "1",
+                "objecttype": "family",
+                "objectid": "46033",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamehonor/46033/2016-cardboard-republic-socializer-laurel-nominee",
+                "canonical_link": "https://boardgamegeek.com/boardgamehonor/46033/2016-cardboard-republic-socializer-laurel-nominee"
+            },
+            {
+                "name": "2016 Gioco dell’Anno Nominee",
+                "sortindex": "1",
+                "objecttype": "family",
+                "objectid": "48616",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamehonor/48616/2016-gioco-dell-anno-nominee",
+                "canonical_link": "https://boardgamegeek.com/boardgamehonor/48616/2016-gioco-dell-anno-nominee"
+            },
+            {
+                "name": "2016 Gioco dell’Anno Winner",
+                "sortindex": "1",
+                "objecttype": "family",
+                "objectid": "48620",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamehonor/48620/2016-gioco-dell-anno-winner",
+                "canonical_link": "https://boardgamegeek.com/boardgamehonor/48620/2016-gioco-dell-anno-winner"
+            },
+            {
+                "name": "2016 Juego del Año Recommended",
+                "sortindex": "1",
+                "objecttype": "family",
+                "objectid": "65399",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamehonor/65399/2016-juego-del-ano-recommended",
+                "canonical_link": "https://boardgamegeek.com/boardgamehonor/65399/2016-juego-del-ano-recommended"
+            },
+            {
+                "name": "2016 JUGuinho Children Game of the Year Finalist",
+                "sortindex": "1",
+                "objecttype": "family",
+                "objectid": "65469",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamehonor/65469/2016-juguinho-children-game-of-the-year-finalist",
+                "canonical_link": "https://boardgamegeek.com/boardgamehonor/65469/2016-juguinho-children-game-of-the-year-finalist"
+            },
+            {
+                "name": "2016 JUGuinho Children Game of the Year Winner",
+                "sortindex": "1",
+                "objecttype": "family",
+                "objectid": "65454",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamehonor/65454/2016-juguinho-children-game-of-the-year-winner",
+                "canonical_link": "https://boardgamegeek.com/boardgamehonor/65454/2016-juguinho-children-game-of-the-year-winner"
+            },
+            {
+                "name": "2017 Gra Roku Family Game of the Year Nominee",
+                "sortindex": "1",
+                "objecttype": "family",
+                "objectid": "64064",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamehonor/64064/2017-gra-roku-family-game-of-the-year-nominee",
+                "canonical_link": "https://boardgamegeek.com/boardgamehonor/64064/2017-gra-roku-family-game-of-the-year-nominee"
+            }
+        ],
+        "boardgamecategory": [
+            {
+                "name": "Fantasy",
+                "sortindex": "1",
+                "objecttype": "property",
+                "objectid": "1010",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamecategory/1010/fantasy",
+                "canonical_link": "https://boardgamegeek.com/boardgamecategory/1010/fantasy"
+            },
+            {
+                "name": "Puzzle",
+                "sortindex": "1",
+                "objecttype": "property",
+                "objectid": "1028",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamecategory/1028/puzzle",
+                "canonical_link": "https://boardgamegeek.com/boardgamecategory/1028/puzzle"
+            }
+        ],
+        "boardgamemechanic": [
+            {
+                "name": "Contracts",
+                "sortindex": "1",
+                "objecttype": "property",
+                "objectid": "2912",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamemechanic/2912/contracts",
+                "canonical_link": "https://boardgamegeek.com/boardgamemechanic/2912/contracts"
+            },
+            {
+                "name": "Open Drafting",
+                "sortindex": "1",
+                "objecttype": "property",
+                "objectid": "2041",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamemechanic/2041/open-drafting",
+                "canonical_link": "https://boardgamegeek.com/boardgamemechanic/2041/open-drafting"
+            },
+            {
+                "name": "Pattern Recognition",
+                "sortindex": "1",
+                "objecttype": "property",
+                "objectid": "2060",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamemechanic/2060/pattern-recognition",
+                "canonical_link": "https://boardgamegeek.com/boardgamemechanic/2060/pattern-recognition"
+            },
+            {
+                "name": "Set Collection",
+                "sortindex": "1",
+                "objecttype": "property",
+                "objectid": "2004",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamemechanic/2004/set-collection",
+                "canonical_link": "https://boardgamegeek.com/boardgamemechanic/2004/set-collection"
+            },
+            {
+                "name": "Take That",
+                "sortindex": "1",
+                "objecttype": "property",
+                "objectid": "2686",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamemechanic/2686/take-that",
+                "canonical_link": "https://boardgamegeek.com/boardgamemechanic/2686/take-that"
+            },
+            {
+                "name": "Variable Set-up",
+                "sortindex": "1",
+                "objecttype": "property",
+                "objectid": "2897",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamemechanic/2897/variable-set-up",
+                "canonical_link": "https://boardgamegeek.com/boardgamemechanic/2897/variable-set-up"
+            }
+        ],
+        "boardgameexpansion": [
+            {
+                "name": "Potion Explosion: Franklin Stickler",
+                "sortindex": "1",
+                "objecttype": "thing",
+                "objectid": "293363",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgame/293363/potion-explosion-franklin-stickler",
+                "canonical_link": "https://boardgamegeek.com/boardgame/293363/potion-explosion-franklin-stickler"
+            },
+            {
+                "name": "Potion Explosion: Fulminating Serum",
+                "sortindex": "1",
+                "objecttype": "thing",
+                "objectid": "240039",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgame/240039/potion-explosion-fulminating-serum",
+                "canonical_link": "https://boardgamegeek.com/boardgame/240039/potion-explosion-fulminating-serum"
+            },
+            {
+                "name": "Potion Explosion: Lotion of Invisibility – Expansion Pack",
+                "sortindex": "1",
+                "objecttype": "thing",
+                "objectid": "403748",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgame/403748/potion-explosion-lotion-of-invisibility-expansion",
+                "canonical_link": "https://boardgamegeek.com/boardgame/403748/potion-explosion-lotion-of-invisibility-expansion"
+            },
+            {
+                "name": "Potion Explosion: The 6th Student",
+                "sortindex": "1",
+                "objecttype": "thing",
+                "objectid": "257729",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgame/257729/potion-explosion-the-6th-student",
+                "canonical_link": "https://boardgamegeek.com/boardgame/257729/potion-explosion-the-6th-student"
+            },
+            {
+                "name": "Potion Explosion: The Fifth Ingredient",
+                "sortindex": "1",
+                "objecttype": "thing",
+                "objectid": "203542",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgame/203542/potion-explosion-the-fifth-ingredient",
+                "canonical_link": "https://boardgamegeek.com/boardgame/203542/potion-explosion-the-fifth-ingredient"
+            },
+            {
+                "name": "Potion Explosion: Tonic of Glacial Preservation – Expansion Pack",
+                "sortindex": "1",
+                "objecttype": "thing",
+                "objectid": "414963",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgame/414963/potion-explosion-tonic-of-glacial-preservation-exp",
+                "canonical_link": "https://boardgamegeek.com/boardgame/414963/potion-explosion-tonic-of-glacial-preservation-exp"
+            },
+            {
+                "name": "The Wild Nature (fan expansion for Potion Explosion)",
+                "sortindex": "5",
+                "objecttype": "thing",
+                "objectid": "259395",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgame/259395/the-wild-nature-fan-expansion-for-potion-explosion",
+                "canonical_link": "https://boardgamegeek.com/boardgame/259395/the-wild-nature-fan-expansion-for-potion-explosion"
+            }
+        ],
+        "boardgameversion": [
+            {
+                "name": "ADC Blackfire Czech edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "368517",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/368517/adc-blackfire-czech-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/368517/adc-blackfire-czech-edition"
+            },
+            {
+                "name": "Chinese edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "765889",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/765889/chinese-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/765889/chinese-edition"
+            },
+            {
+                "name": "CMON English edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "286597",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/286597/cmon-english-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/286597/cmon-english-edition"
+            },
+            {
+                "name": "CMON English edition  with new CMON logo",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "350991",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/350991/cmon-english-edition-with-new-cmon-logo",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/350991/cmon-english-edition-with-new-cmon-logo"
+            },
+            {
+                "name": "Dutch first edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "305617",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/305617/dutch-first-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/305617/dutch-first-edition"
+            },
+            {
+                "name": "Dutch second edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "482499",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/482499/dutch-second-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/482499/dutch-second-edition"
+            },
+            {
+                "name": "Edge Spanish edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "303188",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/303188/edge-spanish-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/303188/edge-spanish-edition"
+            },
+            {
+                "name": "English edition 2022",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "647342",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/647342/english-edition-2022",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/647342/english-edition-2022"
+            },
+            {
+                "name": "English second edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "393218",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/393218/english-second-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/393218/english-second-edition"
+            },
+            {
+                "name": "English third edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "730769",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/730769/english-third-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/730769/english-third-edition"
+            },
+            {
+                "name": "French first edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "309094",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/309094/french-first-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/309094/french-first-edition"
+            },
+            {
+                "name": "French second edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "459284",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/459284/french-second-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/459284/french-second-edition"
+            },
+            {
+                "name": "Galápagos Jogos Portuguese edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "331228",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/331228/galapagos-jogos-portuguese-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/331228/galapagos-jogos-portuguese-edition"
+            },
+            {
+                "name": "German second edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "522483",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/522483/german-second-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/522483/german-second-edition"
+            },
+            {
+                "name": "HaKubia Hebrew edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "374780",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/374780/hakubia-hebrew-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/374780/hakubia-hebrew-edition"
+            },
+            {
+                "name": "Heidelberger German edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "288204",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/288204/heidelberger-german-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/288204/heidelberger-german-edition"
+            },
+            {
+                "name": "Horrible Games English edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "279651",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/279651/horrible-games-english-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/279651/horrible-games-english-edition"
+            },
+            {
+                "name": "Horrible Guild Spanish edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "626461",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/626461/horrible-guild-spanish-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/626461/horrible-guild-spanish-edition"
+            },
+            {
+                "name": "Hungarian edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "617153",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/617153/hungarian-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/617153/hungarian-edition"
+            },
+            {
+                "name": "IELLO French edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "547947",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/547947/iello-french-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/547947/iello-french-edition"
+            },
+            {
+                "name": "Interhit Russian first edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "364083",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/364083/interhit-russian-first-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/364083/interhit-russian-first-edition"
+            },
+            {
+                "name": "Interhit Russian second edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "570127",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/570127/interhit-russian-second-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/570127/interhit-russian-second-edition"
+            },
+            {
+                "name": "Italian first edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "286598",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/286598/italian-first-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/286598/italian-first-edition"
+            },
+            {
+                "name": "Italian second edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "469139",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/469139/italian-second-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/469139/italian-second-edition"
+            },
+            {
+                "name": "Italian third edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "765415",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/765415/italian-third-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/765415/italian-third-edition"
+            },
+            {
+                "name": "Japanese first edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "376939",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/376939/japanese-first-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/376939/japanese-first-edition"
+            },
+            {
+                "name": "Japanese second edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "642568",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/642568/japanese-second-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/642568/japanese-second-edition"
+            },
+            {
+                "name": "Korean edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "460786",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/460786/korean-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/460786/korean-edition"
+            },
+            {
+                "name": "MINDOK Czech edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "615248",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/615248/mindok-czech-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/615248/mindok-czech-edition"
+            },
+            {
+                "name": "Polish first edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "304839",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/304839/polish-first-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/304839/polish-first-edition"
+            },
+            {
+                "name": "Polish third edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "750607",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/750607/polish-third-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/750607/polish-third-edition"
+            },
+            {
+                "name": "Thai edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "456549",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/456549/thai-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/456549/thai-edition"
+            },
+            {
+                "name": "Thai second edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "759531",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/759531/thai-second-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/759531/thai-second-edition"
+            },
+            {
+                "name": "Ukrainian edition",
+                "sortindex": "1",
+                "objecttype": "version",
+                "objectid": "703284",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameversion/703284/ukrainian-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgameversion/703284/ukrainian-edition"
+            }
+        ],
+        "expandsboardgame": [],
+        "boardgameintegration": [],
+        "contains": [],
+        "containedin": [
+            {
+                "name": "Potion Explosion: Collector's Edition",
+                "sortindex": "1",
+                "objecttype": "thing",
+                "objectid": "453174",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgame/453174/potion-explosion-collectors-edition",
+                "canonical_link": "https://boardgamegeek.com/boardgame/453174/potion-explosion-collectors-edition"
+            }
+        ],
+        "reimplementation": [],
+        "reimplements": [],
+        "boardgamefamily": [
+            {
+                "name": "Category: Dized Tutorial",
+                "sortindex": "1",
+                "objecttype": "family",
+                "objectid": "77906",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamefamily/77906/category-dized-tutorial",
+                "canonical_link": "https://boardgamegeek.com/boardgamefamily/77906/category-dized-tutorial"
+            },
+            {
+                "name": "Components: Drop Tower",
+                "sortindex": "1",
+                "objecttype": "family",
+                "objectid": "66772",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamefamily/66772/components-drop-tower",
+                "canonical_link": "https://boardgamegeek.com/boardgamefamily/66772/components-drop-tower"
+            },
+            {
+                "name": "Components: Marbles",
+                "sortindex": "1",
+                "objecttype": "family",
+                "objectid": "5902",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamefamily/5902/components-marbles",
+                "canonical_link": "https://boardgamegeek.com/boardgamefamily/5902/components-marbles"
+            },
+            {
+                "name": "Digital Implementations: Board Game Arena",
+                "sortindex": "1",
+                "objecttype": "family",
+                "objectid": "70360",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamefamily/70360/digital-implementations-board-game-arena",
+                "canonical_link": "https://boardgamegeek.com/boardgamefamily/70360/digital-implementations-board-game-arena"
+            },
+            {
+                "name": "Digital Implementations: Google Play",
+                "sortindex": "1",
+                "objecttype": "family",
+                "objectid": "78432",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamefamily/78432/digital-implementations-google-play",
+                "canonical_link": "https://boardgamegeek.com/boardgamefamily/78432/digital-implementations-google-play"
+            },
+            {
+                "name": "Digital Implementations: Steam",
+                "sortindex": "1",
+                "objecttype": "family",
+                "objectid": "77349",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamefamily/77349/digital-implementations-steam",
+                "canonical_link": "https://boardgamegeek.com/boardgamefamily/77349/digital-implementations-steam"
+            },
+            {
+                "name": "Game: Potion Explosion",
+                "sortindex": "1",
+                "objecttype": "family",
+                "objectid": "49424",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamefamily/49424/game-potion-explosion",
+                "canonical_link": "https://boardgamegeek.com/boardgamefamily/49424/game-potion-explosion"
+            },
+            {
+                "name": "Theme: Alchemy",
+                "sortindex": "1",
+                "objecttype": "family",
+                "objectid": "64970",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamefamily/64970/theme-alchemy",
+                "canonical_link": "https://boardgamegeek.com/boardgamefamily/64970/theme-alchemy"
+            }
+        ],
+        "videogamebg": [
+            {
+                "name": "Potion Explosion",
+                "sortindex": "1",
+                "objecttype": "thing",
+                "objectid": "218985",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/videogame/218985/potion-explosion",
+                "canonical_link": "https://videogamegeek.com/videogame/218985/potion-explosion"
+            }
+        ],
+        "boardgamesubdomain": [
+            {
+                "name": "Family Games",
+                "sortindex": "1",
+                "objecttype": "family",
+                "objectid": "5499",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgamesubdomain/5499/family-games",
+                "canonical_link": "https://boardgamegeek.com/boardgamesubdomain/5499/family-games"
+            }
+        ],
+        "boardgameaccessory": [
+            {
+                "name": "Potion Explosion: Play Mat",
+                "sortindex": "1",
+                "objecttype": "thing",
+                "objectid": "279947",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameaccessory/279947/potion-explosion-play-mat",
+                "canonical_link": "https://boardgamegeek.com/boardgameaccessory/279947/potion-explosion-play-mat"
+            },
+            {
+                "name": "Potion Explosion: Skill Tokens",
+                "sortindex": "1",
+                "objecttype": "thing",
+                "objectid": "299182",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/boardgameaccessory/299182/potion-explosion-skill-tokens",
+                "canonical_link": "https://boardgamegeek.com/boardgameaccessory/299182/potion-explosion-skill-tokens"
+            }
+        ],
+        "cardset": []
+    },
+    "linkcounts": {
+        "boardgamedesigner": 3,
+        "boardgamesolodesigner": 0,
+        "boardgameartist": 1,
+        "boardgamepublisher": 23,
+        "boardgamedeveloper": 0,
+        "boardgamegraphicdesigner": 0,
+        "boardgamesculptor": 0,
+        "boardgameeditor": 0,
+        "boardgamewriter": 0,
+        "boardgameinsertdesigner": 0,
+        "boardgamehonor": 8,
+        "boardgamecategory": 2,
+        "boardgamemechanic": 6,
+        "boardgameexpansion": 7,
+        "boardgameversion": 34,
+        "expandsboardgame": 0,
+        "boardgameintegration": 0,
+        "contains": 0,
+        "containedin": 1,
+        "reimplementation": 0,
+        "reimplements": 0,
+        "boardgamefamily": 8,
+        "videogamebg": 1,
+        "boardgamesubdomain": 1,
+        "boardgameaccessory": 2,
+        "cardset": 0
+    },
+    "secondarynamescount": 0,
+    "alternatenamescount": 12,
+    "primaryname": {
+        "nameid": "1023193",
+        "name": "Potion Explosion",
+        "sortindex": "1",
+        "primaryname": "1",
+        "translit": "Potion Explosion"
+    },
+    "alternatenames": [
+        {
+            "nameid": "2159663",
+            "name": "Fergeteges elegyek"
+        },
+        {
+            "nameid": "1611576",
+            "name": "Potion Explosion ห้องเรียนนักปรุงยา"
+        },
+        {
+            "nameid": "1053395",
+            "name": "Pozioni Esplosive"
+        },
+        {
+            "nameid": "1250863",
+            "name": "Výbušné lektvary"
+        },
+        {
+            "nameid": "1123897",
+            "name": "Wybuchowa Mieszanka"
+        },
+        {
+            "nameid": "2434211",
+            "name": "Вибухові зілля"
+        },
+        {
+            "nameid": "1315299",
+            "name": "Лаборатория"
+        },
+        {
+            "nameid": "1351501",
+            "name": "פיצוץ של שיקוי"
+        },
+        {
+            "nameid": "1358866",
+            "name": "ポーション・エクスプロージョン"
+        },
+        {
+            "nameid": "1165376",
+            "name": "巫術學院"
+        },
+        {
+            "nameid": "2637589",
+            "name": "魔藥學院"
+        },
+        {
+            "nameid": "1627693",
+            "name": "포션 폭발"
+        }
+    ],
+    "description": "<p>Potion Explosion is a game for 2 to 4 players by <em><strong>Horrible Games</strong></em>.<br />\nIt was designed by Lorenzo Silva, Andrea Crespi and Stefano Castelli.</p>\n\n<p>Dear students, it's time for the final exams of the Potions class! The rules are always the same: Take an ingredient marble from the dispenser and watch the others fall. If you connect marbles of the same color, they explode and you can take them, too! Complete your potions using the marbles you collect, and drink them to unleash their magical power. Remember, though, that to win the Student of the Year award, being quick won't be enough: you'll also need to brew the most valuable potions in <em><strong>Potion Explosion</strong></em>!</p>\n\n",
+    "wiki": "<p><strong>Components</strong></p>\n\n<ul>\n    <li>1 dispenser (in several parts, to be assembled)</li>\n    <li>80 ingredient marbles (in four colors, with twenty marbles of each color)</li>\n    <li>64 potion tiles of eight kinds</li>\n    <li>15 skill tokens</li>\n    <li>18 little help tokens</li>\n    <li>4 desk boards</li>\n    <li>1 first player token</li>\n    <li>Rulebook</li>\n</ul>\n\n<p><strong><a class=\"\" href=\"/wiki/page/Microbadge#\">Microbadge</a></strong></p>\n\n<p><a href=\"/microbadge/36650\"><img alt='Microbadge: Potion Explosion fan' onmouseover=\"return overlib('Potion Explosion fan', WRAP );\" onmouseout=\"return nd();\" title=''class='mbimg'loading=\"lazy\"src=\"https://cf.geekdo-static.com/mbs/mb_36650_0.png\"></a> &mdash; <em>Potion Explosion</em> fan</p>\n\n<p><a href=\"/microbadge/41733\"><img alt='Microbadge: Potion Explosion' onmouseover=\"return overlib('Potion Explosion', WRAP );\" onmouseout=\"return nd();\" title=''class='mbimg'loading=\"lazy\"src=\"https://cf.geekdo-static.com/mbs/mb_41733_0.png\"></a> &mdash; <em>Potion Explosion</em></p>\n\n<p><a href=\"/microbadge/41819\"><img alt='Microbadge: Potion Explosion' onmouseover=\"return overlib('Potion Explosion', WRAP );\" onmouseout=\"return nd();\" title=''class='mbimg'loading=\"lazy\"src=\"https://cf.geekdo-static.com/mbs/mb_41819_0.png\"></a> &mdash; <em>Potion Explosion</em></p>\n\n<p><strong><a class=\"\" href=\"/wiki/page/Awards#\">Awards</a></strong><br />\nGioco dell'Anno - Game of the Year 2016 (Italy) - Winner<br />\nJUGuinho - Best Children's Game 2016 (Portugal) - Winner<br />\nVerkiezing Speelgoed Van Het Jaar (Netherlands) - Winner</p>\n\n",
+    "website": {
+        "url": "https://horribleguild.com/product/potion-explosion/",
+        "title": "Potion Explosion Official Website"
+    },
+    "imageid": "7298696",
+    "images": {
+        "thumb": "https://cf.geekdo-images.com/vwjYMFporFhvAU48k73MIw__small/img/uNBrY-gqZLq7aiv1E_pDsc3vmyE=/fit-in/200x150/filters:strip_icc()/pic7298696.jpg",
+        "micro": "https://cf.geekdo-images.com/vwjYMFporFhvAU48k73MIw__micro/img/3J1Y4P86i3kHdojkSbkdx_GEAVY=/fit-in/64x64/filters:strip_icc()/pic7298696.jpg",
+        "square": "https://cf.geekdo-images.com/vwjYMFporFhvAU48k73MIw__square/img/00Ud06EJh7qLzVLPRebBFCGtkto=/75x75/filters:strip_icc()/pic7298696.jpg",
+        "tallthumb": "https://cf.geekdo-images.com/vwjYMFporFhvAU48k73MIw__tallthumb/img/15fgO16Wx8GgRwsV807nPIOuPrE=/fit-in/75x125/filters:strip_icc()/pic7298696.jpg",
+        "previewthumb": "https://cf.geekdo-images.com/vwjYMFporFhvAU48k73MIw__previewthumb/img/ijgk9kc3h0QILdxWdifnPqeoooA=/fit-in/300x320/filters:strip_icc()/pic7298696.jpg",
+        "square200": "https://cf.geekdo-images.com/vwjYMFporFhvAU48k73MIw__square200/img/lKhO8dqRZMech0gUUd8C46Roh2U=/200x200/filters:strip_icc()/pic7298696.jpg",
+        "original": "https://cf.geekdo-images.com/vwjYMFporFhvAU48k73MIw__original/img/6sAfG89R42SJRv2wjiItRTMmcoQ=/0x0/filters:format(jpeg)/pic7298696.jpg"
+    },
+    "imagepagehref": "/image/7298696/potion-explosion",
+    "imageurl": "https://cf.geekdo-images.com/vwjYMFporFhvAU48k73MIw__itemrep/img/RnUXrb01rO0D_9Mg00BkNvJ6ows=/fit-in/246x300/filters:strip_icc()/pic7298696.jpg",
+    "imageurl@2x": "https://cf.geekdo-images.com/vwjYMFporFhvAU48k73MIw__itemrep@2x/img/3AlOnOByRPwHuV9dE3WBmwmQROk=/fit-in/492x600/filters:strip_icc()/pic7298696.jpg",
+    "topimageurl": "https://cf.geekdo-images.com/gAYfaZ7izEl2XLwqt8qKhQ__itemheader/img/9gpfsAwOe2KowM7KI3AlZqruKMk=/800x450/filters:quality(30):strip_icc()/pic2730117.jpg",
+    "imageSets": {
+        "square100": {
+            "src": "https://cf.geekdo-images.com/vwjYMFporFhvAU48k73MIw__square100/img/bbAyKxAkuZ4KGRQqbn1ZxMLF-xQ=/100x100/filters:strip_icc()/pic7298696.jpg",
+            "src@2x": "https://cf.geekdo-images.com/vwjYMFporFhvAU48k73MIw__square100@2x/img/lKhO8dqRZMech0gUUd8C46Roh2U=/200x200/filters:strip_icc()/pic7298696.jpg"
+        },
+        "mediacard": {
+            "src": "https://cf.geekdo-images.com/vwjYMFporFhvAU48k73MIw__mediacard/img/ztmdFxDVxdB_ihrRU23yNBnRDsM=/0x0:1859x1046/288x162/filters:strip_icc()/pic7298696.jpg",
+            "src@2x": "https://cf.geekdo-images.com/vwjYMFporFhvAU48k73MIw__mediacard@2x/img/e7WB6KzPDaMOUV7dHmi4nk0Hfgg=/0x0:1859x1046/576x324/filters:strip_icc()/pic7298696.jpg"
+        }
+    },
+    "itemstate": "approved",
+    "promoted_ad": null
+}

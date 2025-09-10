@@ -1,0 +1,252 @@
+{
+    "itemid": 1023474,
+    "objecttype": "thing",
+    "objectid": 144037,
+    "label": "Video Game",
+    "labelpl": "Video Games",
+    "shortlabel": "Video Game",
+    "shortlabelpl": "Video Games",
+    "type": "things",
+    "id": "144037",
+    "href": "/videogame/144037/agricola",
+    "canonical_link": "https://videogamegeek.com/videogame/144037/agricola",
+    "subtype": "videogame",
+    "subtypes": [
+        "videogame",
+        "videogamebg"
+    ],
+    "versioninfo": {
+        "gamepageorderurl": null,
+        "shopifyitem": null
+    },
+    "name": "Agricola",
+    "alternatename": null,
+    "description": "<p>Europe is recovering from some hard times. You and a spouse must grow your 2-room hut and empty farmyard into a productive farm. You must sow and reap, raise animals and expand your family in order to thrive. Europe in the 17th century: a tough time to be a farmer! Agricola is a family-friendly strategy game. Simple to understand and great fun, Agricola lets everyone play to the end in a race to see who can build the most productive farm.<br />\nEasy To Play!</p>\n\n<p>Agricola is a turn-based game, played in six Stages and 14 Rounds. On a turn, players place a family member token on a location in town in order to collect resources or to take actions to improve their farm. They can get building materials such as wood and clay, plow fields and sow crops, or build fences to keep animals. New actions become available at the start each round and resources get replenished on any taken in the previous round.</p>\n\n<p>At harvest crops are reaped, newborn animals arrive and you must feed your family. Growing your family gives you more actions but means you have more mouths to feed!</p>\n\n<p>The player with the most productive and advanced farm at the end of 14 rounds is the winner. Victory Points are awarded for the number of fields and pastures you have, as well as for crops and animals. Additional points are awarded for extension and renovation of the family's home, for the number of family members, and for played Occupation and Improvement cards. Players lose one point for each unused farmyard space</p>\n\n<p>An award-winning board game and player favorite since 2007, Agricola is now available as a universal game application.</p>\n\n<p>HIGHLIGHTS</p>\n\n<p>- Spiel des Jahres winning game (Best Complex Game 2008)<br />\n- Family Game, Basic Deck and Solo Series<br />\n- Universal game application - buy once and play on all your devices<br />\n- Retina support<br />\n- iPhone5 / iPod 5 screen support</p>\n\n<p>FEATURES</p>\n\n<p>- 4 Game play modes (Family Game; Basic Game; Solo Play; Solo Series)<br />\n- 1-5 players<br />\n- Included AI opponents<br />\n- Pass-and-play multiplayer (2-5 players)<br />\n- Asynchronous or real-time online play (2-5 players)<br />\n- Game Center Achievements<br />\n- Selectable Online game clocks<br />\n- Rematch button for online and offline matches<br />\n- &quot;Next Game&quot; button takes you to your next asynchronous online game<br />\nMatchmaking<br />\n- Player Rankings<br />\n- Multiple Player Profiles (for households)<br />\n- Select your Family Token art for your profile<br />\n- Game tutorials for interface &amp; game play<br />\n- Rule Book and Card Gallery to review game text and effects<br />\n- Options for Music and SFX, game and animation speed and confirmation pop-ups<br />\n- Game overview, turn log and game event calendar to support asynchronous play</p>\n\n<p><span style='font-size:10px;'><em>Source: <a rel=\"nofollow\" href=\"http://www.playdekgames.com/games.php?games=agricola_page.php&amp;title=Agricola\" onclick=\"window.open(this.href, '_blank'); return false;\">The Publisher Website</a>.</em></span></p>\n\n",
+    "links": {
+        "videogameplatform": [
+            {
+                "name": "Android",
+                "sortindex": "1",
+                "objecttype": "family",
+                "objectid": "6063",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/videogameplatform/6063/android",
+                "canonical_link": "https://videogamegeek.com/videogameplatform/6063/android"
+            },
+            {
+                "name": "iPad",
+                "sortindex": "1",
+                "objecttype": "family",
+                "objectid": "6826",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/videogameplatform/6826/ipad",
+                "canonical_link": "https://videogamegeek.com/videogameplatform/6826/ipad"
+            },
+            {
+                "name": "iPhone",
+                "sortindex": "1",
+                "objecttype": "family",
+                "objectid": "4443",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/videogameplatform/4443/iphone",
+                "canonical_link": "https://videogamegeek.com/videogameplatform/4443/iphone"
+            },
+            {
+                "name": "Windows",
+                "sortindex": "1",
+                "objecttype": "family",
+                "objectid": "4977",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/videogameplatform/4977/windows",
+                "canonical_link": "https://videogamegeek.com/videogameplatform/4977/windows"
+            }
+        ],
+        "videogamegenre": [
+            {
+                "name": "Strategy",
+                "sortindex": "1",
+                "objecttype": "property",
+                "objectid": "2158",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/videogamegenre/2158/strategy",
+                "canonical_link": "https://videogamegeek.com/videogamegenre/2158/strategy"
+            }
+        ],
+        "videogametheme": [
+            {
+                "name": "Board Game",
+                "sortindex": "1",
+                "objecttype": "property",
+                "objectid": "2403",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/videogametheme/2403/board-game",
+                "canonical_link": "https://videogamegeek.com/videogametheme/2403/board-game"
+            }
+        ],
+        "videogamefranchise": [],
+        "videogameseries": [],
+        "videogamemode": [
+            {
+                "name": "Asynchronous Multiplayer",
+                "sortindex": "1",
+                "objecttype": "property",
+                "objectid": "2410",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/videogamemode/2410/asynchronous-multiplayer",
+                "canonical_link": "https://videogamegeek.com/videogamemode/2410/asynchronous-multiplayer"
+            },
+            {
+                "name": "Hotseat",
+                "sortindex": "1",
+                "objecttype": "property",
+                "objectid": "2409",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/videogamemode/2409/hotseat",
+                "canonical_link": "https://videogamegeek.com/videogamemode/2409/hotseat"
+            },
+            {
+                "name": "Network Multiplayer",
+                "sortindex": "1",
+                "objecttype": "property",
+                "objectid": "2310",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/videogamemode/2310/network-multiplayer",
+                "canonical_link": "https://videogamegeek.com/videogamemode/2310/network-multiplayer"
+            },
+            {
+                "name": "Single-Player",
+                "sortindex": "1",
+                "objecttype": "property",
+                "objectid": "2149",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/videogamemode/2149/single-player",
+                "canonical_link": "https://videogamegeek.com/videogamemode/2149/single-player"
+            }
+        ],
+        "videogamedeveloper": [
+            {
+                "name": "Asmodee Digital",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "35232",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/videogamedeveloper/35232/asmodee-digital",
+                "canonical_link": "https://videogamegeek.com/videogamepublisher/35232/asmodee-digital"
+            },
+            {
+                "name": "Playdek",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "17452",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/videogamedeveloper/17452/playdek",
+                "canonical_link": "https://videogamegeek.com/videogamepublisher/17452/playdek"
+            }
+        ],
+        "videogamepublisher": [
+            {
+                "name": "Asmodee Digital",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "35232",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/videogamepublisher/35232/asmodee-digital",
+                "canonical_link": "https://videogamegeek.com/videogamepublisher/35232/asmodee-digital"
+            },
+            {
+                "name": "Playdek",
+                "sortindex": "1",
+                "objecttype": "company",
+                "objectid": "17452",
+                "primarylink": 0,
+                "itemstate": "approved",
+                "href": "/videogamepublisher/17452/playdek",
+                "canonical_link": "https://videogamegeek.com/videogamepublisher/17452/playdek"
+            }
+        ],
+        "videogameexpansion": [],
+        "expandsvideogame": [],
+        "contains": [],
+        "containedin": []
+    },
+    "linkcounts": {
+        "videogameplatform": 4,
+        "videogamegenre": 1,
+        "videogametheme": 1,
+        "videogamefranchise": 0,
+        "videogameseries": 0,
+        "videogamemode": 4,
+        "videogamedeveloper": 2,
+        "videogamepublisher": 2,
+        "videogameexpansion": 0,
+        "expandsvideogame": 0,
+        "contains": 0,
+        "containedin": 0
+    },
+    "minplayers": "1",
+    "maxplayers": "5",
+    "releasedate": "2013-06-13",
+    "secondarynamescount": 2,
+    "alternatenamescount": 2,
+    "primaryname": {
+        "nameid": "783144",
+        "name": "Agricola",
+        "sortindex": "1",
+        "primaryname": "1",
+        "translit": "Agricola"
+    },
+    "alternatenames": [
+        {
+            "nameid": "1879287",
+            "name": "Agricola Revised Edition",
+            "secondaryname": true
+        },
+        {
+            "nameid": "1879286",
+            "name": "Agricola Revised Edition - Farming & Strategy",
+            "secondaryname": true
+        }
+    ],
+    "wiki": "<p>Microbadge: <a href=\"/microbadge/28671\"><img alt='Microbadge: Agricola iOS fan' onmouseover=\"return overlib('Agricola iOS fan', WRAP );\" onmouseout=\"return nd();\" title=''class='mbimg'loading=\"lazy\"src=\"https://cf.geekdo-static.com/mbs/mb_28671_0.png\"></a><br />\nAlternatively badge: <a href=\"/microbadge/28376\"><img alt='Microbadge: Agricola iOS fan' onmouseover=\"return overlib('Agricola iOS fan', WRAP );\" onmouseout=\"return nd();\" title=''class='mbimg'loading=\"lazy\"src=\"https://cf.geekdo-static.com/mbs/mb_28376_0.png\"></a></p>\n\n",
+    "website": {
+        "url": false
+    },
+    "imageid": "2633629",
+    "images": {
+        "thumb": "https://cf.geekdo-images.com/v2t0qpKhHNxL1vy7n13VHg__small/img/rcyLEi7HIySziM6ZokQdW3egn7c=/fit-in/200x150/filters:strip_icc()/pic2633629.jpg",
+        "micro": "https://cf.geekdo-images.com/v2t0qpKhHNxL1vy7n13VHg__micro/img/QFcMXgo9bx5oz9bwNORAI4MBPVM=/fit-in/64x64/filters:strip_icc()/pic2633629.jpg",
+        "square": "https://cf.geekdo-images.com/v2t0qpKhHNxL1vy7n13VHg__square/img/N9tpj2cvCHXuZKziHwhHMct3qYA=/75x75/filters:strip_icc()/pic2633629.jpg",
+        "tallthumb": "https://cf.geekdo-images.com/v2t0qpKhHNxL1vy7n13VHg__tallthumb/img/WaM-35iHgx_K6aaEWYUBC2LXzJw=/fit-in/75x125/filters:strip_icc()/pic2633629.jpg",
+        "previewthumb": "https://cf.geekdo-images.com/v2t0qpKhHNxL1vy7n13VHg__previewthumb/img/wbvVD8Jk6ptX3kQJ7sl5R3kPW4A=/fit-in/300x320/filters:strip_icc()/pic2633629.jpg",
+        "square200": "https://cf.geekdo-images.com/v2t0qpKhHNxL1vy7n13VHg__square200/img/C1rmwqC_NSyn2e4g7obQWPhc5Ug=/200x200/filters:strip_icc()/pic2633629.jpg",
+        "original": "https://cf.geekdo-images.com/v2t0qpKhHNxL1vy7n13VHg__original/img/zLfqmoI8WKJZ8NiqMhOFPmPi0u4=/0x0/filters:format(jpeg)/pic2633629.jpg"
+    },
+    "imagepagehref": "/image/2633629/agricola",
+    "imageurl": "https://cf.geekdo-images.com/v2t0qpKhHNxL1vy7n13VHg__itemrep/img/0fNlxtcWwQwcR0EfgwJdw7qqlfw=/fit-in/246x300/filters:strip_icc()/pic2633629.jpg",
+    "imageurl@2x": "https://cf.geekdo-images.com/v2t0qpKhHNxL1vy7n13VHg__itemrep@2x/img/fGzbGXUHgGgLeXf_Ty3JmYSDQVw=/fit-in/492x600/filters:strip_icc()/pic2633629.jpg",
+    "imageSets": {
+        "square100": {
+            "src": "https://cf.geekdo-images.com/v2t0qpKhHNxL1vy7n13VHg__square100/img/LmI_5-T55FPfdICivYqvMY3SXVQ=/100x100/filters:strip_icc()/pic2633629.jpg",
+            "src@2x": "https://cf.geekdo-images.com/v2t0qpKhHNxL1vy7n13VHg__square100@2x/img/C1rmwqC_NSyn2e4g7obQWPhc5Ug=/200x200/filters:strip_icc()/pic2633629.jpg"
+        },
+        "mediacard": {
+            "src": "https://cf.geekdo-images.com/v2t0qpKhHNxL1vy7n13VHg__mediacard/img/A0jtQfRxpiVKldTWRXUHzEpn4Qs=/288x162/filters:strip_icc()/pic2633629.jpg",
+            "src@2x": "https://cf.geekdo-images.com/v2t0qpKhHNxL1vy7n13VHg__mediacard@2x/img/w31EnHw1zNj1M7GhkI1LDjl5v40=/576x324/filters:strip_icc()/pic2633629.jpg"
+        }
+    },
+    "itemstate": "approved",
+    "promoted_ad": null
+}

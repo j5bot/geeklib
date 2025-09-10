@@ -2,6 +2,7 @@ import pLimit from 'p-limit';
 import sleep from 'sleep-promise';
 import { authenticatedFetch } from './api';
 import { waitInterval } from './constants';
+import { addResponseToCache } from './lib/database';
 
 export const retryLimit = 15;
 

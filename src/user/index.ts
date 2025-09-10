@@ -63,6 +63,8 @@ export type User = {
     badgeUrls?: UserBadgeUrls;
 };
 
+export type UserResponse = User;
+
 export const getUser = async (id: number): Promise<User> => {
     return await throttledFetch(`${userApiBaseUrl}${id}`)
         .then(response => response.json());

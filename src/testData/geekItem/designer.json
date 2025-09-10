@@ -1,0 +1,1282 @@
+{
+    "item": {
+        "itemid": 38592,
+        "objecttype": "person",
+        "objectid": 10,
+        "label": "Board Game Designer",
+        "labelpl": "Board Game Designers",
+        "shortlabel": "Board Game Designer",
+        "shortlabelpl": "Board Game Designers",
+        "type": "people",
+        "id": "10",
+        "href": "/boardgamedesigner/10/uwe-rosenberg",
+        "canonical_link": "https://boardgamegeek.com/boardgamedesigner/10/uwe-rosenberg",
+        "subtype": "boardgamedesigner",
+        "subtypes": [
+            "boardgamedesigner",
+            "boardgameartist",
+            "rpgartist",
+            "boardgameeditor"
+        ],
+        "versioninfo": {
+            "gamepageorderurl": null,
+            "shopifyitem": null
+        },
+        "name": "Uwe Rosenberg",
+        "alternatename": null,
+        "links": {
+            "boardgamedesigner": [
+                {
+                    "name": "Agricola (Revised Edition)",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "200680",
+                    "primarylink": 1,
+                    "itemstate": "approved",
+                    "href": "/boardgame/200680/agricola-revised-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/200680/agricola-revised-edition"
+                },
+                {
+                    "name": "Patchwork Doodle",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "264239",
+                    "primarylink": 1,
+                    "itemstate": "approved",
+                    "href": "/boardgame/264239/patchwork-doodle",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/264239/patchwork-doodle"
+                },
+                {
+                    "name": "Agricola",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "31260",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/31260/agricola",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/31260/agricola"
+                },
+                {
+                    "name": "Agricola 15",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "359999",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/359999/agricola-15",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/359999/agricola-15"
+                },
+                {
+                    "name": "Agricola Ereigniskarten",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "113413",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/113413/agricola-ereigniskarten",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/113413/agricola-ereigniskarten"
+                },
+                {
+                    "name": "Agricola Game Expansion: Blue",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "216651",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/216651/agricola-game-expansion-blue",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/216651/agricola-game-expansion-blue"
+                },
+                {
+                    "name": "Agricola Game Expansion: Green",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "216650",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/216650/agricola-game-expansion-green",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/216650/agricola-game-expansion-green"
+                },
+                {
+                    "name": "Agricola Game Expansion: Purple",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "216652",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/216652/agricola-game-expansion-purple",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/216652/agricola-game-expansion-purple"
+                },
+                {
+                    "name": "Agricola Game Expansion: Red",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "216654",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/216654/agricola-game-expansion-red",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/216654/agricola-game-expansion-red"
+                },
+                {
+                    "name": "Agricola Game Expansion: White",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "216649",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/216649/agricola-game-expansion-white",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/216649/agricola-game-expansion-white"
+                },
+                {
+                    "name": "Agricola Game Expansion: Yellow",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "216655",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/216655/agricola-game-expansion-yellow",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/216655/agricola-game-expansion-yellow"
+                },
+                {
+                    "name": "Agricola: All Creatures Big and Small",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "119890",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/119890/agricola-all-creatures-big-and-small",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/119890/agricola-all-creatures-big-and-small"
+                },
+                {
+                    "name": "Agricola: All Creatures Big and Small – Even More Buildings Big and Small",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "145355",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/145355/agricola-all-creatures-big-and-small-even-more-bui",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/145355/agricola-all-creatures-big-and-small-even-more-bui"
+                },
+                {
+                    "name": "Agricola: All Creatures Big and Small – More Buildings Big and Small",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "130752",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/130752/agricola-all-creatures-big-and-small-more-building",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/130752/agricola-all-creatures-big-and-small-more-building"
+                },
+                {
+                    "name": "Agricola: All Creatures Big and Small – The Big Box",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "255262",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/255262/agricola-all-creatures-big-and-small-the-big-box",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/255262/agricola-all-creatures-big-and-small-the-big-box"
+                },
+                {
+                    "name": "Agricola: Artifex Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "234218",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/234218/agricola-artifex-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/234218/agricola-artifex-deck"
+                },
+                {
+                    "name": "Agricola: Belgium Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "131403",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/131403/agricola-belgium-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/131403/agricola-belgium-deck"
+                },
+                {
+                    "name": "Agricola: Bielefeld Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "150732",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/150732/agricola-bielefeld-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/150732/agricola-bielefeld-deck"
+                },
+                {
+                    "name": "Agricola: Biogas Plant Promo Card",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "111165",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/111165/agricola-biogas-plant-promo-card",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/111165/agricola-biogas-plant-promo-card"
+                },
+                {
+                    "name": "Agricola: Brakelhühner Promo Card",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "132592",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/132592/agricola-brakelhuhner-promo-card",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/132592/agricola-brakelhuhner-promo-card"
+                },
+                {
+                    "name": "Agricola: Bubulcus Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "247720",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/247720/agricola-bubulcus-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/247720/agricola-bubulcus-deck"
+                },
+                {
+                    "name": "Agricola: Changelings",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "263965",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/263965/agricola-changelings",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/263965/agricola-changelings"
+                },
+                {
+                    "name": "Agricola: Chłopi i ich zwierzyniec – Jeszcze więcej budynków do zwierzyńca",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "173558",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/173558/agricola-chlopi-i-ich-zwierzyniec-jeszcze-wiecej-b",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/173558/agricola-chlopi-i-ich-zwierzyniec-jeszcze-wiecej-b"
+                },
+                {
+                    "name": "Agricola: Consul Dirigens Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "329847",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/329847/agricola-consul-dirigens-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/329847/agricola-consul-dirigens-deck"
+                },
+                {
+                    "name": "Agricola: Corbarius Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "271144",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/271144/agricola-corbarius-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/271144/agricola-corbarius-deck"
+                },
+                {
+                    "name": "Agricola: CZ-Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "59158",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/59158/agricola-cz-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/59158/agricola-cz-deck"
+                },
+                {
+                    "name": "Agricola: De Lage Landen",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "109012",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/109012/agricola-de-lage-landen",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/109012/agricola-de-lage-landen"
+                },
+                {
+                    "name": "Agricola: Dead Harvest",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "440149",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/440149/agricola-dead-harvest",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/440149/agricola-dead-harvest"
+                },
+                {
+                    "name": "Agricola: Dulcinaria Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "311545",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/311545/agricola-dulcinaria-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/311545/agricola-dulcinaria-deck"
+                },
+                {
+                    "name": "Agricola: Ephipparius Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "393922",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/393922/agricola-ephipparius-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/393922/agricola-ephipparius-deck"
+                },
+                {
+                    "name": "Agricola: Expansion for 5 and 6 Players",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "210625",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/210625/agricola-expansion-for-5-and-6-players",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/210625/agricola-expansion-for-5-and-6-players"
+                },
+                {
+                    "name": "Agricola: Family Edition",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "205418",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/205418/agricola-family-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/205418/agricola-family-edition"
+                },
+                {
+                    "name": "Agricola: Farmers of the Moor",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "43018",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/43018/agricola-farmers-of-the-moor",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/43018/agricola-farmers-of-the-moor"
+                },
+                {
+                    "name": "Agricola: Farmers of the Moor",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "257344",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/257344/agricola-farmers-of-the-moor",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/257344/agricola-farmers-of-the-moor"
+                },
+                {
+                    "name": "Agricola: France Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "166463",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/166463/agricola-france-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/166463/agricola-france-deck"
+                },
+                {
+                    "name": "Agricola: Gamers' Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "85704",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/85704/agricola-gamers-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/85704/agricola-gamers-deck"
+                },
+                {
+                    "name": "Agricola: L-Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "39090",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/39090/agricola-l-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/39090/agricola-l-deck"
+                },
+                {
+                    "name": "Agricola: NL-Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "103182",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/103182/agricola-nl-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/103182/agricola-nl-deck"
+                },
+                {
+                    "name": "Agricola: Ö-Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "39256",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/39256/agricola-o-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/39256/agricola-o-deck"
+                },
+                {
+                    "name": "Agricola: Pi-Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "130847",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/130847/agricola-pi-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/130847/agricola-pi-deck"
+                },
+                {
+                    "name": "Agricola: Rozšíření",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "240737",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/240737/agricola-rozsireni",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/240737/agricola-rozsireni"
+                },
+                {
+                    "name": "Agricola: Special Edition",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "440147",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/440147/agricola-special-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/440147/agricola-special-edition"
+                },
+                {
+                    "name": "Agricola: The Goodies Expansion",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "73833",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/73833/agricola-the-goodies-expansion",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/73833/agricola-the-goodies-expansion"
+                },
+                {
+                    "name": "Agricola: Through the Seasons",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "38641",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/38641/agricola-through-the-seasons",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/38641/agricola-through-the-seasons"
+                },
+                {
+                    "name": "Agricola: Times they are a-changing",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "279703",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/279703/agricola-times-they-are-a-changing",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/279703/agricola-times-they-are-a-changing"
+                },
+                {
+                    "name": "Agricola: World Championship Deck – 2011",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "103183",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/103183/agricola-world-championship-deck-2011",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/103183/agricola-world-championship-deck-2011"
+                },
+                {
+                    "name": "Agricola: Z-Deck",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "37235",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/37235/agricola-z-deck",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/37235/agricola-z-deck"
+                },
+                {
+                    "name": "Al Cabohne",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "980",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/980/al-cabohne",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/980/al-cabohne"
+                },
+                {
+                    "name": "Anno Domini: Hannover & Deutschland",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "127805",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/127805/anno-domini-hannover-and-deutschland",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/127805/anno-domini-hannover-and-deutschland"
+                },
+                {
+                    "name": "Applejack",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "367662",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/367662/applejack",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/367662/applejack"
+                },
+                {
+                    "name": "Armonia",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "341009",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/341009/armonia",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/341009/armonia"
+                },
+                {
+                    "name": "At the Gates of Loyang",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "39683",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/39683/at-the-gates-of-loyang",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/39683/at-the-gates-of-loyang"
+                },
+                {
+                    "name": "Atiwa",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "362452",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/362452/atiwa",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/362452/atiwa"
+                },
+                {
+                    "name": "Attribut 2",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "13473",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/13473/attribut-2",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/13473/attribut-2"
+                },
+                {
+                    "name": "Babel",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "986",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/986/babel",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/986/babel"
+                },
+                {
+                    "name": "Bali",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "1352",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/1352/bali",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/1352/bali"
+                },
+                {
+                    "name": "Bargain Hunter",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "338",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/338/bargain-hunter",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/338/bargain-hunter"
+                },
+                {
+                    "name": "Bauer sucht Frau: Das Kartenspiel",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "84788",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/84788/bauer-sucht-frau-das-kartenspiel",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/84788/bauer-sucht-frau-das-kartenspiel"
+                },
+                {
+                    "name": "Bean Trader",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "4395",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/4395/bean-trader",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/4395/bean-trader"
+                },
+                {
+                    "name": "Black Forest",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "420805",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/420805/black-forest",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/420805/black-forest"
+                },
+                {
+                    "name": "Bohn Camillo",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "103186",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/103186/bohn-camillo",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/103186/bohn-camillo"
+                },
+                {
+                    "name": "Bohn Hansa: Die Städtemehrheiten",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "16178",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/16178/bohn-hansa-die-stadtemehrheiten",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/16178/bohn-hansa-die-stadtemehrheiten"
+                },
+                {
+                    "name": "Bohn to Be Wild!",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "128412",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/128412/bohn-to-be-wild",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/128412/bohn-to-be-wild"
+                },
+                {
+                    "name": "Bohna Nostra",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "285164",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/285164/bohna-nostra",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/285164/bohna-nostra"
+                },
+                {
+                    "name": "Bohnanza",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "11",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/11/bohnanza",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/11/bohnanza"
+                },
+                {
+                    "name": "Bohnanza Erweiterungs-Set",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "467",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/467/bohnanza-erweiterungs-set",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/467/bohnanza-erweiterungs-set"
+                },
+                {
+                    "name": "Bohnanza Erweiterungs-Set (Revised Edition)",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "1494",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/1494/bohnanza-erweiterungs-set-revised-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/1494/bohnanza-erweiterungs-set-revised-edition"
+                },
+                {
+                    "name": "Bohnanza Fun & Easy",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "81100",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/81100/bohnanza-fun-and-easy",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/81100/bohnanza-fun-and-easy"
+                },
+                {
+                    "name": "Bohnanza Schnupperspiel",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "168452",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/168452/bohnanza-schnupperspiel",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/168452/bohnanza-schnupperspiel"
+                },
+                {
+                    "name": "Bohnanza: 20 Jahre",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "217261",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/217261/bohnanza-20-jahre",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/217261/bohnanza-20-jahre"
+                },
+                {
+                    "name": "Bohnanza: 25th Anniversary Edition",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "351605",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/351605/bohnanza-25th-anniversary-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/351605/bohnanza-25th-anniversary-edition"
+                },
+                {
+                    "name": "Bohnanza: Amigo Bohnentaler",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "14118",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/14118/bohnanza-amigo-bohnentaler",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/14118/bohnanza-amigo-bohnentaler"
+                },
+                {
+                    "name": "Bohnanza: Bean Market",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "189272",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/189272/bohnanza-bean-market",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/189272/bohnanza-bean-market"
+                },
+                {
+                    "name": "Bohnanza: Bohnaparte & High Bohn",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "174239",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/174239/bohnanza-bohnaparte-and-high-bohn",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/174239/bohnanza-bohnaparte-and-high-bohn"
+                },
+                {
+                    "name": "Bohnanza: Dahlias",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "386906",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/386906/bohnanza-dahlias",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/386906/bohnanza-dahlias"
+                },
+                {
+                    "name": "Bohnanza: Das Fanbuch",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "43237",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/43237/bohnanza-das-fanbuch",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/43237/bohnanza-das-fanbuch"
+                },
+                {
+                    "name": "Bohnanza: Das Würfelspiel",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "368093",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/368093/bohnanza-das-wurfelspiel",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/368093/bohnanza-das-wurfelspiel"
+                },
+                {
+                    "name": "Bohnanza: Erdnuss",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "261341",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/261341/bohnanza-erdnuss",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/261341/bohnanza-erdnuss"
+                },
+                {
+                    "name": "Bohnanza: La Isla Bohnitâ",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "453",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/453/bohnanza-la-isla-bohnita",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/453/bohnanza-la-isla-bohnita"
+                },
+                {
+                    "name": "Bohnanza: Ladies & Gangsters",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "168421",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/168421/bohnanza-ladies-and-gangsters",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/168421/bohnanza-ladies-and-gangsters"
+                },
+                {
+                    "name": "Bohnanza: Princes & Pirates",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "168425",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/168425/bohnanza-princes-and-pirates",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/168425/bohnanza-princes-and-pirates"
+                },
+                {
+                    "name": "Bohnanza: Spiderbeans",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "35428",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/35428/bohnanza-spiderbeans",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/35428/bohnanza-spiderbeans"
+                },
+                {
+                    "name": "Bohnanza: The Duel",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "205867",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/205867/bohnanza-the-duel",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/205867/bohnanza-the-duel"
+                },
+                {
+                    "name": "Bohnanza+",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "439086",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/439086/bohnanza-plus",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/439086/bohnanza-plus"
+                },
+                {
+                    "name": "Bohnaparte",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "6264",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/6264/bohnaparte",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/6264/bohnaparte"
+                },
+                {
+                    "name": "Bohnaparte: Liberté! Egalité! Bohnité!",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "378111",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/378111/bohnaparte-liberte-egalite-bohnite",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/378111/bohnaparte-liberte-egalite-bohnite"
+                },
+                {
+                    "name": "Bohnedikt",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "59416",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/59416/bohnedikt",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/59416/bohnedikt"
+                },
+                {
+                    "name": "Bohnedikt",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "205687",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/205687/bohnedikt",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/205687/bohnedikt"
+                },
+                {
+                    "name": "Bohniläum",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "439088",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/439088/bohnilaum",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/439088/bohnilaum"
+                },
+                {
+                    "name": "Bohnkick",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "21631",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/21631/bohnkick",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/21631/bohnkick"
+                },
+                {
+                    "name": "Bohnröschen",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "31419",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/31419/bohnroschen",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/31419/bohnroschen"
+                },
+                {
+                    "name": "Caverna: Cave vs Cave",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "220520",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/220520/caverna-cave-vs-cave",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/220520/caverna-cave-vs-cave"
+                },
+                {
+                    "name": "Caverna: Cave vs Cave – Era II",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "258647",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/258647/caverna-cave-vs-cave-era-ii",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/258647/caverna-cave-vs-cave-era-ii"
+                },
+                {
+                    "name": "Caverna: Cave vs Cave – The Big Box",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "330021",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/330021/caverna-cave-vs-cave-the-big-box",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/330021/caverna-cave-vs-cave-the-big-box"
+                },
+                {
+                    "name": "Caverna: Christmas Chamber",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "154204",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/154204/caverna-christmas-chamber",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/154204/caverna-christmas-chamber"
+                },
+                {
+                    "name": "Caverna: Frantic Fiends",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "322816",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/322816/caverna-frantic-fiends",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/322816/caverna-frantic-fiends"
+                },
+                {
+                    "name": "Caverna: The Cave Farmers",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "102794",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/102794/caverna-the-cave-farmers",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/102794/caverna-the-cave-farmers"
+                },
+                {
+                    "name": "Caverna: The Forgotten Folk",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "245932",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/245932/caverna-the-forgotten-folk",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/245932/caverna-the-forgotten-folk"
+                },
+                {
+                    "name": "Caverna: The Forgotten Folk – Halflings promo",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "248951",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/248951/caverna-the-forgotten-folk-halflings-promo",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/248951/caverna-the-forgotten-folk-halflings-promo"
+                },
+                {
+                    "name": "Clash of Magic Schools",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "401185",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/401185/clash-of-magic-schools",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/401185/clash-of-magic-schools"
+                }
+            ],
+            "boardgamesolodesigner": [],
+            "boardgameartist": [
+                {
+                    "name": "Bohnedikt",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "205687",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/205687/bohnedikt",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/205687/bohnedikt"
+                },
+                {
+                    "name": "Caverna: Cave vs Cave – Era II",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "258647",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/258647/caverna-cave-vs-cave-era-ii",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/258647/caverna-cave-vs-cave-era-ii"
+                },
+                {
+                    "name": "The Game of Authors",
+                    "sortindex": "5",
+                    "objecttype": "thing",
+                    "objectid": "11670",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/11670/the-game-of-authors",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/11670/the-game-of-authors"
+                }
+            ],
+            "boardgamedeveloper": [],
+            "boardgamegraphicdesigner": [],
+            "boardgamesculptor": [],
+            "boardgameeditor": [
+                {
+                    "name": "At the Gates of Loyang",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "39683",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/39683/at-the-gates-of-loyang",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/39683/at-the-gates-of-loyang"
+                },
+                {
+                    "name": "Glass Road",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "143693",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgame/143693/glass-road",
+                    "canonical_link": "https://boardgamegeek.com/boardgame/143693/glass-road"
+                }
+            ],
+            "boardgameinsertdesigner": [],
+            "boardgamewriter": [],
+            "boardgameaccessorydesigner": [
+                {
+                    "name": "Nova Luna: Scoresheet",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "328201",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameaccessory/328201/nova-luna-scoresheet",
+                    "canonical_link": "https://boardgamegeek.com/boardgameaccessory/328201/nova-luna-scoresheet"
+                },
+                {
+                    "name": "Patchwork: Upgrade Kit",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "169115",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameaccessory/169115/patchwork-upgrade-kit",
+                    "canonical_link": "https://boardgamegeek.com/boardgameaccessory/169115/patchwork-upgrade-kit"
+                }
+            ],
+            "boardgameaccessoryartist": [],
+            "boardgameversionartist": [
+                {
+                    "name": "ASS German first edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "21103",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/21103/ass-german-first-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/21103/ass-german-first-edition"
+                },
+                {
+                    "name": "Dutch edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "594772",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/594772/dutch-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/594772/dutch-edition"
+                },
+                {
+                    "name": "German edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "320752",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/320752/german-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/320752/german-edition"
+                },
+                {
+                    "name": "German edition",
+                    "sortindex": "1",
+                    "objecttype": "version",
+                    "objectid": "427770",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgameversion/427770/german-edition",
+                    "canonical_link": "https://boardgamegeek.com/boardgameversion/427770/german-edition"
+                }
+            ],
+            "boardgameissueauthor": [],
+            "boardgameissueartist": [],
+            "boardgamehonor": [
+                {
+                    "name": "2008 Golden Geek Board Game of the Year Winner",
+                    "sortindex": "1",
+                    "objecttype": "family",
+                    "objectid": "8723",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgamehonor/8723/2008-golden-geek-board-game-of-the-year-winner",
+                    "canonical_link": "https://boardgamegeek.com/boardgamehonor/8723/2008-golden-geek-board-game-of-the-year-winner"
+                },
+                {
+                    "name": "2009 JoTa Highlights of the Year Nominee",
+                    "sortindex": "1",
+                    "objecttype": "family",
+                    "objectid": "18882",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/boardgamehonor/18882/2009-jota-highlights-of-the-year-nominee",
+                    "canonical_link": "https://boardgamegeek.com/boardgamehonor/18882/2009-jota-highlights-of-the-year-nominee"
+                }
+            ],
+            "rpgdesigner": [],
+            "rpgartist": [
+                {
+                    "name": "Seven Days of the Serpent God",
+                    "sortindex": "1",
+                    "objecttype": "thing",
+                    "objectid": "416533",
+                    "primarylink": 0,
+                    "itemstate": "approved",
+                    "href": "/rpgitem/416533/seven-days-of-the-serpent-god",
+                    "canonical_link": "https://rpggeek.com/rpgitem/416533/seven-days-of-the-serpent-god"
+                }
+            ],
+            "rpgproducer": [],
+            "rpgissuedesigner": [],
+            "rpgissueartist": [],
+            "rpgissueproducer": [],
+            "rpgissuearticleauthor": [],
+            "rpghonor": []
+        },
+        "linkcounts": {
+            "boardgamedesigner": 269,
+            "boardgamesolodesigner": 0,
+            "boardgameartist": 3,
+            "boardgamedeveloper": 0,
+            "boardgamegraphicdesigner": 0,
+            "boardgamesculptor": 0,
+            "boardgameeditor": 2,
+            "boardgameinsertdesigner": 0,
+            "boardgamewriter": 0,
+            "boardgameaccessorydesigner": 2,
+            "boardgameaccessoryartist": 0,
+            "boardgameversionartist": 4,
+            "boardgameissueauthor": 0,
+            "boardgameissueartist": 0,
+            "boardgamehonor": 2,
+            "rpgdesigner": 0,
+            "rpgartist": 1,
+            "rpgproducer": 0,
+            "rpgissuedesigner": 0,
+            "rpgissueartist": 0,
+            "rpgissueproducer": 0,
+            "rpgissuearticleauthor": 0,
+            "rpghonor": 0
+        },
+        "linkcounts_chain": {
+            "boardgamedesigner": 46,
+            "boardgameartist": 0,
+            "rpgdesigner": 0,
+            "rpgartist": 0,
+            "rpgproducer": 0
+        },
+        "secondarynamescount": 0,
+        "alternatenamescount": 1,
+        "primaryname": {
+            "nameid": "48796",
+            "name": "Uwe Rosenberg",
+            "sortindex": "5",
+            "primaryname": "1",
+            "translit": "Uwe Rosenberg"
+        },
+        "alternatenames": [
+            {
+                "nameid": "280205",
+                "name": "烏·玫瑰山"
+            }
+        ],
+        "description": "<p>Uwe Rosenberg (* 27. M&auml;rz 1970 in Aurich/Ostfriesland) ist ein deutscher Spieleautor. Bekannt geworden ist er vor allem durch das Kartenspiel Bohnanza, welches auch in den Niederlanden und den USA sehr erfolgreich ist.</p>\n\n<p>Rosenberg begann bereits w&auml;hrend der Sch&uuml;lerzeit, sich mit der Entwicklung und den Mechanismen von Spielen zu besch&auml;ftigen. In dieser Zeit ver&ouml;ffentlichte er einige Postspiele, die heute zum Teil auf der Internetplattform <a rel=\"nofollow\" href=\"http://www.omido.de\" onclick=\"window.open(this.href, '_blank'); return false;\">www.omido.de</a> angeboten werden. Die Ver&ouml;ffentlichung seines bekanntesten Spiels, Bohnanza bei Amigo, f&auml;llt in seine Studentenzeit. Seit Abschluss seines Statistik-Studiums (Thema der Diplomarbeit: Wahrscheinlichkeitsverteilungen beim Memory) in Dortmund widmet er sich hauptberuflich der Entwicklung von Spielen.</p>\n\n<p>Im Jahr 2000 gr&uuml;ndete er mit anderen Autoren den Kleinverlag Lookout Games. Hier wurden unter anderem diverse Erweiterungen zu Bohnanza ver&ouml;ffentlicht, teilweise in Zusammenarbeit mit Hanno Girke. Gr&ouml;&szlig;ere Projekte werden jedoch weiterhin bei anderen Verlagen, z. B. Amigo und Kosmos, ver&ouml;ffentlicht.</p>\n\n<p>Rosenberg hat sich vor allem durch die Entwicklung innovativer Kartenspielmechanismen einen Namen gemacht. Ein weiterer Schwerpunkt seines Schaffens sind rechercheintensive Spiele, die skurrile Ereignisse aus der Vergangenheit thematisieren, und Spiele, die sich mit Frauen- und M&auml;nnerklischees besch&auml;ftigen. Seit 2005 konzentriert er sich auf komplexe Aufbauspiele mit Wirtschaftsthematik: Sein erstes, Agricola, ist im Oktober 2007 erschienen. Als zweites Spiel in dieser Reihe ist im Oktober 2008 Le Havre erschienen.</p>\n\n<p>Seit dem 18. Mai 2007 ist er mit Susanne Balders verheiratet. Er lebt heute in G&uuml;tersloh und unterhielt bis Ende 2011 sein Atelier in Dortmund.</p>\n\n<p>(Quelle: Seite &quot;Uwe Rosenberg&quot;. In: Wikipedia, Die freie Enzyklop&auml;die. Bearbeitungsstand: 9. Mai 2009, 20:56 UTC. URL: <a rel=\"nofollow\" href=\"http://de.wikipedia.org/w/index.php?title=Uwe_Rosenberg&amp;oldid=59883940\" onclick=\"window.open(this.href, '_blank'); return false;\">http://de.wikipedia.org/w/index.php?title=Uwe_Rosenberg&amp;oldid=59883940</a> (Abgerufen: 27. Mai 2009, 15:06 UTC))</p>\n\n<hr />\n<p>Uwe Rosenberg (born 27 March 1970 in Aurich, Germany) is a German game designer. He has become known mainly for his card game Bohnanza, which is successful both in Germany as internationally. He also designed Agricola, a game that dethroned Puerto Rico as the highest rated game on BoardGameGeek.com.</p>\n\n<p>Rosenberg first began to occupy himself with the development and mechanisms of games during his school years. During that time, he published a number of play-by-mail games, some of which are now available at www.omido.de. When he was a student, Amigo published his best-known game, Bohnanza. Since finishing his statistics studies in Dortmund (the subject of his thesis was &quot;Probability distributions in Memory&quot;), his main occupation is the development of games.[1]</p>\n\n<p>In 2000, he founded the small publishing company Lookout Games, together with a few other authors. It published a number of expansions to Bohnanza, partly in cooperation with Hanno Girke. Larger projects were still published at other publishers, such as Amigo and Kosmos.</p>\n\n<p>Rosenberg is well known for the development of innovative card game mechanisms. Another main point of his work are the research-intensive games, that have peculiar historical events as their theme, and games that deal with clich&eacute;s about men and women. Since 2005, he focusses on complex building games with an economic theme: his first, Agricola, was released in October 2007. As second game in this series, Le Havre was published in October 2008.</p>\n\n<p>He married Susanne Balders on 18 May 2007. He lives in G&uuml;tersloh and works at his studio in Dortmund.</p>\n\n<p>(Source: Uwe Rosenberg. (2009, May 9). In Wikipedia, The Free Encyclopedia. Retrieved 15:10, May 27, 2009, from <a rel=\"nofollow\" href=\"http://en.wikipedia.org/w/index.php?title=Uwe_Rosenberg&amp;oldid=288939034\" onclick=\"window.open(this.href, '_blank'); return false;\">http://en.wikipedia.org/w/index.php?title=Uwe_Rosenberg&amp;oldid=288939034</a> )</p>\n\n<p>Co-founded the <a  href=\"/boardgamepublisher/22380/feuerland-spiele\"   >Feuerland Spiele</a> publishing company in 2012.</p>\n\n<hr />\n<p><strong>Abridged List of Notable Games</strong></p>\n\n<ul>\n    <li> 1997 <a  href=\"/boardgame/11/bohnanza\"   >Bohnanza</a></li>\n    <li> 1998 <a  href=\"/boardgame/338/bargain-hunter\"   >Bargain Hunter</a></li>\n    <li> 1999 <a  href=\"/boardgame/102/klunker\"   >Klunker</a></li>\n    <li> 1999 <a  href=\"/boardgame/49/mamma-mia\"   >Mamma Mia!</a></li>\n    <li> 2000 <a  href=\"/boardgame/986/babel\"   >Babel</a></li>\n    <li> 2002 <a  href=\"/boardgame/4395/bean-trader\"   >Bean Trader</a></li>\n    <li> 2003 <a  href=\"/boardgame/8179/yellowstone-park\"   >Yellowstone Park</a></li>\n    <li> 2004 <a  href=\"/boardgame/13530/sole-mio\"   >Sole Mio!</a></li>\n    <li> 2007 <a  href=\"/boardgame/31260/agricola\"   >Agricola</a></li>\n    <li> 2008 <a  href=\"/boardgame/35677/le-havre\"   >Le Havre</a></li>\n    <li> 2009 <a  href=\"/boardgame/39683/at-the-gates-of-loyang\"   >At the Gates of Loyang</a></li>\n    <li> 2010 <a  href=\"/boardgame/39684/merkator\"   >Merkator</a></li>\n    <li> 2011 <a  href=\"/boardgame/70149/ora-et-labora\"   >Ora et Labora</a></li>\n    <li> 2012 <a  href=\"/boardgame/111148/wurfel-bohnanza\"   >Würfel Bohnanza</a></li>\n    <li> 2012 <a  href=\"/boardgame/119890/agricola-all-creatures-big-and-small\"   >Agricola: All Creatures Big and Small</a></li>\n    <li> 2012 <a  href=\"/boardgame/129051/le-havre-the-inland-port\"   >Le Havre: The Inland Port</a></li>\n    <li> 2013 <a  href=\"/boardgame/143693/glass-road\"   >Glass Road</a></li>\n    <li> 2013 <a  href=\"/boardgame/102794/caverna-the-cave-farmers\"   >Caverna: The Cave Farmers</a></li>\n    <li> 2014 <a  href=\"/boardgame/163412/patchwork\"   >Patchwork</a></li>\n    <li> 2014 <a  href=\"/boardgame/159675/fields-of-arle\"   >Fields of Arle</a></li>\n    <li> 2015 <a  href=\"/boardgame/182875/hengist\"   >Hengist</a></li>\n    <li> 2016 <a  href=\"/boardgame/177736/a-feast-for-odin\"   >A Feast for Odin</a></li>\n    <li> 2016 <a  href=\"/boardgame/204027/cottage-garden\"   >Cottage Garden</a></li>\n    <li> 2017 <a  href=\"/boardgame/234277/nusfjord\"   >Nusfjord</a></li>\n    <li> 2017 <a  href=\"/boardgame/233678/indian-summer\"   >Indian Summer</a></li>\n    <li> 2017 <a  href=\"/boardgame/220520/caverna-cave-vs-cave\"   >Caverna: Cave vs Cave</a></li>\n    <li> 2018 <a  href=\"/boardgame/241831/reykholt\"   >Reykholt</a></li>\n    <li> 2018 <a  href=\"/boardgame/253684/spring-meadow\"   >Spring Meadow</a></li>\n    <li> 2019 <a  href=\"/boardgame/280132/robin-of-locksley\"   >Robin of Locksley</a></li>\n    <li> 2019 <a  href=\"/boardgame/284435/nova-luna\"   >Nova Luna</a></li>\n    <li> 2020 <a  href=\"/boardgame/288775/fairy-trails\"   >Fairy Trails</a></li>\n    <li> 2020 <a  href=\"/boardgame/309105/sagani\"   >Sagani</a></li>\n    <li> 2020 <a  href=\"/boardgame/300322/hallertau\"   >Hallertau</a></li>\n    <li> 2020 <a  href=\"/boardgame/300877/new-york-zoo\"   >New York Zoo</a></li>\n    <li> 2021 <a  href=\"/boardgame/341009/armonia\"   >Armonia</a></li>\n    <li> 2021 <a  href=\"/boardgame/341918/tulpenfieber\"   >Tulpenfieber</a></li>\n    <li> 2022 <a  href=\"/boardgame/352695/oranienburger-kanal\"   >Oranienburger Kanal</a></li>\n    <li> 2022 <a  href=\"/boardgame/362452/atiwa\"   >Atiwa</a></li>\n    <li> 2022 <a  href=\"/boardgame/367662/applejack\"   >Applejack</a></li>\n    <li> 2022 <a  href=\"/boardgame/353152/framework\"   >Framework</a></li>\n    <li> 2023 <a  href=\"/boardgame/388339/planta-nubo\"   >Planta Nubo</a> (with Michael Keller (II) &amp; Andreas &quot;ode.&quot; Odendahl)</li>\n    <li> 2023 <a  href=\"/boardgame/391497/tangram-city\"   >Tangram City</a></li>\n    <li> 2023 <a  href=\"/boardgame/352695/oranienburger-kanal\"   >Oranienburger Kanal</a></li>\n    <li> 2024 <a  href=\"/boardgame/420805/black-forest\"   >Black Forest</a> (with Tido Lorenz)</li>\n    <li> 2025 <a  href=\"/boardgame/399959/click-a-tree\"   >Click A Tree</a></li>\n</ul>\n\n<hr />\n<p><strong>Microbadges for Uwe's fans:</strong> <a href=\"/microbadge/11461\"><img alt='Microbadge: Uwe Rosenberg fan' onmouseover=\"return overlib('Uwe Rosenberg fan', WRAP );\" onmouseout=\"return nd();\" title=''class='mbimg'loading=\"lazy\"src=\"https://cf.geekdo-static.com/mbs/mb_11461_0.jpg\"></a> <a href=\"/microbadge/11680\"><img alt='Microbadge: Uwe Rosenberg fan' onmouseover=\"return overlib('Uwe Rosenberg fan', WRAP );\" onmouseout=\"return nd();\" title=''class='mbimg'loading=\"lazy\"src=\"https://cf.geekdo-static.com/mbs/mb_11680_0.png\"></a> <a href=\"/microbadge/11698\"><img alt='Microbadge: Uwe Rosenberg fan' onmouseover=\"return overlib('Uwe Rosenberg fan', WRAP );\" onmouseout=\"return nd();\" title=''class='mbimg'loading=\"lazy\"src=\"https://cf.geekdo-static.com/mbs/mb_11698_1.png\"></a></p>\n\n",
+        "wiki": "<span class='text-muted'>This page does not exist. You can edit this page to create it.</span>",
+        "website": {
+            "url": false
+        },
+        "imageid": "537818",
+        "images": {
+            "thumb": "https://cf.geekdo-images.com/3LC1yhKGgJsQjmnzpgpQQg__small/img/hCi_p-3WY5FqJH8TmYrpmaafRmw=/fit-in/200x150/filters:strip_icc()/pic537818.jpg",
+            "micro": "https://cf.geekdo-images.com/3LC1yhKGgJsQjmnzpgpQQg__micro/img/1Jo_8p_bgzQaX0EDR-tzAgAX70s=/fit-in/64x64/filters:strip_icc()/pic537818.jpg",
+            "square": "https://cf.geekdo-images.com/3LC1yhKGgJsQjmnzpgpQQg__square/img/uHez3jEEY3cnRKyxfhSWHkpNFo8=/75x75/filters:strip_icc()/pic537818.jpg",
+            "tallthumb": "https://cf.geekdo-images.com/3LC1yhKGgJsQjmnzpgpQQg__tallthumb/img/OMC5mZhbCgbS9jf687IoeknximI=/fit-in/75x125/filters:strip_icc()/pic537818.jpg",
+            "previewthumb": "https://cf.geekdo-images.com/3LC1yhKGgJsQjmnzpgpQQg__previewthumb/img/LOqHXliIX8ypy0i8zBgAlBMLSt4=/fit-in/300x320/filters:strip_icc()/pic537818.jpg",
+            "square200": "https://cf.geekdo-images.com/3LC1yhKGgJsQjmnzpgpQQg__square200/img/hQBEi2FTMShW3WolZLIdzetFRl0=/200x200/filters:strip_icc()/pic537818.jpg",
+            "original": "https://cf.geekdo-images.com/3LC1yhKGgJsQjmnzpgpQQg__original/img/FpsW2d2InrRVFfl7CdMbmiWjsrI=/0x0/filters:format(jpeg)/pic537818.jpg"
+        },
+        "imagepagehref": "/image/537818/agricola",
+        "imageurl": "https://cf.geekdo-images.com/3LC1yhKGgJsQjmnzpgpQQg__itemrep/img/ecpCZkDuvUTd8xb2nke8IAPvbgI=/fit-in/246x300/filters:strip_icc()/pic537818.jpg",
+        "imageurl@2x": "https://cf.geekdo-images.com/3LC1yhKGgJsQjmnzpgpQQg__itemrep@2x/img/OeIdXmB5s74oYdHbnhBr2heV59U=/fit-in/492x600/filters:strip_icc()/pic537818.jpg",
+        "topimageurl": "https://cf.geekdo-images.com/hUCWfVdRZcm9xTy3ioT_2Q__itemheader/img/cTR2AQno3Assilva6_uPuNv_auw=/800x450/filters:quality(30):strip_icc()/pic3212792.jpg",
+        "imageSets": {
+            "square100": {
+                "src": "https://cf.geekdo-images.com/3LC1yhKGgJsQjmnzpgpQQg__square100/img/rHwByHrI27ATennCJwbx7f8V4gU=/100x100/filters:strip_icc()/pic537818.jpg",
+                "src@2x": "https://cf.geekdo-images.com/3LC1yhKGgJsQjmnzpgpQQg__square100@2x/img/hQBEi2FTMShW3WolZLIdzetFRl0=/200x200/filters:strip_icc()/pic537818.jpg"
+            },
+            "mediacard": {
+                "src": "https://cf.geekdo-images.com/3LC1yhKGgJsQjmnzpgpQQg__mediacard/img/fVgvBb5IhdbvqsFDW49w_U-2EOM=/288x162/filters:strip_icc()/pic537818.jpg",
+                "src@2x": "https://cf.geekdo-images.com/3LC1yhKGgJsQjmnzpgpQQg__mediacard@2x/img/cwNtK1jsBZGQqnJ0ZHseSoCxDjg=/576x324/filters:strip_icc()/pic537818.jpg"
+            }
+        },
+        "itemstate": "approved",
+        "promoted_ad": null,
+        "special_user": {
+            "username": "BohnanZar",
+            "userid": "158144"
+        }
+    }
+}

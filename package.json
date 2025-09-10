@@ -9,6 +9,7 @@
     ],
     "scripts": {
         "dev": "npx http-server -o dist",
+        "docs": "typedoc",
         "rollup": "rollup -c --bundleConfigAsCjs",
         "watch": "rollup -c --bundleConfigAsCjs --watch"
     },
@@ -31,6 +32,8 @@
         "rollup-plugin-postcss": "^4.0.2",
         "tailwindcss": "^4.1.12",
         "tslib": "^2.8.1",
+        "typedoc": "^0.28.12",
+        "typedoc-plugin-markdown": "^4.8.1",
         "typescript": "^5.9.2"
     },
     "dependencies": {
